@@ -1,0 +1,1395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gexf>
+  <graph>
+    <nodes>
+      <node id="{增长}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-04</data>
+        <data key="name">{增长}</data>
+      </node>
+      <node id="{搜索-选择}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-04-28</data>
+        <data key="name">{搜索-选择}</data>
+      </node>
+      <node id="{发表-谈话}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-02</data>
+        <data key="name">{发表-谈话}</data>
+      </node>
+      <node id="{申请-公开}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-04-26</data>
+        <data key="name">{申请-公开}</data>
+      </node>
+      <node id="{公布-发行}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-03-04</data>
+        <data key="name">{公布-发行}</data>
+      </node>
+      <node id="{发现}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-02</data>
+        <data key="name">{发现}</data>
+      </node>
+      <node id="{遭遇}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-02</data>
+        <data key="name">{遭遇}</data>
+      </node>
+      <node id="{审批-工作}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-04</data>
+        <data key="name">{审批-工作}</data>
+      </node>
+      <node id="{致电-父母}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-01</data>
+        <data key="name">{致电-父母}</data>
+      </node>
+      <node id="{公布}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-04-28</data>
+        <data key="name">{公布}</data>
+      </node>
+      <node id="{抓获-嫌疑人}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-26</data>
+        <data key="name">{抓获-嫌疑人}</data>
+      </node>
+      <node id="{违规}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-31</data>
+        <data key="name">{违规}</data>
+      </node>
+      <node id="{上市}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-03</data>
+        <data key="name">{上市}</data>
+      </node>
+      <node id="{搜索}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-03</data>
+        <data key="name">{搜索}</data>
+      </node>
+      <node id="{采访-父母}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-01</data>
+        <data key="name">{采访-父母}</data>
+      </node>
+      <node id="{病逝}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-04-12</data>
+        <data key="name">{病逝}</data>
+      </node>
+      <node id="{公布-调查}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-02</data>
+        <data key="name">{公布-调查}</data>
+      </node>
+      <node id="{拨通-电话}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-01</data>
+        <data key="name">{拨通-电话}</data>
+      </node>
+      <node id="{放弃-收购}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-06-03</data>
+        <data key="name">{放弃-收购}</data>
+      </node>
+      <node id="{举报}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-02</data>
+        <data key="name">{举报}</data>
+      </node>
+      <node id="{核实}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-03</data>
+        <data key="name">{核实}</data>
+      </node>
+      <node id="{发表-讲话}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-02</data>
+        <data key="name">{发表-讲话}</data>
+      </node>
+      <node id="{现身-大学}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-10-18</data>
+        <data key="name">{现身-大学}</data>
+      </node>
+      <node id="{拥护-整改}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-09</data>
+        <data key="name">{拥护-整改}</data>
+      </node>
+      <node id="{否认}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-03</data>
+        <data key="name">{否认}</data>
+      </node>
+      <node id="{收到-交易所}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-03</data>
+        <data key="name">{收到-交易所}</data>
+      </node>
+      <node id="{申请-下发}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-03</data>
+        <data key="name">{申请-下发}</data>
+      </node>
+      <node id="{发表-公告}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-04</data>
+        <data key="name">{发表-公告}</data>
+      </node>
+      <node id="{公布-事件}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-09</data>
+        <data key="name">{公布-事件}</data>
+      </node>
+      <node id="{整改}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-09</data>
+        <data key="name">{整改}</data>
+      </node>
+      <node id="{审核-内容}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-09</data>
+        <data key="name">{审核-内容}</data>
+      </node>
+      <node id="{质疑-讲话}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-09-10</data>
+        <data key="name">{质疑-讲话}</data>
+      </node>
+      <node id="{遭遇-重击}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-04</data>
+        <data key="name">{遭遇-重击}</data>
+      </node>
+      <node id="{求助}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-07-29</data>
+        <data key="name">{求助}</data>
+      </node>
+      <node id="{申请-核查}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-03</data>
+        <data key="name">{申请-核查}</data>
+      </node>
+      <node id="{告破}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-26</data>
+        <data key="name">{告破}</data>
+      </node>
+      <node id="{回答}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-05</data>
+        <data key="name">{回答}</data>
+      </node>
+      <node id="{发现-发布}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-03-04</data>
+        <data key="name">{发现-发布}</data>
+      </node>
+      <node id="{审查-服务}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-31</data>
+        <data key="name">{审查-服务}</data>
+      </node>
+      <node id="{申请-内容}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-04-26</data>
+        <data key="name">{申请-内容}</data>
+      </node>
+      <node id="{调查}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-09</data>
+        <data key="name">{调查}</data>
+      </node>
+      <node id="{搜索-调查}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-09</data>
+        <data key="name">{搜索-调查}</data>
+      </node>
+      <node id="{去世}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-04-12</data>
+        <data key="name">{去世}</data>
+      </node>
+      <node id="{否认-中心}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-03</data>
+        <data key="name">{否认-中心}</data>
+      </node>
+      <node id="{申请-复牌}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-27</data>
+        <data key="name">{申请-复牌}</data>
+      </node>
+      <node id="{发酵}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-01</data>
+        <data key="name">{发酵}</data>
+      </node>
+      <node id="{放弃-业务}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-03</data>
+        <data key="name">{放弃-业务}</data>
+      </node>
+      <node id="{进驻-公司}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-02</data>
+        <data key="name">{进驻-公司}</data>
+      </node>
+      <node id="{搜索-网站}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-03</data>
+        <data key="name">{搜索-网站}</data>
+      </node>
+      <node id="{透露-会同}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-02</data>
+        <data key="name">{透露-会同}</data>
+      </node>
+      <node id="{澄清-发生}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-04</data>
+        <data key="name">{澄清-发生}</data>
+      </node>
+      <node id="{误导-网民}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-09</data>
+        <data key="name">{误导-网民}</data>
+      </node>
+      <node id="{通报}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-26</data>
+        <data key="name">{通报}</data>
+      </node>
+      <node id="{发表-公开信}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-03</data>
+        <data key="name">{发表-公开信}</data>
+      </node>
+      <node id="{问询-通知}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-04</data>
+        <data key="name">{问询-通知}</data>
+      </node>
+      <node id="{收到}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-03</data>
+        <data key="name">{收到}</data>
+      </node>
+      <node id="{关联-交易}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-04-12</data>
+        <data key="name">{关联-交易}</data>
+      </node>
+      <node id="{搜索-频道}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-19</data>
+        <data key="name">{搜索-频道}</data>
+      </node>
+      <node id="{收到-问询函}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-03</data>
+        <data key="name">{收到-问询函}</data>
+      </node>
+      <node id="{调查-资质}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-04-28</data>
+        <data key="name">{调查-资质}</data>
+      </node>
+      <node id="{取消}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-04</data>
+        <data key="name">{取消}</data>
+      </node>
+      <node id="{关联-关系}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-04-12</data>
+        <data key="name">{关联-关系}</data>
+      </node>
+      <node id="{打断-生活}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-09-03</data>
+        <data key="name">{打断-生活}</data>
+      </node>
+      <node id="{调查-百度}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-02</data>
+        <data key="name">{调查-百度}</data>
+      </node>
+      <node id="{发表-声明}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-01</data>
+        <data key="name">{发表-声明}</data>
+      </node>
+      <node id="{公开}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-04-26</data>
+        <data key="name">{公开}</data>
+      </node>
+      <node id="{涉嫌-承包}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-28</data>
+        <data key="name">{涉嫌-承包}</data>
+      </node>
+      <node id="{拨通-热线}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-01</data>
+        <data key="name">{拨通-热线}</data>
+      </node>
+      <node id="{投资}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-04-11</data>
+        <data key="name">{投资}</data>
+      </node>
+      <node id="{审查-搜索}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-04-28</data>
+        <data key="name">{审查-搜索}</data>
+      </node>
+      <node id="{申请}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-04</data>
+        <data key="name">{申请}</data>
+      </node>
+      <node id="{进驻-百度}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-02</data>
+        <data key="name">{进驻-百度}</data>
+      </node>
+      <node id="{回访-中心}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-02</data>
+        <data key="name">{回访-中心}</data>
+      </node>
+      <node id="{审查-申请函}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-01</data>
+        <data key="name">{审查-申请函}</data>
+      </node>
+      <node id="{申请-回复}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-05</data>
+        <data key="name">{申请-回复}</data>
+      </node>
+      <node id="{感谢-关爱}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-04-12</data>
+        <data key="name">{感谢-关爱}</data>
+      </node>
+      <node id="{申请-停牌}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-05-03</data>
+        <data key="name">{申请-停牌}</data>
+      </node>
+      <node id="{病逝}_e" labels=":EVENTNODE">
+        <data key="trigger">[{病逝}]</data>
+        <data key="title">今年4月12日，这位西安电子科技大学计算机系的学生，在查出患有罕见的恶性滑膜肉瘤两年后，在咸阳家中病逝</data>
+        <data key="time">2016-04-12</data>
+        <data key="person">[]</data>
+        <data key="location">[咸阳]</data>
+        <data key="organization">[西安电子科技大学]</data>
+        <data key="keywords">[西安, 电子, 科技, 大学, 计算机系, 学生, 查出, 滑膜, 肉瘤, 家中, 病逝]</data>
+      </node>
+      <node id="{采访-父母}_e" labels=":EVENTNODE">
+        <data key="trigger">[{致电-父母}, {采访-父母}]</data>
+        <data key="title">和每一个普通人一样，我们为年轻的生命难过，因此我们在了解情况后的第一时间就致电了则西的父母，这里有一个需要郑重澄清的事实，源自一篇媒体报道——5月1日22点某网站所谓的独家授权报道里，声称采访了魏则西的父母，“事实上，百度从未与他们联系过”</data>
+        <data key="time">2016-05-01</data>
+        <data key="person">[魏则西]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[普通人, 生命, 情况, 时间, 致电, 父母, 澄清, 事实, 源自, 媒体, 报道, 网站, 授权, 声称, 采访, 百度]</data>
+      </node>
+      <node id="{公布-调查}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发表-谈话}, {举报}, {进驻-公司}, {公布-调查}]</data>
+        <data key="title">值得注意的是，国家互联网信息办公室(以下简称国家网信办)发言人姜军昨日(5月2日)发表谈话指出，根据网民举报，国家网信办会同国家工商总局、国家卫计委成立联合调查组进驻百度公司，对魏则西事件及互联网企业依法经营事项进行调查并依法处理，联合调查组将适时公布调查和处理结果</data>
+        <data key="time">2016-05-02</data>
+        <data key="person">[姜军, 魏则西]</data>
+        <data key="location">[]</data>
+        <data key="organization">[国家工商总局, 国家卫计委, 国家互联网信息办公室, 百度公司, 国家网信办]</data>
+        <data key="keywords">[值得, 国家, 互联网, 信息, 办公室, 简称, 网信办, 发言人, 发表, 谈话, 指出, 网民, 举报, 会同, 工商, 总局, 计委, 成立, 联合, 调查组, 进驻, 百度, 公司, 事件, 企业, 经营, 事项, 调查, 公布]</data>
+      </node>
+      <node id="{公布-财报}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公布-财报}]</data>
+        <data key="title">百度4月28日刚公布了一季度财报：得益于公司核心业务</data>
+        <data key="time">2016-04-28</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[百度, 公布, 财报, 得益于, 公司, 核心, 业务]</data>
+      </node>
+      <node id="{拨通-电话}_e" labels=":EVENTNODE">
+        <data key="trigger">[{拨通-电话}]</data>
+        <data key="title">5月1日下午2点左右，当封面新闻记者拨通魏海全的电话时，对面传来的声音充满着疲惫</data>
+        <data key="time">2016-05-01</data>
+        <data key="person">[魏海全]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[封面, 新闻记者, 拨通, 电话, 传来, 声音, 充满]</data>
+      </node>
+      <node id="{放弃-收购}_e" labels=":EVENTNODE">
+        <data key="trigger">[{放弃-收购}, {投资}]</data>
+        <data key="title">一个月后的6月3日，随着“魏则西事件”渐渐平息，中源协和发布公告，宣布放弃收购柯莱逊，同时由控股股东天津开发区德源投资发展有限公司（下称：德源投资）及其关联方永泰红磡控股集团有限公司（下称：永泰红磡）承接了中源协和对并购基金优先级和中间级合伙人的担保责任（此前由中源协和参与发起设立的并购基金，已对柯莱逊进行了“预收购”）</data>
+        <data key="time">2016-06-03</data>
+        <data key="person">[魏则西, 德源, 柯莱逊]</data>
+        <data key="location">[永泰, 中源]</data>
+        <data key="organization">[天津开发区德源投资发展有限公司, 红磡控股集团有限公司]</data>
+        <data key="keywords">[事件, 平息, 协和, 发布, 公告, 放弃, 收购, 控股, 股东, 天津, 开发区, 投资, 发展, 有限公司, 关联方, 红磡, 集团, 承接, 并购, 基金, 优先级, 合伙人, 担保, 责任, 参与, 发起, 设立, 预收购]</data>
+      </node>
+      <node id="{调查-资质}_e" labels=":EVENTNODE">
+        <data key="trigger">[{调查-资质}]</data>
+        <data key="title">4月28日，百度通过“百度推广”微博账号中对此事做出回应，对逝者以慰问，并调查医院资质</data>
+        <data key="time">2016-04-28</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[百度, 推广, 微博, 账号, 做出, 回应, 逝者, 慰问, 调查, 医院, 资质]</data>
+      </node>
+      <node id="{发表-讲话}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发表-讲话}]</data>
+        <data key="title">5月2日晚，中央网信办负责人发表讲话宣布成立联合调查组，我们宣布欢迎调查并将积极配合，厘清事实真相</data>
+        <data key="time">2016-05-02</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[中央网信办]</data>
+        <data key="keywords">[中央, 网信办, 负责人, 发表, 讲话, 成立, 联合, 调查组, 调查, 配合, 厘清, 事实, 真相]</data>
+      </node>
+      <node id="{核实}_e" labels=":EVENTNODE">
+        <data key="trigger">[{收到-问询函}, {核实}]</data>
+        <data key="title">而在5月3日当晚，中源协和收到了来自上交所对此事的问询函，问询函要求中源协和核实并补充披露魏则西事件影响、可能承担的法律责任等事项</data>
+        <data key="time">2016-05-03</data>
+        <data key="person">[魏则西]</data>
+        <data key="location">[中源]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[协和, 收到, 上交所, 问询函, 询函, 核实, 补充, 披露, 事件, 影响, 承担, 法律, 责任, 事项]</data>
+      </node>
+      <node id="{现身-大学}_e" labels=":EVENTNODE">
+        <data key="trigger">[{现身-大学}, {遭遇}]</data>
+        <data key="title">10月18日上午消息，百度董事长兼CEO李彦宏昨晚现身中国科技大学，围绕百度无人车等进行《下一幕由你开启》的校招主题演讲，然而现场遭遇砸场，签名墙上还有学生留名“魏则西”</data>
+        <data key="time">2016-10-18</data>
+        <data key="person">[魏则西, 李彦宏]</data>
+        <data key="location">[]</data>
+        <data key="organization">[中国科技大学]</data>
+        <data key="keywords">[消息, 百度, 董事长, 现身, 中国, 科技, 大学, 围绕, 开启, 校招, 主题, 演讲, 现场, 遭遇, 签名, 墙上, 学生, 留名]</data>
+      </node>
+      <node id="{拥护-整改}_e" labels=":EVENTNODE">
+        <data key="trigger">[{拥护-整改}]</data>
+        <data key="title">新华社5月9日的报道称，百度已表示坚决拥护调查组的整改要求，深刻反思自身问题，绝不打一丝折扣</data>
+        <data key="time">2016-05-09</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[报道, 百度, 拥护, 调查组, 整改, 反思, 折扣]</data>
+      </node>
+      <node id="{调查-百度}_e" labels=":EVENTNODE">
+        <data key="trigger">[{调查-百度}, {回访-中心}]</data>
+        <data key="title">5月2日，百度因此事被调查，同一天，重案组37号（微信ID：zhonganzu37）派出多路探员，回访武警二院生物诊疗中心并请教多位医疗、法律专家，对这一事件进行全面梳理、追问</data>
+        <data key="time">2016-05-02</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[武警二院生物诊疗中心]</data>
+        <data key="keywords">[百度, 调查, 重案组, 微信, 派出, 探员, 回访, 武警, 生物, 诊疗, 中心, 请教, 医疗, 法律, 专家, 事件, 梳理, 追问]</data>
+      </node>
+      <node id="{否认}_e" labels=":EVENTNODE">
+        <data key="trigger">[{否认}]</data>
+        <data key="title">而截至5月3日，柯莱逊仍否认“承包”一说</data>
+        <data key="time">2016-05-03</data>
+        <data key="person">[柯莱逊]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[否认, 承包]</data>
+      </node>
+      <node id="{审批-工作}_e" labels=":EVENTNODE">
+        <data key="trigger">[{取消}, {审批-工作}]</data>
+        <data key="title">今日中源协和发布终止非公开发行股票公告，“魏则西事件”国家卫计委于5月4日召开电视电话会议，要求落实《国家卫生计生委关于取消第三类医疗技术临床应用准入审批有关工作的通知》文件的要求，明确自体免疫细胞治疗技术按照临床研究的相关规定执行</data>
+        <data key="time">2016-05-04</data>
+        <data key="person">[魏则西]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[源协, 发布, 终止, 发行, 股票, 公告, 事件, 国家卫, 计委, 电视电话会议, 落实, 国家, 计生委, 取消, 医疗, 技术, 准入, 审批, 工作, 通知, 文件, 自体, 免疫, 细胞, 治疗, 临床, 研究, 相关, 执行]</data>
+      </node>
+      <node id="{公开}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公开}, {申请-公开}, {申请-内容}]</data>
+        <data key="title">重庆晨报-上游新闻记者了解到，在4月26日，“互联网医疗广告打假公益联盟”的多位公益人到国家工商总局申请政府信息公开，申请公开内容为“百度推广是否属于广告”</data>
+        <data key="time">2016-04-26</data>
+        <data key="person">[]</data>
+        <data key="location">[重庆]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[晨报, 新闻记者, 互联网, 医疗, 广告, 打假, 公益, 联盟, 国家, 工商, 总局, 申请, 政府, 信息, 公开, 内容, 百度, 推广]</data>
+      </node>
+      <node id="{申请-下发}_e" labels=":EVENTNODE">
+        <data key="trigger">[{申请-下发}]</data>
+        <data key="title">5月12日晚间，中源协和发布公告称，在截止日期前，再次申请延期回复上交所于5月3日和6日下发的，关于收购“魏则西事件”涉事公司柯莱逊的问询函</data>
+        <data key="time">2016-05-03</data>
+        <data key="person">[魏则西, 柯莱逊]</data>
+        <data key="location">[中源]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[协和, 发布, 公告, 截止, 日期, 申请, 延期, 回复, 上交所, 下发, 收购, 事件, 涉事, 公司, 询函]</data>
+      </node>
+      <node id="{审查-搜索}_e" labels=":EVENTNODE">
+        <data key="trigger">[{搜索-选择}, {审查-搜索}]</data>
+        <data key="title">百度4月28日对此回应称，（魏）则西生前通过电视媒体报道和百度搜索选择的武警北京总队第二医院，百度第一时间进行了搜索结果审查，该医院是一家公立三甲医院，资质齐全</data>
+        <data key="time">2016-04-28</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[武警北京总队第二医院]</data>
+        <data key="keywords">[百度, 回应, 电视, 媒体, 报道, 搜索, 选择, 武警, 北京, 总队, 医院, 时间, 审查, 三甲, 资质]</data>
+      </node>
+      <node id="{公布-事件}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公布-事件}, {公开}]</data>
+        <data key="title">5月9日下午，国家网信办会同国家工商总局、国家卫生计生委和北京市有关部门成立的联合调查组公布“魏则西事件”调查结果，百度也随后立即提出了自己的整改方法，今天新浪科技独家公开的李彦宏内部信则一再强调“用户至上，牺牲收入在所不惜”</data>
+        <data key="time">2016-05-09</data>
+        <data key="person">[魏则西, 李彦宏]</data>
+        <data key="location">[北京市]</data>
+        <data key="organization">[国家卫生计生委, 国家工商总局, 国家网信办]</data>
+        <data key="keywords">[国家, 网信办, 会同, 工商, 总局, 计生委, 部门, 成立, 联合, 调查组, 公布, 事件, 调查, 百度, 提出, 整改, 方法, 新浪, 科技, 公开, 用户, 至上, 牺牲, 收入, 在所不惜]</data>
+      </node>
+      <node id="{进驻-百度}_e" labels=":EVENTNODE">
+        <data key="trigger">[{进驻-百度}]</data>
+        <data key="title">5月2日，国家网信办会同国家工商总局、国家卫生计生委已成立联合调查组进驻百度进行调查对此事件进行调查</data>
+        <data key="time">2016-05-02</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[国家卫生计生委, 国家工商总局, 国家网信办]</data>
+        <data key="keywords">[国家, 网信办, 会同, 工商, 总局, 计生委, 成立, 联合, 调查组, 进驻, 百度, 调查, 事件]</data>
+      </node>
+      <node id="{遭遇-重击}_e" labels=":EVENTNODE">
+        <data key="trigger">[{遭遇-重击}]</data>
+        <data key="title">“魏则西事件”爆发后，5月4日，国家卫计委会议明确细胞免疫治疗仍属于临床研究阶段，要求各省市医院停止自体免疫细胞治疗技术的临床应用，这也让方兴未艾的细胞免疫治疗产业遭遇重击</data>
+        <data key="time">2016-05-04</data>
+        <data key="person">[魏则西]</data>
+        <data key="location">[]</data>
+        <data key="organization">[国家卫]</data>
+        <data key="keywords">[事件, 爆发, 国家, 计委, 会议, 细胞, 免疫, 治疗, 临床, 研究, 阶段, 医院, 停止, 技术, 产业, 遭遇, 重击]</data>
+      </node>
+      <node id="{整改}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公布-调查}, {整改}]</data>
+        <data key="title">5月9日，国家网信办公布对百度调查结果：调查组认为，百度搜索必须立即整改</data>
+        <data key="time">2016-05-09</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[国家网信办]</data>
+        <data key="keywords">[国家, 网信办, 公布, 百度, 调查, 调查组, 搜索, 整改]</data>
+      </node>
+      <node id="{回访-中心}_e" labels=":EVENTNODE">
+        <data key="trigger">[{调查-百度}, {回访-中心}]</data>
+        <data key="title">5月2日，百度因此事被调查，同一天，重案组37号（微信ID：zhonganzu37）派出多路探员，回访武警二院生物诊疗中心并请教多位医疗、法律专家，对这一事件进行全面梳理、追问</data>
+        <data key="time">2016-05-02</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[武警二院生物诊疗中心]</data>
+        <data key="keywords">[百度, 调查, 重案组, 微信, 派出, 探员, 回访, 武警, 生物, 诊疗, 中心, 请教, 医疗, 法律, 专家, 事件, 梳理, 追问]</data>
+      </node>
+      <node id="{涉嫌-承包}_e" labels=":EVENTNODE">
+        <data key="trigger">[{涉嫌-承包}, {发现-发布}]</data>
+        <data key="title">涉嫌承包包括武警二院等多家医院科室的“上海康新医院投资管理有限公司”在工商系统中的状态为“注销”，不过有槽发现，该公司于今年8月28日在健康英才网发布了包括B超医生、妇科医生在内的职位招聘</data>
+        <data key="time">2016-08-28</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[上海康新医院投资管理有限公司]</data>
+        <data key="keywords">[涉嫌, 承包, 包括, 武警, 医院, 科室, 上海, 康新, 投资, 管理, 有限公司, 工商, 系统, 状态, 注销, 发现, 公司, 英才, 发布, 医生, 妇科, 职位, 招聘]</data>
+      </node>
+      <node id="{审查-申请函}_e" labels=":EVENTNODE">
+        <data key="trigger">[{去世}, {审查-申请函}]</data>
+        <data key="title">5月1日，百度推广官方微博“百度推广”发布微博再次回应“病友魏则西去世事件”：正积极向发证单位及武警总部主管该院的相关部门递交审查申请函，希望相关部门能高度重视，立即展开调查，如果调查结果证实武警二院有不当行为，我们全力支持则西家属通过法律途径维权</data>
+        <data key="time">2016-05-01</data>
+        <data key="person">[维权, 魏则西]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[百度, 推广, 官方, 微博, 发布, 回应, 病友, 去世, 事件, 发证, 单位, 武警, 总部, 主管, 相关, 部门, 递交, 审查, 申请函, 希望, 重视, 展开, 调查, 证实, 支持, 家属, 法律, 途径]</data>
+      </node>
+      <node id="{发表-公告}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发表-公告}, {澄清-发生}]</data>
+        <data key="title">5月4日消息，华夏医疗（HK08143）发表自愿公告澄清：媒体所报道的发生医疗事故（新浪编者注：魏则西事件）的北京医院并非华夏医疗的联署公司，也不涉及管理或营运</data>
+        <data key="time">2016-05-04</data>
+        <data key="person">[魏则西]</data>
+        <data key="location">[]</data>
+        <data key="organization">[北京医院]</data>
+        <data key="keywords">[消息, 华夏, 医疗, 发表, 自愿, 公告, 澄清, 媒体, 报道, 发生, 事故, 新浪, 编者, 事件, 北京, 医院, 联署, 公司, 涉及, 管理, 营运]</data>
+      </node>
+      <node id="{告破}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通报}, {告破}, {抓获-嫌疑人}]</data>
+        <data key="title">幸而8月26日下午官方通报说，徐玉玉电信诈骗案成功告破，主要犯罪嫌疑人郑某某（男，29岁，福建泉州人）等2人被抓获归案，其他犯罪嫌疑人正在追捕中</data>
+        <data key="time">2016-08-26</data>
+        <data key="person">[徐玉玉]</data>
+        <data key="location">[福建泉州]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[官方, 通报, 电信, 诈骗案, 告破, 犯罪, 嫌疑人, 福建, 泉州, 抓获, 归案, 追捕]</data>
+      </node>
+      <node id="{增长}_e" labels=":EVENTNODE">
+        <data key="trigger">[{增长}]</data>
+        <data key="title">5月4日上午消息，摩根士丹利今日发布了关于百度的研究报告，报告称，受“魏则西事件”影响，百度的短期营收增长将面临较大的不确定性</data>
+        <data key="time">2016-05-04</data>
+        <data key="person">[魏则西]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[消息, 摩根士丹利, 发布, 百度, 研究, 报告, 事件, 影响, 营收, 增长, 面临, 不确定性]</data>
+      </node>
+      <node id="{回答}_e" labels=":EVENTNODE">
+        <data key="trigger">[{关联-交易}, {回答}]</data>
+        <data key="title">5月5日，《第一财经日报》就系列问题，以及关联交易为何没有披露等，致电中源协和方面，但该公司工作人员称，当天公司负责人都在参加天津证监局组织的辖区上市公司投资者接待活动，无法回答上述问题</data>
+        <data key="time">2016-05-05</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[天津证监局]</data>
+        <data key="keywords">[财经, 日报, 系列, 关联, 交易, 披露, 致电, 中源, 协和, 公司, 工作, 人员, 负责人, 参加, 天津, 证监局, 组织, 辖区, 上市, 投资者, 接待, 活动, 回答]</data>
+      </node>
+      <node id="{申请-核查}_e" labels=":EVENTNODE">
+        <data key="trigger">[{申请-核查}]</data>
+        <data key="title">在中源协和看来，此次并购标的卷入“魏则西事件”也的确较为重大，因此才在5月3日早盘申请了停牌核查</data>
+        <data key="time">2016-05-03</data>
+        <data key="person">[魏则西]</data>
+        <data key="location">[中源]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[协和, 并购, 标的, 卷入, 事件, 申请, 停牌, 核查]</data>
+      </node>
+      <node id="{申请-内容}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公开}, {申请-公开}, {申请-内容}]</data>
+        <data key="title">重庆晨报-上游新闻记者了解到，在4月26日，“互联网医疗广告打假公益联盟”的多位公益人到国家工商总局申请政府信息公开，申请公开内容为“百度推广是否属于广告”</data>
+        <data key="time">2016-04-26</data>
+        <data key="person">[]</data>
+        <data key="location">[重庆]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[晨报, 新闻记者, 互联网, 医疗, 广告, 打假, 公益, 联盟, 国家, 工商, 总局, 申请, 政府, 信息, 公开, 内容, 百度, 推广]</data>
+      </node>
+      <node id="{去世}_e" labels=":EVENTNODE">
+        <data key="trigger">[{去世}]</data>
+        <data key="title">不过，在今年4月12日，魏则西最终还是去世了</data>
+        <data key="time">2016-04-12</data>
+        <data key="person">[魏则西]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[去世]</data>
+      </node>
+      <node id="{调查}_e" labels=":EVENTNODE">
+        <data key="trigger">[{调查}, {误导-网民}]</data>
+        <data key="title">5月9日，国家网信办联合调查组经过对百度公司七天调查后，认为百度搜索在“魏则西事件”中存在问题，百度竞价排名机制存在缺陷，影响了搜索结果的公正性和客观性，容易误导网民，必须立即整改，并提出三点整改要求</data>
+        <data key="time">2016-05-09</data>
+        <data key="person">[魏则西]</data>
+        <data key="location">[]</data>
+        <data key="organization">[百度公司, 国家网信办]</data>
+        <data key="keywords">[国家, 网信办, 联合, 调查组, 百度, 公司, 调查, 搜索, 事件, 竞价, 排名, 机制, 缺陷, 影响, 公正性, 客观性, 误导, 网民, 整改, 提出, 三点]</data>
+      </node>
+      <node id="{搜索-调查}_e" labels=":EVENTNODE">
+        <data key="trigger">[{搜索-调查}]</data>
+        <data key="title">2016年5月9日，国家网信办宣布对百度搜索在“魏则西事件”中存在问题的调查结果，要求百度公司改变竞价排名机制</data>
+        <data key="time">2016-05-09</data>
+        <data key="person">[魏则西]</data>
+        <data key="location">[]</data>
+        <data key="organization">[百度公司, 国家网信办]</data>
+        <data key="keywords">[国家, 网信办, 百度, 搜索, 事件, 调查, 公司, 改变, 竞价, 排名, 机制]</data>
+      </node>
+      <node id="{发现-发布}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现-发布}]</data>
+        <data key="title">北京商报记者发现，在今年的3月4日，中源协和曾发布过一份非公开发行股票预案</data>
+        <data key="time">2016-03-04</data>
+        <data key="person">[]</data>
+        <data key="location">[北京]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[商报, 记者, 发现, 中源, 协和, 发布, 发行, 股票, 预案]</data>
+      </node>
+      <node id="{申请-复牌}_e" labels=":EVENTNODE">
+        <data key="trigger">[{申请-复牌}]</data>
+        <data key="title">据中源协和5月27日公告，中源协和将在6月2号向上海证券交易所提交问询函的回复并且申请复牌</data>
+        <data key="time">2016-05-27</data>
+        <data key="person">[]</data>
+        <data key="location">[中源协和]</data>
+        <data key="organization">[上海证券交易所]</data>
+        <data key="keywords">[中源, 协和, 公告, 上海, 证券, 交易所, 提交, 询函, 回复, 申请, 复牌]</data>
+      </node>
+      <node id="{遭遇}_e" labels=":EVENTNODE">
+        <data key="trigger">[{遭遇}]</data>
+        <data key="title">“魏则西事件”后，百度美股股价一度遭遇大跌：2016年5月2日收盘，股价较前一交易日下降15.39美元至178.91美元，降幅达7.92%</data>
+        <data key="time">2016-05-02</data>
+        <data key="person">[魏则西]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[事件, 百度, 美股, 股价, 遭遇, 收盘, 交易日, 下降, 降幅]</data>
+      </node>
+      <node id="{澄清-误会}_e" labels=":EVENTNODE">
+        <data key="trigger">[{澄清-误会}]</data>
+        <data key="title">6月8日，大理，百度联盟峰会期间，李彦宏接受了《财经》记者专访，他罕见地袒露了对危机、产品、销售和人事变动、管理、未来等话题的看法，也试图澄清一些误会，他甚至开口谈到了自己</data>
+        <data key="time">2016-06-08</data>
+        <data key="person">[李彦宏]</data>
+        <data key="location">[大理]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[百度, 联盟, 峰会, 接受, 财经, 记者, 专访, 袒露, 危机, 产品, 销售, 人事, 变动, 管理, 话题, 看法, 试图, 澄清, 误会, 开口]</data>
+      </node>
+      <node id="{否认-中心}_e" labels=":EVENTNODE">
+        <data key="trigger">[{否认-中心}]</data>
+        <data key="title">虽然，5月3日柯莱逊公司副总经理程昆在接受上海一家媒体专访时还否认承包北京武警二院的肿瘤生物中心，称只是合作共建</data>
+        <data key="time">2016-05-03</data>
+        <data key="person">[程昆]</data>
+        <data key="location">[上海]</data>
+        <data key="organization">[柯莱逊公司, 北京武警二院]</data>
+        <data key="keywords">[柯莱逊, 公司, 总经理, 接受, 媒体, 专访, 否认, 承包, 北京, 武警, 肿瘤, 生物, 中心, 合作, 共建]</data>
+      </node>
+      <node id="{发酵}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发酵}]</data>
+        <data key="title">5月1日，“劳动节”假日，“魏则西事件”却发酵到一个新的顶点</data>
+        <data key="time">2016-05-01</data>
+        <data key="person">[魏则西]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[假日, 事件, 发酵, 顶点]</data>
+      </node>
+      <node id="{放弃-业务}_e" labels=":EVENTNODE">
+        <data key="trigger">[{搜索}, {发表-公开信}, {放弃-业务}]</data>
+        <data key="title">5月3日晚，360搜索发表公开信，表示将放弃一切消费者医疗商业推广业务，承诺向广大网民提供安全、干净、可信赖的搜索服务</data>
+        <data key="time">2016-05-03</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[搜索, 发表, 公开信, 放弃, 消费者, 医疗, 商业, 推广, 业务, 承诺, 网民, 提供, 信赖, 服务]</data>
+      </node>
+      <node id="{搜索-网站}_e" labels=":EVENTNODE">
+        <data key="trigger">[{搜索-网站}, {发现}]</data>
+        <data key="title">5月3日，当法治周末记者再次搜索武警北京二院官方网站时，发现已打不开相关网页</data>
+        <data key="time">2016-05-03</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[武警北京二院官方]</data>
+        <data key="keywords">[法治, 记者, 搜索, 武警, 北京, 官方, 网站, 发现, 相关, 网页]</data>
+      </node>
+      <node id="{违规}_e" labels=":EVENTNODE">
+        <data key="trigger">[{进驻-百度}, {审查-服务}, {违规}]</data>
+        <data key="title">5月31日，百度完成了因“魏则西事件”进驻百度联合调查组的整改要求，全面审查医疗类商业推广服务，对未获得主管部门批准资质的医疗机构坚决不予提供商业推广，同时对内容违规的医疗类推广信息（含药品、医疗器械等）进行下线处理</data>
+        <data key="time">2016-05-31</data>
+        <data key="person">[魏则西]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[事件, 进驻, 百度, 联合, 调查组, 整改, 审查, 医疗类, 商业, 推广, 服务, 主管, 部门, 批准, 资质, 医疗, 机构, 不予, 提供, 内容, 违规, 信息, 药品, 器械, 下线]</data>
+      </node>
+      <node id="{公布}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公布}]</data>
+        <data key="title">百度4月28日刚刚公布的一季度财报则显示：得益于公司核心业务</data>
+        <data key="time">2016-04-28</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[百度, 公布, 财报, 显示, 得益于, 公司, 核心, 业务]</data>
+      </node>
+      <node id="{抓获-嫌疑人}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通报}, {告破}, {抓获-嫌疑人}]</data>
+        <data key="title">幸而8月26日下午官方通报说，徐玉玉电信诈骗案成功告破，主要犯罪嫌疑人郑某某（男，29岁，福建泉州人）等2人被抓获归案，其他犯罪嫌疑人正在追捕中</data>
+        <data key="time">2016-08-26</data>
+        <data key="person">[徐玉玉]</data>
+        <data key="location">[福建泉州]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[官方, 通报, 电信, 诈骗案, 告破, 犯罪, 嫌疑人, 福建, 泉州, 抓获, 归案, 追捕]</data>
+      </node>
+      <node id="{上市}_e" labels=":EVENTNODE">
+        <data key="trigger">[{上市}]</data>
+        <data key="title">从市场变化来看，“魏则西事件”对与莆田系相关的上市公司带来了明显影响——例如香港上市的“莆田系”公司华夏医疗（08143.HK）5月3日早晨一度大跌18%，截至发稿跌幅收窄至13.11%</data>
+        <data key="time">2016-05-03</data>
+        <data key="person">[魏则西]</data>
+        <data key="location">[香港]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[市场, 变化, 事件, 莆田系, 相关, 上市, 公司, 带来, 影响, 华夏, 医疗, 发稿, 跌幅]</data>
+      </node>
+      <node id="{核查-停牌}_e" labels=":EVENTNODE">
+        <data key="trigger">[{核查-停牌}]</data>
+        <data key="title">继中源协和（600645.SH）停牌核查涉及莆田系事件后，5月5日对该事件进行了首度回应</data>
+        <data key="time">2016-05-05</data>
+        <data key="person">[]</data>
+        <data key="location">[中源]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[协和, 停牌, 核查, 涉及, 莆田系, 事件, 回应]</data>
+      </node>
+      <node id="{奖励-领袖}_e" labels=":EVENTNODE">
+        <data key="trigger">[{奖励-领袖}]</data>
+        <data key="title">2016年4月20日，美国国务院奖励全球新兴青年领袖，十名获奖者大多来自第三世界国家，他们创办的企业或组织所从事的方向均对社会和未来的变化做出积极贡献</data>
+        <data key="time">2016-04-20</data>
+        <data key="person">[]</data>
+        <data key="location">[美国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[国务院, 奖励, 全球, 青年, 领袖, 获奖者, 第三世界, 国家, 创办, 企业, 组织, 方向, 社会, 变化, 做出, 贡献]</data>
+      </node>
+      <node id="{发表-公开信}_e" labels=":EVENTNODE">
+        <data key="trigger">[{搜索}, {发表-公开信}, {放弃-业务}]</data>
+        <data key="title">5月3日晚，360搜索发表公开信，表示将放弃一切消费者医疗商业推广业务，承诺向广大网民提供安全、干净、可信赖的搜索服务</data>
+        <data key="time">2016-05-03</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[搜索, 发表, 公开信, 放弃, 消费者, 医疗, 商业, 推广, 业务, 承诺, 网民, 提供, 信赖, 服务]</data>
+      </node>
+      <node id="{收到-交易所}_e" labels=":EVENTNODE">
+        <data key="trigger">[{收到-交易所}]</data>
+        <data key="title">新京报讯(记者张泉薇)5月3日晚间，上市公司中源协和发布公告称，于5月3日收到上海证券交易所《关于对中源协和细胞基因工程股份有限公司有关媒体报道事项的监管问询函》，要求公司对“魏则西事件”媒体报道中提及的上海柯莱逊公司，结合公司非公开发行股票事项进行核实并补充披露</data>
+        <data key="time">2016-05-03</data>
+        <data key="person">[魏则西, 张泉薇]</data>
+        <data key="location">[]</data>
+        <data key="organization">[上海证券交易所, 细胞基因工程股份有限公司, 上海柯莱逊公司]</data>
+        <data key="keywords">[新京报, 记者, 上市, 公司, 中源, 协和, 发布, 公告, 收到, 上海, 证券, 交易所, 源协, 细胞, 基因, 工程, 股份, 有限公司, 媒体, 报道, 事项, 监管, 询函, 事件, 提及, 柯莱逊, 发行, 股票, 核实, 补充, 披露]</data>
+      </node>
+      <node id="{打击}_e" labels=":EVENTNODE">
+        <data key="trigger">[{打击}]</data>
+        <data key="title">北京时间5月3日凌晨消息，受“魏则西事件”打击，百度周一直接低开低走，放量暴跌，一度跌至9%，最终以7.92%的跌幅收盘</data>
+        <data key="time">2016-05-03</data>
+        <data key="person">[魏则西]</data>
+        <data key="location">[北京]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[时间, 消息, 事件, 打击, 百度, 暴跌, 跌幅, 收盘]</data>
+      </node>
+      <node id="{收到}_e" labels=":EVENTNODE">
+        <data key="trigger">[{收到}]</data>
+        <data key="title">5月3日，中源协和收到上海证券交易所《关于对中源协和细胞基因工程股份有限公司有关媒体报道事项的监管问询函》</data>
+        <data key="time">2016-05-03</data>
+        <data key="person">[]</data>
+        <data key="location">[中源]</data>
+        <data key="organization">[上海证券交易所, 细胞基因工程股份有限公司]</data>
+        <data key="keywords">[协和, 收到, 上海, 证券, 交易所, 源协, 细胞, 基因, 工程, 股份, 有限公司, 媒体, 报道, 事项, 监管, 询函]</data>
+      </node>
+      <node id="{关联-关系}_e" labels=":EVENTNODE">
+        <data key="trigger">[{关联-交易}, {投资}, {关联-关系}]</data>
+        <data key="title">也许是意识到收购属于关联交易，4月12日，中源协和决定将融源瑞康中的1.25亿元出资、对应的财产份额，让给天津万兆投资发展集团有限公司(下称天津万兆)，从而在表面上摆脱了与柯莱逊的关联关系</data>
+        <data key="time">2016-04-12</data>
+        <data key="person">[柯莱逊]</data>
+        <data key="location">[天津, 中源]</data>
+        <data key="organization">[天津万兆投资发展集团有限公司]</data>
+        <data key="keywords">[意识, 收购, 关联, 交易, 协和, 融源, 瑞康, 出资, 财产, 份额, 让给, 万兆, 投资, 发展, 集团, 有限公司, 表面, 摆脱, 关系]</data>
+      </node>
+      <node id="{关联-交易}_e" labels=":EVENTNODE">
+        <data key="trigger">[{关联-交易}, {投资}, {关联-关系}]</data>
+        <data key="title">也许是意识到收购属于关联交易，4月12日，中源协和决定将融源瑞康中的1.25亿元出资、对应的财产份额，让给天津万兆投资发展集团有限公司(下称天津万兆)，从而在表面上摆脱了与柯莱逊的关联关系</data>
+        <data key="time">2016-04-12</data>
+        <data key="person">[柯莱逊]</data>
+        <data key="location">[天津, 中源]</data>
+        <data key="organization">[天津万兆投资发展集团有限公司]</data>
+        <data key="keywords">[意识, 收购, 关联, 交易, 协和, 融源, 瑞康, 出资, 财产, 份额, 让给, 万兆, 投资, 发展, 集团, 有限公司, 表面, 摆脱, 关系]</data>
+      </node>
+      <node id="{搜索-频道}_e" labels=":EVENTNODE">
+        <data key="trigger">[{搜索-频道}]</data>
+        <data key="title">5月19日，搜狗宣布与微软达成合作，搜狗搜索将对接微软必应全球搜索技术，推出搜狗英文搜索、搜狗学术搜索两个垂直频道，为中国用户打造权威、全面、精准的英文搜索体验</data>
+        <data key="time">2016-05-19</data>
+        <data key="person">[]</data>
+        <data key="location">[中国]</data>
+        <data key="organization">[微软]</data>
+        <data key="keywords">[搜狗, 达成, 合作, 搜索, 对接, 全球, 技术, 推出, 英文, 学术, 垂直, 频道, 用户, 打造, 体验]</data>
+      </node>
+      <node id="{取消}_e" labels=":EVENTNODE">
+        <data key="trigger">[{取消}, {审批-工作}]</data>
+        <data key="title">今日中源协和发布终止非公开发行股票公告，“魏则西事件”国家卫计委于5月4日召开电视电话会议，要求落实《国家卫生计生委关于取消第三类医疗技术临床应用准入审批有关工作的通知》文件的要求，明确自体免疫细胞治疗技术按照临床研究的相关规定执行</data>
+        <data key="time">2016-05-04</data>
+        <data key="person">[魏则西]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[源协, 发布, 终止, 发行, 股票, 公告, 事件, 国家卫, 计委, 电视电话会议, 落实, 国家, 计生委, 取消, 医疗, 技术, 准入, 审批, 工作, 通知, 文件, 自体, 免疫, 细胞, 治疗, 临床, 研究, 相关, 执行]</data>
+      </node>
+      <node id="{举报}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发表-谈话}, {举报}, {进驻-公司}, {公布-调查}]</data>
+        <data key="title">值得注意的是，国家互联网信息办公室(以下简称国家网信办)发言人姜军昨日(5月2日)发表谈话指出，根据网民举报，国家网信办会同国家工商总局、国家卫计委成立联合调查组进驻百度公司，对魏则西事件及互联网企业依法经营事项进行调查并依法处理，联合调查组将适时公布调查和处理结果</data>
+        <data key="time">2016-05-02</data>
+        <data key="person">[姜军, 魏则西]</data>
+        <data key="location">[]</data>
+        <data key="organization">[国家工商总局, 国家卫计委, 国家互联网信息办公室, 百度公司, 国家网信办]</data>
+        <data key="keywords">[值得, 国家, 互联网, 信息, 办公室, 简称, 网信办, 发言人, 发表, 谈话, 指出, 网民, 举报, 会同, 工商, 总局, 计委, 成立, 联合, 调查组, 进驻, 百度, 公司, 事件, 企业, 经营, 事项, 调查, 公布]</data>
+      </node>
+      <node id="{问询-通知}_e" labels=":EVENTNODE">
+        <data key="trigger">[{问询-通知}]</data>
+        <data key="title">在国家卫计委于5月4日召开电视电话会议后，上交所在第二道问询函中问询国家卫生计生委的上述《通知》、会议要求，对上市公司目前和未来开展相关业务可能产生的影响，以及上市公司的应对措施</data>
+        <data key="time">2016-05-04</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[国家, 计委, 电视电话会议, 上交所, 询函, 问询, 计生委, 通知, 会议, 上市, 公司, 相关, 业务, 影响, 应对, 措施]</data>
+      </node>
+      <node id="{收到-短信}_e" labels=":EVENTNODE">
+        <data key="trigger">[{收到-短信}]</data>
+        <data key="title">报名还是老规矩，大家扫描报名二维码或者点击最下方阅读原文，填下姓名、电话两项基本资料，收到短信后来参会就好啦！关键是，现场还有神秘礼品发送！时间：2016年5月6日</data>
+        <data key="time">2016-05-06</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[报名, 老规矩, 扫描, 二维码, 点击, 阅读, 原文, 姓名, 电话, 资料, 收到, 短信, 参会, 关键, 现场, 礼品, 发送, 时间]</data>
+      </node>
+      <node id="{打断-生活}_e" labels=":EVENTNODE">
+        <data key="trigger">[{打断-生活}]</data>
+        <data key="title">9月3日，百度CEO李彦宏的一个公开讲话打断了他们平静而又痛苦的生活，让魏海全愤怒起来</data>
+        <data key="time">2016-09-03</data>
+        <data key="person">[魏海全, 李彦宏]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[百度, 讲话, 打断, 生活]</data>
+      </node>
+      <node id="{审核-内容}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公布-事件}, {审核-内容}]</data>
+        <data key="title">5月9日下午，国家网信办会同国家工商总局、国家卫生计生委成立的联合调查组向社会公布了“魏则西事件”的调查结果，要求百度做出严格审核商业推广服务、明示推广内容和风险、排名机制调整等多项整改要求</data>
+        <data key="time">2016-05-09</data>
+        <data key="person">[魏则西]</data>
+        <data key="location">[]</data>
+        <data key="organization">[国家卫生计生委, 国家工商总局, 国家网信办]</data>
+        <data key="keywords">[国家, 网信办, 会同, 工商, 总局, 计生委, 成立, 联合, 调查组, 社会, 公布, 事件, 调查, 百度, 做出, 审核, 商业, 推广, 服务, 明示, 内容, 风险, 排名, 机制, 调整, 整改]</data>
+      </node>
+      <node id="{投资}_e" labels=":EVENTNODE">
+        <data key="trigger">[{投资}]</data>
+        <data key="title">而后来的4月11日，中源协和将其劣后份额转让给天津万兆投资发展集团（下称万兆投资），但截至截稿前，该笔交易尚未完成</data>
+        <data key="time">2016-04-11</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[天津万兆投资发展集团]</data>
+        <data key="keywords">[中源, 协和, 份额, 转让, 天津, 万兆, 投资, 发展, 集团, 截稿, 交易]</data>
+      </node>
+      <node id="{质疑-讲话}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发表-声明}, {质疑-讲话}]</data>
+        <data key="title">9月10日，魏海全委托北京腾波律师事务所的宋维强律师发表声明，质疑李彦宏的讲话</data>
+        <data key="time">2016-09-10</data>
+        <data key="person">[宋维强]</data>
+        <data key="location">[]</data>
+        <data key="organization">[北京腾波律师事务所]</data>
+        <data key="keywords">[委托, 北京, 腾波, 律师, 事务所, 发表, 声明, 质疑, 彦宏, 讲话]</data>
+      </node>
+      <node id="{拨通-热线}_e" labels=":EVENTNODE">
+        <data key="trigger">[{拨通-热线}]</data>
+        <data key="title">5月1日下午，记者拨通展板上留下的健康热线</data>
+        <data key="time">2016-05-01</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[记者, 拨通, 展板, 留下, 热线]</data>
+      </node>
+      <node id="{投资-医院}_e" labels=":EVENTNODE">
+        <data key="trigger">[{投资-医院}]</data>
+        <data key="title">爱尔眼科又将9家医院揽至麾下，12月8日，爱尔眼科发布定增预案，计划向不超过5名投资者募集资金24.27亿元，用于投资9家眼科医院、建设爱尔总部大厦和眼科医院迁址扩建</data>
+        <data key="time">2016-12-08</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[爱尔, 眼科, 医院, 麾下, 发布, 定增, 预案, 计划, 超过, 投资者, 募集, 资金, 用于, 投资, 建设, 总部, 大厦, 扩建]</data>
+      </node>
+      <node id="{申请}_e" labels=":EVENTNODE">
+        <data key="trigger">[{申请}]</data>
+        <data key="title">同时鉴于该事件对公司非公开发行事项存在重大不确定性，经公司向上交所申请，公司股票自5月4日起继续停牌</data>
+        <data key="time">2016-05-04</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[事件, 公司, 发行, 事项, 不确定性, 上交所, 申请, 股票, 停牌]</data>
+      </node>
+      <node id="{收到-上交所}_e" labels=":EVENTNODE">
+        <data key="trigger">[{收到-上交所}]</data>
+        <data key="title">中源协和(600645)5月3日晚间公告，公司于5月3日收到上交所《关于对中源协和细胞基因工程股份有限公司有关媒体报道事项的监管问询函》，要求公司对“魏则西”事件媒体报道中提及的上海柯莱逊公司，结合公司非公开发行股票事项进行核实并补充披露</data>
+        <data key="time">2016-05-03</data>
+        <data key="person">[魏则西]</data>
+        <data key="location">[中源]</data>
+        <data key="organization">[细胞基因工程股份有限公司, 上海柯莱逊公司]</data>
+        <data key="keywords">[协和, 公告, 公司, 收到, 上交所, 源协, 细胞, 基因, 工程, 股份, 有限公司, 媒体, 报道, 事项, 监管, 询函, 事件, 提及, 上海, 柯莱逊, 发行, 股票, 核实, 补充, 披露]</data>
+      </node>
+      <node id="{收到-问询函}_e" labels=":EVENTNODE">
+        <data key="trigger">[{收到-问询函}]</data>
+        <data key="title">5月3日晚间，中源协和收到了来自上海证券交易所的问询函，让中源协和评估“魏则西事件”对公司发展战略、业务模式及生产经营等的具体影响等</data>
+        <data key="time">2016-05-03</data>
+        <data key="person">[魏则西]</data>
+        <data key="location">[中源]</data>
+        <data key="organization">[上海证券交易所]</data>
+        <data key="keywords">[协和, 收到, 上海, 证券, 交易所, 问询函, 源协, 评估, 事件, 公司, 发展, 战略, 业务, 模式, 生产, 经营, 影响]</data>
+      </node>
+      <node id="{求助}_e" labels=":EVENTNODE">
+        <data key="trigger">[{求助}]</data>
+        <data key="title">2015年，由于生命还很年轻，魏则西不甘心向命运低头，为了争取求生的希望曾四处求助，7月29日，华商报移动客户端“华商头条”曾对他的经历进行报道</data>
+        <data key="time">2016-07-29</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[生命, 甘心, 命运, 低头, 求生, 希望, 求助, 华商, 客户端, 头条, 经历, 报道]</data>
+      </node>
+      <node id="{感谢-关爱}_e" labels=":EVENTNODE">
+        <data key="trigger">[{感谢-关爱}]</data>
+        <data key="title">4月12日，则西的爸爸在微信上告知大家，则西于早上8点17分在家中病逝，感谢大家的关爱</data>
+        <data key="time">2016-04-12</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[爸爸, 微信, 告知, 家中, 病逝, 感谢, 关爱]</data>
+      </node>
+      <node id="{采访}_e" labels=":EVENTNODE">
+        <data key="trigger">[{采访}]</data>
+        <data key="title">则西爸爸说，直到5月1日晚上接受记者采访时为止，武警总队北京第二医院同样并未就此事与自己联系过</data>
+        <data key="time">2016-05-01</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[北京第二医院]</data>
+        <data key="keywords">[爸爸, 接受, 记者, 采访, 武警, 总队, 北京, 医院]</data>
+      </node>
+      <node id="{申请-停牌}_e" labels=":EVENTNODE">
+        <data key="trigger">[{申请-停牌}]</data>
+        <data key="title">2016年5月3日，公司申请股票紧急停牌，对相关事项进行核查</data>
+        <data key="time">2016-05-03</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[公司, 申请, 股票, 停牌, 相关, 事项, 核查]</data>
+      </node>
+      <node id="{发表-声明}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发表-声明}]</data>
+        <data key="title">5月1日深夜，魏则西父母发表声明，对百度回应表示“非常气愤”，称“百度和医院至今从未和他们联系过”</data>
+        <data key="time">2016-05-01</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[父母, 发表, 声明, 百度, 回应, 医院]</data>
+      </node>
+      <node id="{申请-回复}_e" labels=":EVENTNODE">
+        <data key="trigger">[{申请-回复}]</data>
+        <data key="title">5月5日晚间，因收购卷入“魏则西事件”的上海柯莱逊生物技术有限公司（下称“柯莱逊”）而处于舆论中心的中源协和发布公告称，由于相关事项未确定且存在重大不确定性，公司特向上交所申请延期回复，同时强调公司需要时间对非公开发行股份收购柯莱逊公司的事项进行重新评估</data>
+        <data key="time">2016-05-05</data>
+        <data key="person">[魏则西, 柯莱逊]</data>
+        <data key="location">[]</data>
+        <data key="organization">[柯莱逊公司, 上海柯莱逊生物技术有限公司]</data>
+        <data key="keywords">[收购, 卷入, 事件, 上海, 生物, 技术, 有限公司, 处于, 舆论, 中心, 中源, 协和, 发布, 公告, 相关, 事项, 不确定性, 公司, 上交所, 申请, 延期, 回复, 时间, 非公开, 发行, 股份, 评估]</data>
+      </node>
+      <node id="{审查-服务}_e" labels=":EVENTNODE">
+        <data key="trigger">[{进驻-百度}, {审查-服务}, {违规}]</data>
+        <data key="title">5月31日，百度完成了因“魏则西事件”进驻百度联合调查组的整改要求，全面审查医疗类商业推广服务，对未获得主管部门批准资质的医疗机构坚决不予提供商业推广，同时对内容违规的医疗类推广信息（含药品、医疗器械等）进行下线处理</data>
+        <data key="time">2016-05-31</data>
+        <data key="person">[魏则西]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[事件, 进驻, 百度, 联合, 调查组, 整改, 审查, 医疗类, 商业, 推广, 服务, 主管, 部门, 批准, 资质, 医疗, 机构, 不予, 提供, 内容, 违规, 信息, 药品, 器械, 下线]</data>
+      </node>
+      <node id="{申请-公开}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公开}, {申请-公开}, {申请-内容}]</data>
+        <data key="title">重庆晨报-上游新闻记者了解到，在4月26日，“互联网医疗广告打假公益联盟”的多位公益人到国家工商总局申请政府信息公开，申请公开内容为“百度推广是否属于广告”</data>
+        <data key="time">2016-04-26</data>
+        <data key="person">[]</data>
+        <data key="location">[重庆]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[晨报, 新闻记者, 互联网, 医疗, 广告, 打假, 公益, 联盟, 国家, 工商, 总局, 申请, 政府, 信息, 公开, 内容, 百度, 推广]</data>
+      </node>
+      <node id="{公布-发行}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公布-发行}]</data>
+        <data key="title">3月4日，中源协和公布非公开发行股票募集资金的方案，公告显示，这一次将募集不超过15亿元的资金，发行股份数量不超过5000万股，发行对象不超过10名特定投资者，收购柯莱逊的交易价格约为11亿元，不过最终交易价格未确定，此次非公发行股份购买资产还需经股东大会和中国证监会的批准</data>
+        <data key="time">2016-03-04</data>
+        <data key="person">[]</data>
+        <data key="location">[中源]</data>
+        <data key="organization">[中国证监会]</data>
+        <data key="keywords">[协和, 公布, 发行, 股票, 募集, 资金, 方案, 公告, 显示, 超过, 股份, 数量, 对象, 投资者, 收购, 柯莱逊, 交易, 价格, 购买, 资产, 股东, 大会, 中国, 证监会, 批准]</data>
+      </node>
+      <node id="{搜索-选择}_e" labels=":EVENTNODE">
+        <data key="trigger">[{搜索-选择}, {审查-搜索}]</data>
+        <data key="title">百度4月28日对此回应称，（魏）则西生前通过电视媒体报道和百度搜索选择的武警北京总队第二医院，百度第一时间进行了搜索结果审查，该医院是一家公立三甲医院，资质齐全</data>
+        <data key="time">2016-04-28</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[武警北京总队第二医院]</data>
+        <data key="keywords">[百度, 回应, 电视, 媒体, 报道, 搜索, 选择, 武警, 北京, 总队, 医院, 时间, 审查, 三甲, 资质]</data>
+      </node>
+      <node id="{发表-谈话}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发表-谈话}]</data>
+        <data key="title">5月2日，国家互联网信息办公室发言人姜军发表谈话指出，近日“魏则西事件”受到网民广泛关注</data>
+        <data key="time">2016-05-02</data>
+        <data key="person">[姜军, 魏则西]</data>
+        <data key="location">[]</data>
+        <data key="organization">[国家互联网信息办公室]</data>
+        <data key="keywords">[国家, 互联网, 信息, 办公室, 发言人, 发表, 谈话, 指出, 事件, 网民, 关注]</data>
+      </node>
+      <node id="{透露-会同}_e" labels=":EVENTNODE">
+        <data key="trigger">[{透露-会同}, {进驻-公司}]</data>
+        <data key="title">5月2日傍晚，国家网信办新闻发言人透露，目前，国家网信办已会同国家工商总局、国家卫生计生委成立联合调查组进驻百度公司，对此事件及互联网企业依法经营事项进行调查并依法处理</data>
+        <data key="time">2016-05-02</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[国家卫生计生委, 国家工商总局, 百度公司, 国家网信办]</data>
+        <data key="keywords">[国家, 网信办, 新闻, 发言人, 透露, 会同, 工商, 总局, 计生委, 成立, 联合, 调查组, 进驻, 百度, 公司, 事件, 互联网, 企业, 经营, 事项, 调查]</data>
+      </node>
+      <node id="{发现}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现}]</data>
+        <data key="title">荣荣与母亲在医院附近的出租屋内等待一周后，于5月2日回到医院准备回输血时，却发现专家诊室房门紧闭</data>
+        <data key="time">2016-05-02</data>
+        <data key="person">[荣荣]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[母亲, 医院, 出租, 屋内, 等待, 回到, 输血, 发现, 专家, 诊室, 房门]</data>
+      </node>
+      <node id="{约定}_e" labels=":EVENTNODE">
+        <data key="trigger">[{约定}]</data>
+        <data key="title">在去年5月13日，华韩整形发布公告，大股东林国良于2015年5月12日与凯辉咨询签署《授权委托书》，约定自《授权委托书》签订之日起至2016年1</data>
+        <data key="time">2016-05-13</data>
+        <data key="person">[凯辉, 林国良]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[华韩, 整形, 发布, 公告, 股东, 咨询, 签署, 授权, 委托书, 约定, 签订]</data>
+      </node>
+      <node id="{进驻}_e" labels=":EVENTNODE">
+        <data key="trigger">[{进驻}]</data>
+        <data key="title">此外，国家卫生计生委、中央军委后勤保障部卫生局、武警部队后勤部卫生局于5月3日进驻武警北京市总队第二医院（以下简称武警</data>
+        <data key="time">2016-05-03</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[国家卫生计生委, 武警北京市总队第二医院, 中央军委]</data>
+        <data key="keywords">[国家, 计生委, 后勤保障部, 卫生局, 武警, 部队, 后勤部, 进驻, 北京市, 总队, 医院, 简称]</data>
+      </node>
+      <node id="{进驻-医院}_e" labels=":EVENTNODE">
+        <data key="trigger">[{进驻-医院}]</data>
+        <data key="title">新京报快讯(记者贾世煜)5月4日，中国军网援引武警部队的消息称，武警部队对“魏则西事件”高度重视，已组成工作组进驻武警北京总队第二医院</data>
+        <data key="time">2016-05-04</data>
+        <data key="person">[魏则西, 贾世煜]</data>
+        <data key="location">[中国]</data>
+        <data key="organization">[武警北京总队第二医院]</data>
+        <data key="keywords">[新京报, 快讯, 记者, 军网, 援引, 武警, 部队, 消息, 事件, 重视, 工作组, 进驻, 北京, 总队, 医院]</data>
+      </node>
+      <node id="{致电-父母}_e" labels=":EVENTNODE">
+        <data key="trigger">[{致电-父母}, {采访-父母}]</data>
+        <data key="title">和每一个普通人一样，我们为年轻的生命难过，因此我们在了解情况后的第一时间就致电了则西的父母，这里有一个需要郑重澄清的事实，源自一篇媒体报道——5月1日22点某网站所谓的独家授权报道里，声称采访了魏则西的父母，“事实上，百度从未与他们联系过”</data>
+        <data key="time">2016-05-01</data>
+        <data key="person">[魏则西]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[普通人, 生命, 情况, 时间, 致电, 父母, 澄清, 事实, 源自, 媒体, 报道, 网站, 授权, 声称, 采访, 百度]</data>
+      </node>
+      <node id="{澄清-发生}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发表-公告}, {澄清-发生}]</data>
+        <data key="title">5月4日消息，华夏医疗（HK08143）发表自愿公告澄清：媒体所报道的发生医疗事故（新浪编者注：魏则西事件）的北京医院并非华夏医疗的联署公司，也不涉及管理或营运</data>
+        <data key="time">2016-05-04</data>
+        <data key="person">[魏则西]</data>
+        <data key="location">[]</data>
+        <data key="organization">[北京医院]</data>
+        <data key="keywords">[消息, 华夏, 医疗, 发表, 自愿, 公告, 澄清, 媒体, 报道, 发生, 事故, 新浪, 编者, 事件, 北京, 医院, 联署, 公司, 涉及, 管理, 营运]</data>
+      </node>
+      <node id="{进驻-公司}_e" labels=":EVENTNODE">
+        <data key="trigger">[{透露-会同}, {进驻-公司}]</data>
+        <data key="title">5月2日傍晚，国家网信办新闻发言人透露，目前，国家网信办已会同国家工商总局、国家卫生计生委成立联合调查组进驻百度公司，对此事件及互联网企业依法经营事项进行调查并依法处理</data>
+        <data key="time">2016-05-02</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[国家卫生计生委, 国家工商总局, 百度公司, 国家网信办]</data>
+        <data key="keywords">[国家, 网信办, 新闻, 发言人, 透露, 会同, 工商, 总局, 计生委, 成立, 联合, 调查组, 进驻, 百度, 公司, 事件, 互联网, 企业, 经营, 事项, 调查]</data>
+      </node>
+      <node id="{收到-信息}_e" labels=":EVENTNODE">
+        <data key="trigger">[{收到-信息}]</data>
+        <data key="title">5月2日中午，魏则西的网友帮助其更新微博，称收到了几万条信息，感到震惊又悲伤</data>
+        <data key="time">2016-05-02</data>
+        <data key="person">[魏则西]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[网友, 更新, 微博, 收到, 信息, 感到, 震惊]</data>
+      </node>
+      <node id="{误导-网民}_e" labels=":EVENTNODE">
+        <data key="trigger">[{调查}, {误导-网民}]</data>
+        <data key="title">5月9日，国家网信办联合调查组经过对百度公司七天调查后，认为百度搜索在“魏则西事件”中存在问题，百度竞价排名机制存在缺陷，影响了搜索结果的公正性和客观性，容易误导网民，必须立即整改，并提出三点整改要求</data>
+        <data key="time">2016-05-09</data>
+        <data key="person">[魏则西]</data>
+        <data key="location">[]</data>
+        <data key="organization">[百度公司, 国家网信办]</data>
+        <data key="keywords">[国家, 网信办, 联合, 调查组, 百度, 公司, 调查, 搜索, 事件, 竞价, 排名, 机制, 缺陷, 影响, 公正性, 客观性, 误导, 网民, 整改, 提出, 三点]</data>
+      </node>
+      <node id="{搜索}_e" labels=":EVENTNODE">
+        <data key="trigger">[{搜索}, {发表-公开信}, {放弃-业务}]</data>
+        <data key="title">5月3日晚，360搜索发表公开信，表示将放弃一切消费者医疗商业推广业务，承诺向广大网民提供安全、干净、可信赖的搜索服务</data>
+        <data key="time">2016-05-03</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[搜索, 发表, 公开信, 放弃, 消费者, 医疗, 商业, 推广, 业务, 承诺, 网民, 提供, 信赖, 服务]</data>
+      </node>
+      <node id="{通报}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通报}, {告破}, {抓获-嫌疑人}]</data>
+        <data key="title">幸而8月26日下午官方通报说，徐玉玉电信诈骗案成功告破，主要犯罪嫌疑人郑某某（男，29岁，福建泉州人）等2人被抓获归案，其他犯罪嫌疑人正在追捕中</data>
+        <data key="time">2016-08-26</data>
+        <data key="person">[徐玉玉]</data>
+        <data key="location">[福建泉州]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[官方, 通报, 电信, 诈骗案, 告破, 犯罪, 嫌疑人, 福建, 泉州, 抓获, 归案, 追捕]</data>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="e0" source="{投资}" target="{申请-停牌}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e1" source="{采访-父母}" target="{发表-讲话}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e2" source="{收到-问询函}" target="{收到}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e3" source="{公布-调查}" target="{公布-事件}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e4" source="{审查-申请函}" target="{发表-声明}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e5" source="{公布}" target="{拥护-整改}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e6" source="{收到}" target="{申请-回复}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e7" source="{去世}" target="{增长}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e8" source="{去世}" target="{审查-申请函}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e9" source="{审查-申请函}" target="{致电-父母}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e10" source="{增长}" target="{申请-回复}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e11" source="{发表-声明}" target="{涉嫌-承包}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e12" source="{取消}" target="{审批-工作}" label="NEXTEVENT weight:4">
+        <data key="weight">4</data>
+      </edge>
+      <edge id="e13" source="{调查}" target="{误导-网民}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e14" source="{发酵}" target="{审查-申请函}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e15" source="{发现}" target="{搜索-网站}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e16" source="{发表-谈话}" target="{发现}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e17" source="{举报}" target="{进驻-公司}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e18" source="{进驻-公司}" target="{发现}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e19" source="{申请-内容}" target="{发酵}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e20" source="{审查-搜索}" target="{审查-申请函}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e21" source="{申请-停牌}" target="{申请-复牌}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e22" source="{发表-声明}" target="{拨通-热线}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e23" source="{公布-发行}" target="{收到}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e24" source="{遭遇}" target="{现身-大学}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e25" source="{审查-服务}" target="{违规}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e26" source="{调查-百度}" target="{回访-中心}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e27" source="{申请-停牌}" target="{上市}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e28" source="{申请-内容}" target="{搜索-选择}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e29" source="{审查-申请函}" target="{透露-会同}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e30" source="{去世}" target="{发表-声明}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e31" source="{致电-父母}" target="{采访-父母}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e32" source="{遭遇-重击}" target="{放弃-收购}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e33" source="{关联-关系}" target="{回答}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e34" source="{公开}" target="{申请-公开}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e35" source="{搜索}" target="{发表-公开信}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e36" source="{审查-申请函}" target="{进驻-公司}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e37" source="{去世}" target="{公开}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e38" source="{审查-搜索}" target="{发表-谈话}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e39" source="{收到-交易所}" target="{申请}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e40" source="{申请-停牌}" target="{收到-交易所}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e41" source="{发表-谈话}" target="{进驻-公司}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e42" source="{拨通-热线}" target="{求助}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e43" source="{打断-生活}" target="{质疑-讲话}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e44" source="{申请-内容}" target="{审查-申请函}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e45" source="{申请-内容}" target="{举报}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e46" source="{病逝}" target="{去世}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e47" source="{收到-问询函}" target="{核实}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e48" source="{透露-会同}" target="{举报}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e49" source="{投资}" target="{关联-交易}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e50" source="{涉嫌-承包}" target="{打断-生活}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e51" source="{进驻-百度}" target="{审查-服务}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e52" source="{发酵}" target="{申请-停牌}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e53" source="{收到}" target="{取消}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e54" source="{搜索-选择}" target="{审查-搜索}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e55" source="{告破}" target="{抓获-嫌疑人}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e56" source="{调查-资质}" target="{审查-申请函}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e57" source="{去世}" target="{申请-公开}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e58" source="{透露-会同}" target="{进驻-公司}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e59" source="{去世}" target="{发酵}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e60" source="{公布-事件}" target="{审核-内容}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e61" source="{遭遇}" target="{搜索-调查}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e62" source="{关联-交易}" target="{关联-关系}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e63" source="{发表-谈话}" target="{举报}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e64" source="{申请-公开}" target="{申请-内容}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e65" source="{申请-公开}" target="{公开}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e66" source="{进驻-公司}" target="{搜索}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e67" source="{公布-调查}" target="{搜索}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e68" source="{通报}" target="{告破}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e69" source="{进驻-百度}" target="{收到-问询函}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e70" source="{申请-停牌}" target="{申请-核查}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e71" source="{进驻-公司}" target="{申请-停牌}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e72" source="{发表-公开信}" target="{放弃-业务}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e73" source="{回访-中心}" target="{发表-谈话}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e74" source="{进驻-公司}" target="{公布-调查}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e75" source="{审核-内容}" target="{搜索-频道}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e76" source="{去世}" target="{拨通-电话}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e77" source="{公开}" target="{公布-调查}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e78" source="{发表-公告}" target="{澄清-发生}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e79" source="{申请-下发}" target="{收到-交易所}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e80" source="{感谢-关爱}" target="{审查-申请函}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e81" source="{投资}" target="{遭遇-重击}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e82" source="{发现-发布}" target="{去世}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e83" source="{否认}" target="{否认-中心}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e84" source="{公开}" target="{申请-内容}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e85" source="{审批-工作}" target="{问询-通知}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e86" source="{搜索}" target="{整改}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e87" source="{核实}" target="{上市}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e88" source="{申请-核查}" target="{收到-问询函}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gexf>
+  <graph>
+    <nodes>
+      <node id="{存入-学校}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-18</data>
+        <data key="name">{存入-学校}</data>
+      </node>
+      <node id="{抓获-熊超}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-26</data>
+        <data key="name">{抓获-熊超}</data>
+      </node>
+      <node id="{发现}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-21</data>
+        <data key="name">{发现}</data>
+      </node>
+      <node id="{探访-陈文辉}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-27</data>
+        <data key="name">{探访-陈文辉}</data>
+      </node>
+      <node id="{支付-结算}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-09-30</data>
+        <data key="name">{支付-结算}</data>
+      </node>
+      <node id="{冒充-教育}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-19</data>
+        <data key="name">{冒充-教育}</data>
+      </node>
+      <node id="{拨打-电话}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-19</data>
+        <data key="name">{拨打-电话}</data>
+      </node>
+      <node id="{透露}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-24</data>
+        <data key="name">{透露}</data>
+      </node>
+      <node id="{骗取-徐玉玉}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-19</data>
+        <data key="name">{骗取-徐玉玉}</data>
+      </node>
+      <node id="{公布}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-28</data>
+        <data key="name">{公布}</data>
+      </node>
+      <node id="{抓获-嫌疑人}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-09-21</data>
+        <data key="name">{抓获-嫌疑人}</data>
+      </node>
+      <node id="{泄露}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-09-21</data>
+        <data key="name">{泄露}</data>
+      </node>
+      <node id="{审查}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-09-25</data>
+        <data key="name">{审查}</data>
+      </node>
+      <node id="{归案}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-28</data>
+        <data key="name">{归案}</data>
+      </node>
+      <node id="{涉嫌-走私}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-20</data>
+        <data key="name">{涉嫌-走私}</data>
+      </node>
+      <node id="{回家}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-21</data>
+        <data key="name">{回家}</data>
+      </node>
+      <node id="{涉嫌-诈骗}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-09-30</data>
+        <data key="name">{涉嫌-诈骗}</data>
+      </node>
+      <node id="{报警}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-21</data>
+        <data key="name">{报警}</data>
+      </node>
+      <node id="{缴获-信息}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-09-21</data>
+        <data key="name">{缴获-信息}</data>
+      </node>
+      <node id="{猝死}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-09-09</data>
+        <data key="name">{猝死}</data>
+      </node>
+      <node id="{抓获-归案}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-26</data>
+        <data key="name">{抓获-归案}</data>
+      </node>
+      <node id="{操控}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-19</data>
+        <data key="name">{操控}</data>
+      </node>
+      <node id="{涉嫌-集资}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-14</data>
+        <data key="name">{涉嫌-集资}</data>
+      </node>
+      <node id="{打击-诈骗}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-09-23</data>
+        <data key="name">{打击-诈骗}</data>
+      </node>
+      <node id="{遭遇-诈骗}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-19</data>
+        <data key="name">{遭遇-诈骗}</data>
+      </node>
+      <node id="{诈骗-徐玉玉}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-19</data>
+        <data key="name">{诈骗-徐玉玉}</data>
+      </node>
+      <node id="{部署}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-09-21</data>
+        <data key="name">{部署}</data>
+      </node>
+      <node id="{通报-徐玉玉}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-26</data>
+        <data key="name">{通报-徐玉玉}</data>
+      </node>
+      <node id="{骗取-徐某}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-19</data>
+        <data key="name">{骗取-徐某}</data>
+      </node>
+      <node id="{解答}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-21</data>
+        <data key="name">{解答}</data>
+      </node>
+      <node id="{告破}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-26</data>
+        <data key="name">{告破}</data>
+      </node>
+      <node id="{采访}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-11-19</data>
+        <data key="name">{采访}</data>
+      </node>
+      <node id="{实施-诈骗}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-19</data>
+        <data key="name">{实施-诈骗}</data>
+      </node>
+      <node id="{去世}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-24</data>
+        <data key="name">{去世}</data>
+      </node>
+      <node id="{实施-徐玉玉}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-19</data>
+        <data key="name">{实施-徐玉玉}</data>
+      </node>
+      <node id="{冒充-干部}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-19</data>
+        <data key="name">{冒充-干部}</data>
+      </node>
+      <node id="{冒充-徐玉玉}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-19</data>
+        <data key="name">{冒充-徐玉玉}</data>
+      </node>
+      <node id="{交代-事实}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-26</data>
+        <data key="name">{交代-事实}</data>
+      </node>
+      <node id="{申请-助学金}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-18</data>
+        <data key="name">{申请-助学金}</data>
+      </node>
+      <node id="{通报}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-26</data>
+        <data key="name">{通报}</data>
+      </node>
+      <node id="{存入-银行卡}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-18</data>
+        <data key="name">{存入-银行卡}</data>
+      </node>
+      <node id="{骗取-存款}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-19</data>
+        <data key="name">{骗取-存款}</data>
+      </node>
+      <node id="{抓获}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-26</data>
+        <data key="name">{抓获}</data>
+      </node>
+      <node id="{实施-电信}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-19</data>
+        <data key="name">{实施-电信}</data>
+      </node>
+      <node id="{涉嫌-犯案}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-27</data>
+        <data key="name">{涉嫌-犯案}</data>
+      </node>
+      <node id="{通知-申请}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-16</data>
+        <data key="name">{通知-申请}</data>
+      </node>
+      <node id="{收到}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-18</data>
+        <data key="name">{收到}</data>
+      </node>
+      <node id="{涉嫌-洗钱}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-19</data>
+        <data key="name">{涉嫌-洗钱}</data>
+      </node>
+      <node id="{涉嫌-吸收}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-12-15</data>
+        <data key="name">{涉嫌-吸收}</data>
+      </node>
+      <node id="{申请-手续}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-25</data>
+        <data key="name">{申请-手续}</data>
+      </node>
+      <node id="{破获}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-26</data>
+        <data key="name">{破获}</data>
+      </node>
+      <node id="{诈骗}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-24</data>
+        <data key="name">{诈骗}</data>
+      </node>
+      <node id="{打击-合力}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-09-09</data>
+        <data key="name">{打击-合力}</data>
+      </node>
+      <node id="{骗取-学费}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-19</data>
+        <data key="name">{骗取-学费}</data>
+      </node>
+      <node id="{防范-事项}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-09-30</data>
+        <data key="name">{防范-事项}</data>
+      </node>
+      <node id="{涉嫌-滥用}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-09-05</data>
+        <data key="name">{涉嫌-滥用}</data>
+      </node>
+      <node id="{申请}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-19</data>
+        <data key="name">{申请}</data>
+      </node>
+      <node id="{侦查}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-11-24</data>
+        <data key="name">{侦查}</data>
+      </node>
+      <node id="{打击-侵犯}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-09-21</data>
+        <data key="name">{打击-侵犯}</data>
+      </node>
+      <node id="{通知-开通}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-08-20</data>
+        <data key="name">{通知-开通}</data>
+      </node>
+      <node id="{打击-犯罪}" labels=":ENTITY:TRIGGER">
+        <data key="time">2016-09-23</data>
+        <data key="name">{打击-犯罪}</data>
+      </node>
+      <node id="{通知-申请}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通知-申请}]</data>
+        <data key="title">8月中旬，还有半个月就能入学，徐家又迎来了一个喜讯：8月16日，徐玉玉接到罗庄区教育部门打来的电话，通知她可以申请贫困家庭助学金</data>
+        <data key="time">2016-08-16</data>
+        <data key="person">[徐玉玉, 徐家]</data>
+        <data key="location">[罗庄区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[入学, 迎来, 喜讯, 接到, 教育, 部门, 电话, 通知, 申请, 家庭, 助学金]</data>
+      </node>
+      <node id="{操控}_e" labels=":EVENTNODE">
+        <data key="trigger">[{诈骗-徐玉玉}, {操控}]</data>
+        <data key="title">8月19日16时许，该团伙诈骗徐玉玉9900元，在徐玉玉向嫌疑人冒用他人身份证开设的银行卡账户汇款6分钟后，陈某即操控在福建泉州的犯罪嫌疑人郑某某组织熊某、陈某某等人在泉州市一银行ATM机上取走赃款</data>
+        <data key="time">2016-08-19</data>
+        <data key="person">[徐玉玉, 熊某, 陈某]</data>
+        <data key="location">[福建泉州]</data>
+        <data key="organization">[泉州市一银行]</data>
+        <data key="keywords">[团伙, 诈骗, 嫌疑人, 冒用, 身份证, 开设, 银行卡, 账户, 汇款, 操控, 福建, 泉州, 犯罪, 组织, 泉州市, 银行, 赃款]</data>
+      </node>
+      <node id="{涉嫌-犯案}_e" labels=":EVENTNODE">
+        <data key="trigger">[{探访-陈文辉}, {涉嫌-犯案}]</data>
+        <data key="title">8月27日下午，重案组37号（微信ID：zhonganzu37）实地探访陈文辉家，陈文辉家人介绍，对陈涉嫌犯案并不知情，对受害者深感愧疚</data>
+        <data key="time">2016-08-27</data>
+        <data key="person">[陈文辉]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[重案组, 微信, 探访, 家人, 介绍, 涉嫌, 犯案, 知情, 受害者, 深感]</data>
+      </node>
+      <node id="{报警}_e" labels=":EVENTNODE">
+        <data key="trigger">[{报警}]</data>
+        <data key="title">无论如何，一家人也想不到，聚会结束的第二天，一个诈骗电话，不仅将徐玉玉的9900元学费骗光，也骗走了这个18岁女孩的年轻生命——当晚，徐玉玉报警被诈骗，做笔录后回家的途中，因为伤心过度，引发心脏骤停而昏迷不醒，于8月21日离世，年仅18岁</data>
+        <data key="time">2016-08-21</data>
+        <data key="person">[徐玉玉]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[一家, 聚会, 结束, 诈骗, 电话, 学费, 女孩, 生命, 报警, 笔录, 回家, 途中, 过度, 引发, 心脏, 骤停, 离世]</data>
+      </node>
+      <node id="{解答}_e" labels=":EVENTNODE">
+        <data key="trigger">[{解答}]</data>
+        <data key="title">8月21日晚，同学们的疑惑未及解答，QQ群里传来语音：“告诉大家一个不好的消息，玉玉已经心跳停止了</data>
+        <data key="time">2016-08-21</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[同学, 疑惑, 解答, 传来, 语音, 告诉, 消息, 玉玉, 心跳, 停止]</data>
+      </node>
+      <node id="{打击-诈骗}_e" labels=":EVENTNODE">
+        <data key="trigger">[{打击-犯罪}, {打击-诈骗}]</data>
+        <data key="title">9月23日，最高人民法院、最高人民检察院、公安部、工业和信息化部、中国人民银行、中国银行业监督管理委员会六部门联合发布了《防范和打击电信网络诈骗犯罪的通告》，全面打击电信网络诈骗</data>
+        <data key="time">2016-09-23</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[最高人民法院, 中国人民银行, 公安部, 最高人民检察院]</data>
+        <data key="keywords">[法院, 检察院, 工业, 信息化部, 中国, 银行, 中国银行业, 监督, 管理, 委员会, 部门, 联合, 发布, 防范, 打击, 电信, 网络, 诈骗, 犯罪, 通告]</data>
+      </node>
+      <node id="{通知-开通}_e" labels=":EVENTNODE">
+        <data key="trigger">[{涉嫌-走私}, {通知-开通}]</data>
+        <data key="title">8月20日，深圳一名78岁受害人接到诈骗电话，对方称其“名下有一个包裹涉嫌走私”，通知受害人立即将其名下的银行卡开通网银转账，接受安全检查</data>
+        <data key="time">2016-08-20</data>
+        <data key="person">[]</data>
+        <data key="location">[深圳]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[受害人, 接到, 诈骗, 电话, 名下, 包裹, 涉嫌, 走私, 通知, 银行卡, 开通, 网银, 转账, 接受, 检查]</data>
+      </node>
+      <node id="{涉嫌-洗钱}_e" labels=":EVENTNODE">
+        <data key="trigger">[{遭遇-诈骗}, {诈骗}, {涉嫌-洗钱}, {申请}]</data>
+        <data key="title">就在徐玉玉被电话骗走9900元学费的同一天，在8月19日下午，家住临沂市河东区汤头街道办事处塔桥村的大二学生李夏芹也遭遇了类似的电话诈骗，被人以涉嫌洗钱为由骗走东拼西凑的6800元学费，本要休学打工挣学费的她，在父母和老师的劝说下向亲朋好友筹借学费，打算向学校申请缓交学费和助学贷款走进大三生活</data>
+        <data key="time">2016-08-19</data>
+        <data key="person">[徐玉玉, 李夏芹]</data>
+        <data key="location">[塔桥村]</data>
+        <data key="organization">[临沂市河东区汤头街道办事处]</data>
+        <data key="keywords">[电话, 学费, 临沂市, 河东区, 汤头, 街道, 办事处, 学生, 遭遇, 诈骗, 涉嫌, 洗钱, 为由, 骗走, 休学, 打工, 父母, 老师, 劝说, 筹借, 打算, 学校, 申请, 助学, 贷款, 生活]</data>
+      </node>
+      <node id="{涉嫌-吸收}_e" labels=":EVENTNODE">
+        <data key="trigger">[{涉嫌-集资}, {涉嫌-吸收}]</data>
+        <data key="title">2016年12月15日，北京市检察院第一分院以被告单位安徽钰诚控股集团、钰诚国际控股集团有限公司以及被告人丁宁等10人涉嫌集资诈骗罪，被告人王之焕等16人涉嫌非法吸收公众存款罪，向北京市第一中级法院提起公诉</data>
+        <data key="time">2016-12-15</data>
+        <data key="person">[丁宁, 王之焕]</data>
+        <data key="location">[]</data>
+        <data key="organization">[钰诚国际控股集团有限公司, 安徽钰诚控股集团, 北京市第一中级法院, 北京市检察院]</data>
+        <data key="keywords">[北京市, 检察院, 分院, 被告, 单位, 安徽, 钰诚, 控股, 集团, 国际, 有限公司, 被告人, 涉嫌, 集资, 诈骗罪, 吸收, 公众, 存款, 法院, 提起, 公诉]</data>
+      </node>
+      <node id="{侦查}_e" labels=":EVENTNODE">
+        <data key="trigger">[{侦查}, {审查}]</data>
+        <data key="title">2016年11月24日，甘肃公安机关披露，本案已侦查终结移送检察机关审查起诉</data>
+        <data key="time">2016-11-24</data>
+        <data key="person">[]</data>
+        <data key="location">[甘肃]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[公安, 机关, 披露, 侦查, 终结, 移送, 审查, 起诉]</data>
+      </node>
+      <node id="{涉嫌-滥用}_e" labels=":EVENTNODE">
+        <data key="trigger">[{涉嫌-滥用}]</data>
+        <data key="title">9月5日，苏州市检察院以涉嫌滥用职权罪、受贿罪对张某决定逮捕</data>
+        <data key="time">2016-09-05</data>
+        <data key="person">[张某]</data>
+        <data key="location">[]</data>
+        <data key="organization">[苏州市检察院]</data>
+        <data key="keywords">[苏州市, 检察院, 涉嫌, 滥用, 职权, 受贿罪, 逮捕]</data>
+      </node>
+      <node id="{诈骗-徐玉玉}_e" labels=":EVENTNODE">
+        <data key="trigger">[{诈骗-徐玉玉}, {操控}]</data>
+        <data key="title">8月19日16时许，该团伙诈骗徐玉玉9900元，在徐玉玉向嫌疑人冒用他人身份证开设的银行卡账户汇款6分钟后，陈某即操控在福建泉州的犯罪嫌疑人郑某某组织熊某、陈某某等人在泉州市一银行ATM机上取走赃款</data>
+        <data key="time">2016-08-19</data>
+        <data key="person">[徐玉玉, 熊某, 陈某]</data>
+        <data key="location">[福建泉州]</data>
+        <data key="organization">[泉州市一银行]</data>
+        <data key="keywords">[团伙, 诈骗, 嫌疑人, 冒用, 身份证, 开设, 银行卡, 账户, 汇款, 操控, 福建, 泉州, 犯罪, 组织, 泉州市, 银行, 赃款]</data>
+      </node>
+      <node id="{遭遇-诈骗}_e" labels=":EVENTNODE">
+        <data key="trigger">[{遭遇-诈骗}, {诈骗}, {涉嫌-洗钱}, {申请}]</data>
+        <data key="title">就在徐玉玉被电话骗走9900元学费的同一天，在8月19日下午，家住临沂市河东区汤头街道办事处塔桥村的大二学生李夏芹也遭遇了类似的电话诈骗，被人以涉嫌洗钱为由骗走东拼西凑的6800元学费，本要休学打工挣学费的她，在父母和老师的劝说下向亲朋好友筹借学费，打算向学校申请缓交学费和助学贷款走进大三生活</data>
+        <data key="time">2016-08-19</data>
+        <data key="person">[徐玉玉, 李夏芹]</data>
+        <data key="location">[塔桥村]</data>
+        <data key="organization">[临沂市河东区汤头街道办事处]</data>
+        <data key="keywords">[电话, 学费, 临沂市, 河东区, 汤头, 街道, 办事处, 学生, 遭遇, 诈骗, 涉嫌, 洗钱, 为由, 骗走, 休学, 打工, 父母, 老师, 劝说, 筹借, 打算, 学校, 申请, 助学, 贷款, 生活]</data>
+      </node>
+      <node id="{骗取-徐某}_e" labels=":EVENTNODE">
+        <data key="trigger">[{冒充-干部}, {骗取-徐某}]</data>
+        <data key="title">据公安部刑事侦查局官方微博消息，8月19日，犯罪嫌疑人陈文辉等人冒充教育局干部，以发放助学金的名义骗取山东省临沂市群众徐某9900元</data>
+        <data key="time">2016-08-19</data>
+        <data key="person">[陈文辉, 徐某]</data>
+        <data key="location">[山东省临沂市]</data>
+        <data key="organization">[公安部]</data>
+        <data key="keywords">[侦查局, 官方, 微博, 消息, 犯罪, 嫌疑人, 冒充, 教育局, 干部, 发放, 助学金, 名义, 骗取, 山东省, 临沂市, 群众]</data>
+      </node>
+      <node id="{通报-徐玉玉}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通报-徐玉玉}]</data>
+        <data key="title">8月26日，公安部刑事侦查局官方微博通报了山东临沂徐玉玉“被骗死”案，公布的6名嫌犯信息显示，其中5名嫌犯均来自福建省泉州市</data>
+        <data key="time">2016-08-26</data>
+        <data key="person">[徐玉玉]</data>
+        <data key="location">[山东临沂, 福建省泉州市]</data>
+        <data key="organization">[公安部]</data>
+        <data key="keywords">[侦查局, 官方, 微博, 通报, 山东, 临沂, 公布, 嫌犯, 信息, 显示, 福建省, 泉州市]</data>
+      </node>
+      <node id="{告破}_e" labels=":EVENTNODE">
+        <data key="trigger">[{告破}, {抓获-归案}]</data>
+        <data key="title">梁犇)山东临沂市官方8月26日对外发布消息称，罗庄徐玉玉电信诈骗案告破，主要犯罪嫌疑人郑某某(男，29岁，福建泉州人)、黄某某(男，26岁，福建泉州人)等2人被抓获归案</data>
+        <data key="time">2016-08-26</data>
+        <data key="person">[徐玉玉, 梁犇]</data>
+        <data key="location">[罗庄, 福建泉州, 山东临沂市]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[山东, 临沂市, 官方, 对外, 发布, 消息, 电信, 诈骗案, 告破, 犯罪, 嫌疑人, 福建, 泉州, 抓获, 归案]</data>
+      </node>
+      <node id="{存入-学校}_e" labels=":EVENTNODE">
+        <data key="trigger">[{存入-学校}]</data>
+        <data key="title">8月18日，徐连彬连同亲戚给徐玉玉的贺礼凑齐了1万元存入了学校寄来让徐玉玉缴纳学费的银行卡内</data>
+        <data key="time">2016-08-18</data>
+        <data key="person">[徐玉玉, 徐连彬]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[亲戚, 贺礼, 存入, 学校, 缴纳, 学费, 银行卡]</data>
+      </node>
+      <node id="{去世}_e" labels=":EVENTNODE">
+        <data key="trigger">[{去世}]</data>
+        <data key="title">8月24日，女儿徐玉玉去世3天后，徐连彬全家被悲伤和热议包围</data>
+        <data key="time">2016-08-24</data>
+        <data key="person">[徐玉玉, 徐连彬]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[女儿, 去世, 全家, 热议, 包围]</data>
+      </node>
+      <node id="{实施-徐玉玉}_e" labels=":EVENTNODE">
+        <data key="trigger">[{实施-徐玉玉}, {诈骗}]</data>
+        <data key="title">最新进展7名嫌疑人被批捕今年8月19日，临沂罗庄区高考录取新生徐玉玉被犯罪嫌疑人以发放助学金为名，实施电信诈骗9900元</data>
+        <data key="time">2016-08-19</data>
+        <data key="person">[徐玉玉]</data>
+        <data key="location">[临沂罗庄区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[进展, 嫌疑人, 批捕, 临沂, 罗庄区, 高考, 录取, 新生, 犯罪, 发放, 助学金, 为名, 实施, 电信, 诈骗]</data>
+      </node>
+      <node id="{冒充-干部}_e" labels=":EVENTNODE">
+        <data key="trigger">[{冒充-干部}, {骗取-徐玉玉}]</data>
+        <data key="title">公安部刑侦局官微显示，8月19日，犯罪嫌疑人陈文辉等人冒充教育局干部，以发放助学金的名义骗取山东省临沂市群众徐玉玉9900元</data>
+        <data key="time">2016-08-19</data>
+        <data key="person">[徐玉玉, 陈文辉]</data>
+        <data key="location">[山东省临沂市]</data>
+        <data key="organization">[公安部]</data>
+        <data key="keywords">[刑侦局, 显示, 犯罪, 嫌疑人, 冒充, 教育局, 干部, 发放, 助学金, 名义, 骗取, 山东省, 临沂市, 群众]</data>
+      </node>
+      <node id="{致电-公司}_e" labels=":EVENTNODE">
+        <data key="trigger">[{致电-公司}]</data>
+        <data key="title">8月28日，封面新闻（thecover.cn）记者致电安溪县移动公司了解近两年来的情况以及一部手机每日可发的诈骗短信数据，接电话的工作人员表示没有作过统计，不太清楚情况</data>
+        <data key="time">2016-08-28</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[安溪县移动公司]</data>
+        <data key="keywords">[封面, 新闻, 记者, 致电, 安溪县, 公司, 情况, 手机, 诈骗, 短信, 数据, 电话, 工作, 人员, 统计]</data>
+      </node>
+      <node id="{透露}_e" labels=":EVENTNODE">
+        <data key="trigger">[{透露}, {诈骗}]</data>
+        <data key="title">”8月24日，临沂市公安局罗庄分局相关负责人向新京报透露，此前也处理过电信诈骗案件，但像这次的情况还是第一次遇到，“非常令人痛恨，我们一定会尽全力破案</data>
+        <data key="time">2016-08-24</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[临沂市公安局罗庄分局]</data>
+        <data key="keywords">[临沂市, 公安局, 罗庄, 分局, 相关, 负责人, 京报, 透露, 电信, 诈骗, 案件, 情况, 痛恨, 破案]</data>
+      </node>
+      <node id="{骗取-存款}_e" labels=":EVENTNODE">
+        <data key="trigger">[{拨打-电话}, {骗取-存款}]</data>
+        <data key="title">8月19日16时许，郑贤聪拨打徐玉玉电话，骗取其银行存款9900元</data>
+        <data key="time">2016-08-19</data>
+        <data key="person">[徐玉玉, 郑贤聪]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[拨打, 电话, 骗取, 银行, 存款]</data>
+      </node>
+      <node id="{公布}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公布}, {归案}]</data>
+        <data key="title">本报北京8月28日电（中国青年报·中青在线记者何春中）继山东临沂罗庄区徐玉玉电信诈骗案的头号犯罪嫌疑人陈文辉27日投案自首后，来自福建警方的消息称，该案A级通缉令最后一名嫌疑人郑贤聪投案自首，警方公布的6名犯罪嫌疑人已全部归案</data>
+        <data key="time">2016-08-28</data>
+        <data key="person">[郑贤聪, 陈文辉, 何春中]</data>
+        <data key="location">[福建, 中国, 北京]</data>
+        <data key="organization">[山东临沂罗庄区徐玉玉电信诈骗案]</data>
+        <data key="keywords">[青年, 在线, 记者, 山东, 临沂, 罗庄区, 徐玉玉, 电信, 诈骗案, 犯罪, 嫌疑人, 投案, 自首, 警方, 消息, 通缉令, 公布, 归案]</data>
+      </node>
+      <node id="{抓获-嫌疑人}_e" labels=":EVENTNODE">
+        <data key="trigger">[{泄露}, {部署}, {打击-侵犯}, {抓获-嫌疑人}, {缴获-信息}]</data>
+        <data key="title">需多方共同努力公民个信息泄露，已成为电信诈骗犯罪高发的助燃剂，自今年4月公安部部署开展打击整治网络侵犯公民个人信息犯罪专项行动以来，截至9月21日，共查破刑事案件1200多起，抓获犯罪嫌疑人3300多人，其中银行、教育、电信、快递、证券、电商网站等行业的内部人员270多人，网络黑客90多人，缴获信息290多亿条</data>
+        <data key="time">2016-09-21</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[公安部]</data>
+        <data key="keywords">[公民, 信息, 泄露, 电信, 诈骗, 犯罪, 助燃剂, 部署, 打击, 整治, 网络, 侵犯, 案件, 抓获, 嫌疑人, 银行, 教育, 快递, 证券, 电商, 网站, 行业, 人员, 黑客, 缴获]</data>
+      </node>
+      <node id="{涉嫌-走私}_e" labels=":EVENTNODE">
+        <data key="trigger">[{涉嫌-走私}, {通知-开通}]</data>
+        <data key="title">8月20日，深圳一名78岁受害人接到诈骗电话，对方称其“名下有一个包裹涉嫌走私”，通知受害人立即将其名下的银行卡开通网银转账，接受安全检查</data>
+        <data key="time">2016-08-20</data>
+        <data key="person">[]</data>
+        <data key="location">[深圳]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[受害人, 接到, 诈骗, 电话, 名下, 包裹, 涉嫌, 走私, 通知, 银行卡, 开通, 网银, 转账, 接受, 检查]</data>
+      </node>
+      <node id="{归案}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公布}, {归案}]</data>
+        <data key="title">本报北京8月28日电（中国青年报·中青在线记者何春中）继山东临沂罗庄区徐玉玉电信诈骗案的头号犯罪嫌疑人陈文辉27日投案自首后，来自福建警方的消息称，该案A级通缉令最后一名嫌疑人郑贤聪投案自首，警方公布的6名犯罪嫌疑人已全部归案</data>
+        <data key="time">2016-08-28</data>
+        <data key="person">[郑贤聪, 陈文辉, 何春中]</data>
+        <data key="location">[福建, 中国, 北京]</data>
+        <data key="organization">[山东临沂罗庄区徐玉玉电信诈骗案]</data>
+        <data key="keywords">[青年, 在线, 记者, 山东, 临沂, 罗庄区, 徐玉玉, 电信, 诈骗案, 犯罪, 嫌疑人, 投案, 自首, 警方, 消息, 通缉令, 公布, 归案]</data>
+      </node>
+      <node id="{泄露}_e" labels=":EVENTNODE">
+        <data key="trigger">[{泄露}, {部署}, {打击-侵犯}, {抓获-嫌疑人}, {缴获-信息}]</data>
+        <data key="title">需多方共同努力公民个信息泄露，已成为电信诈骗犯罪高发的助燃剂，自今年4月公安部部署开展打击整治网络侵犯公民个人信息犯罪专项行动以来，截至9月21日，共查破刑事案件1200多起，抓获犯罪嫌疑人3300多人，其中银行、教育、电信、快递、证券、电商网站等行业的内部人员270多人，网络黑客90多人，缴获信息290多亿条</data>
+        <data key="time">2016-09-21</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[公安部]</data>
+        <data key="keywords">[公民, 信息, 泄露, 电信, 诈骗, 犯罪, 助燃剂, 部署, 打击, 整治, 网络, 侵犯, 案件, 抓获, 嫌疑人, 银行, 教育, 快递, 证券, 电商, 网站, 行业, 人员, 黑客, 缴获]</data>
+      </node>
+      <node id="{审查}_e" labels=":EVENTNODE">
+        <data key="trigger">[{审查}]</data>
+        <data key="title">9月25日，陈文辉等7人被提请检察机关审查批准逮捕</data>
+        <data key="time">2016-09-25</data>
+        <data key="person">[陈文辉]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[提请, 机关, 审查, 批准, 逮捕]</data>
+      </node>
+      <node id="{涉嫌-诈骗}_e" labels=":EVENTNODE">
+        <data key="trigger">[{涉嫌-诈骗}]</data>
+        <data key="title">9月30日，安溪县公安局首次对48名安溪籍贯涉嫌诈骗的网上逃犯进行通缉</data>
+        <data key="time">2016-09-30</data>
+        <data key="person">[]</data>
+        <data key="location">[安溪]</data>
+        <data key="organization">[安溪县公安局]</data>
+        <data key="keywords">[安溪县, 公安局, 籍贯, 涉嫌, 诈骗, 网上, 逃犯, 通缉]</data>
+      </node>
+      <node id="{申请-助学金}_e" labels=":EVENTNODE">
+        <data key="trigger">[{申请-助学金}, {收到}]</data>
+        <data key="title">临沂市罗庄区教育局工作人员向记者证实，8月18日确实给徐玉玉打过电话，告诉徐玉玉其申请助学金的材料已经收到，正要往上级部门进行申报，让徐玉玉等待通知</data>
+        <data key="time">2016-08-18</data>
+        <data key="person">[徐玉玉]</data>
+        <data key="location">[临沂市罗庄区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[临沂市, 罗庄区, 教育局, 工作, 人员, 记者, 证实, 电话, 告诉, 申请, 助学金, 材料, 收到, 上级, 部门, 申报, 等待, 通知]</data>
+      </node>
+      <node id="{缴获-信息}_e" labels=":EVENTNODE">
+        <data key="trigger">[{泄露}, {部署}, {打击-侵犯}, {抓获-嫌疑人}, {缴获-信息}]</data>
+        <data key="title">需多方共同努力公民个信息泄露，已成为电信诈骗犯罪高发的助燃剂，自今年4月公安部部署开展打击整治网络侵犯公民个人信息犯罪专项行动以来，截至9月21日，共查破刑事案件1200多起，抓获犯罪嫌疑人3300多人，其中银行、教育、电信、快递、证券、电商网站等行业的内部人员270多人，网络黑客90多人，缴获信息290多亿条</data>
+        <data key="time">2016-09-21</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[公安部]</data>
+        <data key="keywords">[公民, 信息, 泄露, 电信, 诈骗, 犯罪, 助燃剂, 部署, 打击, 整治, 网络, 侵犯, 案件, 抓获, 嫌疑人, 银行, 教育, 快递, 证券, 电商, 网站, 行业, 人员, 黑客, 缴获]</data>
+      </node>
+      <node id="{猝死}_e" labels=":EVENTNODE">
+        <data key="trigger">[{猝死}]</data>
+        <data key="title">据新华社北京9月9日电近日，山东、广东等地连续发生3起学生遭电信网络诈骗案件，导致受害人猝死或自杀，引起社会广泛关注</data>
+        <data key="time">2016-09-09</data>
+        <data key="person">[]</data>
+        <data key="location">[山东, 广东, 北京]</data>
+        <data key="organization">[新华社]</data>
+        <data key="keywords">[发生, 学生, 电信, 网络, 诈骗, 案件, 导致, 受害人, 猝死, 自杀, 社会, 关注]</data>
+      </node>
+      <node id="{抓获}_e" labels=":EVENTNODE">
+        <data key="trigger">[{抓获}]</data>
+        <data key="title">8月26日，福建公安机关将其抓获</data>
+        <data key="time">2016-08-26</data>
+        <data key="person">[]</data>
+        <data key="location">[福建]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[公安, 机关, 抓获]</data>
+      </node>
+      <node id="{收到}_e" labels=":EVENTNODE">
+        <data key="trigger">[{申请-助学金}, {收到}]</data>
+        <data key="title">临沂市罗庄区教育局工作人员向记者证实，8月18日确实给徐玉玉打过电话，告诉徐玉玉其申请助学金的材料已经收到，正要往上级部门进行申报，让徐玉玉等待通知</data>
+        <data key="time">2016-08-18</data>
+        <data key="person">[徐玉玉]</data>
+        <data key="location">[临沂市罗庄区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[临沂市, 罗庄区, 教育局, 工作, 人员, 记者, 证实, 电话, 告诉, 申请, 助学金, 材料, 收到, 上级, 部门, 申报, 等待, 通知]</data>
+      </node>
+      <node id="{涉嫌-集资}_e" labels=":EVENTNODE">
+        <data key="trigger">[{侦查}, {涉嫌-集资}, {审查}]</data>
+        <data key="title">2016年8月14日，案件侦查终结，丁宁等26名犯罪嫌疑人因涉嫌集资诈骗、非法吸收公众存款等罪被移送检察机关审查起诉</data>
+        <data key="time">2016-08-14</data>
+        <data key="person">[丁宁]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[案件, 侦查, 终结, 犯罪, 嫌疑人, 涉嫌, 集资, 诈骗, 吸收, 公众, 存款, 等罪, 移送, 机关, 审查, 起诉]</data>
+      </node>
+      <node id="{打击-合力}_e" labels=":EVENTNODE">
+        <data key="trigger">[{打击-合力}]</data>
+        <data key="title">9月9日，被外界称为“电信诈骗重镇”的徐玉玉案主要嫌犯籍贯所在地——福建省安溪县召开了“诚信建设千人大会”，代县长刘林霜宣读《致全县人民一封信》，并表态“坚决铲除电信诈骗犯罪毒瘤，全力打造诚信之安溪”，要求全县机关、企事业单位及村（居）“两委”的党员、干部、职工要规劝犯罪嫌疑人投案自首，发动群众检举揭发，积极为公安机关提供破案线索，切实形成打击工作合力，让诈骗分子成为“过街老鼠，人人喊打”</data>
+        <data key="time">2016-09-09</data>
+        <data key="person">[刘林霜]</data>
+        <data key="location">[福建省安溪县]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[外界, 称为, 电信, 诈骗, 重镇, 徐玉玉案, 嫌犯, 籍贯, 所在地, 福建省, 安溪县, 建设, 大会, 县长, 宣读, 全县, 表态, 铲除, 犯罪, 毒瘤, 打造, 安溪, 机关, 企事业, 单位, 党员, 干部, 职工, 规劝, 嫌疑人, 投案, 自首, 发动, 群众, 检举, 揭发, 公安, 提供, 破案, 线索, 打击, 工作, 合力, 分子]</data>
+      </node>
+      <node id="{申请-手续}_e" labels=":EVENTNODE">
+        <data key="trigger">[{申请-手续}]</data>
+        <data key="title">“接到通知后，我陪着女儿按程序办了申请手续，说是8月25日到9月11日这期间就能领到助学金</data>
+        <data key="time">2016-08-25</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[接到, 通知, 女儿, 程序, 申请, 手续, 说是, 领到, 助学金]</data>
+      </node>
+      <node id="{诈骗}_e" labels=":EVENTNODE">
+        <data key="trigger">[{透露}, {诈骗}]</data>
+        <data key="title">”8月24日，临沂市公安局罗庄分局相关负责人向新京报透露，此前也处理过电信诈骗案件，但像这次的情况还是第一次遇到，“非常令人痛恨，我们一定会尽全力破案</data>
+        <data key="time">2016-08-24</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[临沂市公安局罗庄分局]</data>
+        <data key="keywords">[临沂市, 公安局, 罗庄, 分局, 相关, 负责人, 京报, 透露, 电信, 诈骗, 案件, 情况, 痛恨, 破案]</data>
+      </node>
+      <node id="{破获}_e" labels=":EVENTNODE">
+        <data key="trigger">[{破获}]</data>
+        <data key="title">”8月26日下午，徐玉玉的父亲徐连彬告诉新京报，下午6点半左右，徐玉玉一位同学的家长打电话告知案件破获的消息</data>
+        <data key="time">2016-08-26</data>
+        <data key="person">[徐玉玉, 徐连彬]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[父亲, 告诉, 新京报, 同学, 家长, 打电话, 告知, 案件, 破获, 消息]</data>
+      </node>
+      <node id="{骗取-学费}_e" labels=":EVENTNODE">
+        <data key="trigger">[{骗取-学费}, {猝死}, {实施-诈骗}]</data>
+        <data key="title">这场发生在今年8月19日、因骗取山东18岁高考女生徐玉玉9900元学费而致其猝死的电信诈骗案，6名实施诈骗的嫌疑人和1名出售考生信息的嫌疑人俱已被捕</data>
+        <data key="time">2016-08-19</data>
+        <data key="person">[徐玉玉]</data>
+        <data key="location">[山东]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[发生, 骗取, 高考, 女生, 学费, 猝死, 电信, 诈骗案, 实施, 诈骗, 嫌疑人, 出售, 考生, 信息, 被捕]</data>
+      </node>
+      <node id="{防范-事项}_e" labels=":EVENTNODE">
+        <data key="trigger">[{支付-结算}, {防范-事项}]</data>
+        <data key="title">以中国人民银行为例，7天后，也即9月30日，该行下发了《关于加强支付结算管理防范电信网络新型违法犯罪有关事项的通知》，从加强账户实名制管理等七大方面，提出了二十条监管要求</data>
+        <data key="time">2016-09-30</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[中国人民银行]</data>
+        <data key="keywords">[中国, 银行, 下发, 支付, 结算, 管理, 防范, 电信, 网络, 违法, 犯罪, 事项, 通知, 账户, 实名制, 提出, 监管]</data>
+      </node>
+      <node id="{申请}_e" labels=":EVENTNODE">
+        <data key="trigger">[{遭遇-诈骗}, {诈骗}, {涉嫌-洗钱}, {申请}]</data>
+        <data key="title">就在徐玉玉被电话骗走9900元学费的同一天，在8月19日下午，家住临沂市河东区汤头街道办事处塔桥村的大二学生李夏芹也遭遇了类似的电话诈骗，被人以涉嫌洗钱为由骗走东拼西凑的6800元学费，本要休学打工挣学费的她，在父母和老师的劝说下向亲朋好友筹借学费，打算向学校申请缓交学费和助学贷款走进大三生活</data>
+        <data key="time">2016-08-19</data>
+        <data key="person">[徐玉玉, 李夏芹]</data>
+        <data key="location">[塔桥村]</data>
+        <data key="organization">[临沂市河东区汤头街道办事处]</data>
+        <data key="keywords">[电话, 学费, 临沂市, 河东区, 汤头, 街道, 办事处, 学生, 遭遇, 诈骗, 涉嫌, 洗钱, 为由, 骗走, 休学, 打工, 父母, 老师, 劝说, 筹借, 打算, 学校, 申请, 助学, 贷款, 生活]</data>
+      </node>
+      <node id="{打击-侵犯}_e" labels=":EVENTNODE">
+        <data key="trigger">[{泄露}, {部署}, {打击-侵犯}, {抓获-嫌疑人}, {缴获-信息}]</data>
+        <data key="title">需多方共同努力公民个信息泄露，已成为电信诈骗犯罪高发的助燃剂，自今年4月公安部部署开展打击整治网络侵犯公民个人信息犯罪专项行动以来，截至9月21日，共查破刑事案件1200多起，抓获犯罪嫌疑人3300多人，其中银行、教育、电信、快递、证券、电商网站等行业的内部人员270多人，网络黑客90多人，缴获信息290多亿条</data>
+        <data key="time">2016-09-21</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[公安部]</data>
+        <data key="keywords">[公民, 信息, 泄露, 电信, 诈骗, 犯罪, 助燃剂, 部署, 打击, 整治, 网络, 侵犯, 案件, 抓获, 嫌疑人, 银行, 教育, 快递, 证券, 电商, 网站, 行业, 人员, 黑客, 缴获]</data>
+      </node>
+      <node id="{部署}_e" labels=":EVENTNODE">
+        <data key="trigger">[{泄露}, {部署}, {打击-侵犯}, {抓获-嫌疑人}, {缴获-信息}]</data>
+        <data key="title">需多方共同努力公民个信息泄露，已成为电信诈骗犯罪高发的助燃剂，自今年4月公安部部署开展打击整治网络侵犯公民个人信息犯罪专项行动以来，截至9月21日，共查破刑事案件1200多起，抓获犯罪嫌疑人3300多人，其中银行、教育、电信、快递、证券、电商网站等行业的内部人员270多人，网络黑客90多人，缴获信息290多亿条</data>
+        <data key="time">2016-09-21</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[公安部]</data>
+        <data key="keywords">[公民, 信息, 泄露, 电信, 诈骗, 犯罪, 助燃剂, 部署, 打击, 整治, 网络, 侵犯, 案件, 抓获, 嫌疑人, 银行, 教育, 快递, 证券, 电商, 网站, 行业, 人员, 黑客, 缴获]</data>
+      </node>
+      <node id="{打击-犯罪}_e" labels=":EVENTNODE">
+        <data key="trigger">[{打击-犯罪}, {打击-诈骗}]</data>
+        <data key="title">9月23日，最高人民法院、最高人民检察院、公安部、工业和信息化部、中国人民银行、中国银行业监督管理委员会六部门联合发布了《防范和打击电信网络诈骗犯罪的通告》，全面打击电信网络诈骗</data>
+        <data key="time">2016-09-23</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[最高人民法院, 中国人民银行, 公安部, 最高人民检察院]</data>
+        <data key="keywords">[法院, 检察院, 工业, 信息化部, 中国, 银行, 中国银行业, 监督, 管理, 委员会, 部门, 联合, 发布, 防范, 打击, 电信, 网络, 诈骗, 犯罪, 通告]</data>
+      </node>
+      <node id="{采访}_e" labels=":EVENTNODE">
+        <data key="trigger">[{采访}]</data>
+        <data key="title">11月19日，徐玉玉父亲徐连彬在接受封面新闻（thecover.cn）记者采访时，仍然处于悲痛之中</data>
+        <data key="time">2016-11-19</data>
+        <data key="person">[徐玉玉, 徐连彬]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[父亲, 接受, 封面, 新闻, 记者, 采访, 处于]</data>
+      </node>
+      <node id="{实施-诈骗}_e" labels=":EVENTNODE">
+        <data key="trigger">[{实施-诈骗}]</data>
+        <data key="title">8月19日，山东省临沂市高考录取新生徐玉玉被犯罪嫌疑人以发放助学金的名义，实施电信诈骗，骗走9900元，呼吸心脏骤停，最终抢救无效去世，造成恶劣影响</data>
+        <data key="time">2016-08-19</data>
+        <data key="person">[徐玉玉]</data>
+        <data key="location">[山东省临沂市]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[山东省, 临沂市, 高考, 录取, 新生, 犯罪, 嫌疑人, 发放, 助学金, 名义, 实施, 电信, 诈骗, 呼吸, 心脏, 抢救, 无效, 去世, 影响]</data>
+      </node>
+      <node id="{抓获-熊超}_e" labels=":EVENTNODE">
+        <data key="trigger">[{抓获-熊超}]</data>
+        <data key="title">8月26日傍晚，犯罪嫌疑人熊超也被抓获</data>
+        <data key="time">2016-08-26</data>
+        <data key="person">[熊超]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[犯罪, 嫌疑人, 抓获]</data>
+      </node>
+      <node id="{探访-陈文辉}_e" labels=":EVENTNODE">
+        <data key="trigger">[{探访-陈文辉}, {涉嫌-犯案}]</data>
+        <data key="title">8月27日下午，重案组37号（微信ID：zhonganzu37）实地探访陈文辉家，陈文辉家人介绍，对陈涉嫌犯案并不知情，对受害者深感愧疚</data>
+        <data key="time">2016-08-27</data>
+        <data key="person">[陈文辉]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[重案组, 微信, 探访, 家人, 介绍, 涉嫌, 犯案, 知情, 受害者, 深感]</data>
+      </node>
+      <node id="{支付-结算}_e" labels=":EVENTNODE">
+        <data key="trigger">[{支付-结算}, {防范-事项}]</data>
+        <data key="title">以中国人民银行为例，7天后，也即9月30日，该行下发了《关于加强支付结算管理防范电信网络新型违法犯罪有关事项的通知》，从加强账户实名制管理等七大方面，提出了二十条监管要求</data>
+        <data key="time">2016-09-30</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[中国人民银行]</data>
+        <data key="keywords">[中国, 银行, 下发, 支付, 结算, 管理, 防范, 电信, 网络, 违法, 犯罪, 事项, 通知, 账户, 实名制, 提出, 监管]</data>
+      </node>
+      <node id="{发现}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现}]</data>
+        <data key="title">8月21日，发现被骗后，徐玉玉万分难过，当晚就和家人报了案</data>
+        <data key="time">2016-08-21</data>
+        <data key="person">[徐玉玉]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[发现, 家人]</data>
+      </node>
+      <node id="{冒充-徐玉玉}_e" labels=":EVENTNODE">
+        <data key="trigger">[{冒充-徐玉玉}, {诈骗}]</data>
+        <data key="title">8月19日，山东省临沂市高考录取新生徐玉玉被不法分子冒充教育、财政部门工作人员诈骗9900元</data>
+        <data key="time">2016-08-19</data>
+        <data key="person">[徐玉玉]</data>
+        <data key="location">[山东省临沂市]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[山东省, 临沂市, 高考, 录取, 新生, 不法分子, 冒充, 教育, 财政, 部门, 工作, 人员, 诈骗]</data>
+      </node>
+      <node id="{冒充-教育}_e" labels=":EVENTNODE">
+        <data key="trigger">[{冒充-教育}, {诈骗}]</data>
+        <data key="title">据介绍，8月19日，山东省临沂市高考录取新生徐玉玉被不法分子冒充教育、财政部门工作人员诈骗9900元</data>
+        <data key="time">2016-08-19</data>
+        <data key="person">[徐玉玉]</data>
+        <data key="location">[山东省临沂市]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[介绍, 山东省, 临沂市, 高考, 录取, 新生, 不法分子, 冒充, 教育, 财政, 部门, 工作, 人员, 诈骗]</data>
+      </node>
+      <node id="{交代-事实}_e" labels=":EVENTNODE">
+        <data key="trigger">[{交代-事实}]</data>
+        <data key="title">8月26日，高承勇落网，交代了其在白银、包头性侵杀害11名女性的犯罪事实</data>
+        <data key="time">2016-08-26</data>
+        <data key="person">[高承勇]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[落网, 交代, 白银, 包头性侵, 杀害, 女性, 犯罪, 事实]</data>
+      </node>
+      <node id="{骗取-徐玉玉}_e" labels=":EVENTNODE">
+        <data key="trigger">[{冒充-干部}, {骗取-徐玉玉}]</data>
+        <data key="title">公安部刑侦局官微显示，8月19日，犯罪嫌疑人陈文辉等人冒充教育局干部，以发放助学金的名义骗取山东省临沂市群众徐玉玉9900元</data>
+        <data key="time">2016-08-19</data>
+        <data key="person">[徐玉玉, 陈文辉]</data>
+        <data key="location">[山东省临沂市]</data>
+        <data key="organization">[公安部]</data>
+        <data key="keywords">[刑侦局, 显示, 犯罪, 嫌疑人, 冒充, 教育局, 干部, 发放, 助学金, 名义, 骗取, 山东省, 临沂市, 群众]</data>
+      </node>
+      <node id="{拨打-电话}_e" labels=":EVENTNODE">
+        <data key="trigger">[{拨打-电话}, {骗取-存款}]</data>
+        <data key="title">8月19日16时许，郑贤聪拨打徐玉玉电话，骗取其银行存款9900元</data>
+        <data key="time">2016-08-19</data>
+        <data key="person">[徐玉玉, 郑贤聪]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[拨打, 电话, 骗取, 银行, 存款]</data>
+      </node>
+      <node id="{回家}_e" labels=":EVENTNODE">
+        <data key="trigger">[{回家}]</data>
+        <data key="title">那是8月21日，他开车载着女儿去当地派出所报警，做完笔录已是当晚9点，徐连彬说：“咱们回家吧”</data>
+        <data key="time">2016-08-21</data>
+        <data key="person">[徐连彬]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[开车, 女儿, 派出所, 报警, 笔录, 回家]</data>
+      </node>
+      <node id="{实施-电信}_e" labels=":EVENTNODE">
+        <data key="trigger">[{实施-电信}]</data>
+        <data key="title">\n8月19日，山东省临沂市高考录取新生徐玉玉被犯罪嫌疑人以发放助学金的名义，实施电信诈骗骗走9900元，</data>
+        <data key="time">2016-08-19</data>
+        <data key="person">[徐玉玉]</data>
+        <data key="location">[山东省临沂市]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[山东省, 临沂市, 高考, 录取, 新生, 犯罪, 嫌疑人, 发放, 助学金, 名义, 实施, 电信, 诈骗]</data>
+      </node>
+      <node id="{抓获-归案}_e" labels=":EVENTNODE">
+        <data key="trigger">[{告破}, {抓获-归案}]</data>
+        <data key="title">梁犇)山东临沂市官方8月26日对外发布消息称，罗庄徐玉玉电信诈骗案告破，主要犯罪嫌疑人郑某某(男，29岁，福建泉州人)、黄某某(男，26岁，福建泉州人)等2人被抓获归案</data>
+        <data key="time">2016-08-26</data>
+        <data key="person">[徐玉玉, 梁犇]</data>
+        <data key="location">[罗庄, 福建泉州, 山东临沂市]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[山东, 临沂市, 官方, 对外, 发布, 消息, 电信, 诈骗案, 告破, 犯罪, 嫌疑人, 福建, 泉州, 抓获, 归案]</data>
+      </node>
+      <node id="{通报}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通报}]</data>
+        <data key="title">8月26日，公安部刑事侦查局官方微博通报了山东徐玉玉被骗猝死案，并且对6名疑犯发布A级通缉令</data>
+        <data key="time">2016-08-26</data>
+        <data key="person">[徐玉玉]</data>
+        <data key="location">[山东]</data>
+        <data key="organization">[公安部]</data>
+        <data key="keywords">[侦查局, 官方, 微博, 通报, 死案, 疑犯, 发布, 通缉令]</data>
+      </node>
+      <node id="{存入-银行卡}_e" labels=":EVENTNODE">
+        <data key="trigger">[{存入-银行卡}]</data>
+        <data key="title">8月18日，徐连彬连同亲戚给徐玉玉的贺礼凑齐了1万元存入了学校寄来的缴纳学费的银行卡内</data>
+        <data key="time">2016-08-18</data>
+        <data key="person">[徐玉玉, 徐连彬]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[亲戚, 贺礼, 存入, 学校, 缴纳, 学费, 银行卡]</data>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="e0" source="{猝死}" target="{打击-合力}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e1" source="{骗取-学费}" target="{实施-诈骗}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e2" source="{实施-诈骗}" target="{猝死}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e3" source="{公布}" target="{归案}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e4" source="{诈骗}" target="{告破}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e5" source="{实施-诈骗}" target="{通报}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e6" source="{诈骗}" target="{审查}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e7" source="{抓获-嫌疑人}" target="{缴获-信息}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e8" source="{骗取-存款}" target="{诈骗}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e9" source="{去世}" target="{透露}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e10" source="{存入-学校}" target="{报警}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e11" source="{拨打-电话}" target="{骗取-存款}" label="NEXTEVENT weight:8">
+        <data key="weight">8</data>
+      </edge>
+      <edge id="e12" source="{交代-事实}" target="{涉嫌-滥用}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e13" source="{涉嫌-走私}" target="{通知-开通}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e14" source="{诈骗}" target="{抓获-熊超}" label="NEXTEVENT weight:4">
+        <data key="weight">4</data>
+      </edge>
+      <edge id="e15" source="{通报-徐玉玉}" target="{探访-陈文辉}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e16" source="{解答}" target="{去世}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e17" source="{打击-合力}" target="{打击-犯罪}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e18" source="{遭遇-诈骗}" target="{涉嫌-洗钱}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e19" source="{骗取-徐某}" target="{诈骗}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e20" source="{存入-银行卡}" target="{报警}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e21" source="{支付-结算}" target="{防范-事项}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e22" source="{诈骗-徐玉玉}" target="{实施-电信}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e23" source="{部署}" target="{打击-侵犯}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e24" source="{打击-犯罪}" target="{打击-诈骗}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e25" source="{防范-事项}" target="{涉嫌-诈骗}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e26" source="{侦查}" target="{涉嫌-吸收}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e27" source="{涉嫌-集资}" target="{发现}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e28" source="{通报}" target="{抓获}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e29" source="{诈骗}" target="{申请-手续}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e30" source="{骗取-存款}" target="{审查}" label="NEXTEVENT weight:6">
+        <data key="weight">6</data>
+      </edge>
+      <edge id="e31" source="{发现}" target="{交代-事实}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e32" source="{冒充-干部}" target="{骗取-徐某}" label="NEXTEVENT weight:5">
+        <data key="weight">5</data>
+      </edge>
+      <edge id="e33" source="{通知-申请}" target="{申请-助学金}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e34" source="{涉嫌-诈骗}" target="{采访}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e35" source="{申请}" target="{诈骗}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e36" source="{审查}" target="{侦查}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e37" source="{冒充-徐玉玉}" target="{诈骗-徐玉玉}" label="NEXTEVENT weight:6">
+        <data key="weight">6</data>
+      </edge>
+      <edge id="e38" source="{冒充-干部}" target="{骗取-徐玉玉}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e39" source="{通知-开通}" target="{通报}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e40" source="{申请-助学金}" target="{存入-学校}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e41" source="{操控}" target="{诈骗}" label="NEXTEVENT weight:7">
+        <data key="weight">7</data>
+      </edge>
+      <edge id="e42" source="{实施-电信}" target="{涉嫌-走私}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e43" source="{告破}" target="{抓获-归案}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e44" source="{诈骗}" target="{猝死}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e45" source="{探访-陈文辉}" target="{涉嫌-犯案}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e46" source="{诈骗-徐玉玉}" target="{操控}" label="NEXTEVENT weight:7">
+        <data key="weight">7</data>
+      </edge>
+      <edge id="e47" source="{申请-助学金}" target="{存入-银行卡}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e48" source="{打击-侵犯}" target="{抓获-嫌疑人}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e49" source="{申请-助学金}" target="{收到}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e50" source="{实施-电信}" target="{公布}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e51" source="{涉嫌-滥用}" target="{审查}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e52" source="{冒充-教育}" target="{诈骗-徐玉玉}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e53" source="{实施-徐玉玉}" target="{拨打-电话}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e54" source="{回家}" target="{打击-犯罪}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e55" source="{透露}" target="{诈骗}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e56" source="{泄露}" target="{部署}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e57" source="{告破}" target="{破获}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e58" source="{打击-诈骗}" target="{支付-结算}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e59" source="{实施-电信}" target="{拨打-电话}" label="NEXTEVENT weight:6">
+        <data key="weight">6</data>
+      </edge>
+      <edge id="e60" source="{涉嫌-洗钱}" target="{申请}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e61" source="{实施-电信}" target="{抓获-熊超}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

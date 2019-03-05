@@ -1,0 +1,3341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gexf>
+  <graph>
+    <nodes>
+      <node id="{招聘-秘密}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{招聘-秘密}</data>
+      </node>
+      <node id="{下架}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-10</data>
+        <data key="name">{下架}</data>
+      </node>
+      <node id="{审核-机器}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-07</data>
+        <data key="name">{审核-机器}</data>
+      </node>
+      <node id="{抓获-涉案人员}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-06</data>
+        <data key="name">{抓获-涉案人员}</data>
+      </node>
+      <node id="{收到-科蓝}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-19</data>
+        <data key="name">{收到-科蓝}</data>
+      </node>
+      <node id="{面试-李文星}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-18</data>
+        <data key="name">{面试-李文星}</data>
+      </node>
+      <node id="{责令-整改}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-09</data>
+        <data key="name">{责令-整改}</data>
+      </node>
+      <node id="{通知-辨认}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{通知-辨认}</data>
+      </node>
+      <node id="{刊登}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-10</data>
+        <data key="name">{刊登}</data>
+      </node>
+      <node id="{入职-公司}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-21</data>
+        <data key="name">{入职-公司}</data>
+      </node>
+      <node id="{通话}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-21</data>
+        <data key="name">{通话}</data>
+      </node>
+      <node id="{悼念-图文}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{悼念-图文}</data>
+      </node>
+      <node id="{发文-回应}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{发文-回应}</data>
+      </node>
+      <node id="{注册-直聘}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{注册-直聘}</data>
+      </node>
+      <node id="{透露}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-14</data>
+        <data key="name">{透露}</data>
+      </node>
+      <node id="{殒命-水塘}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-05</data>
+        <data key="name">{殒命-水塘}</data>
+      </node>
+      <node id="{充值}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-06-23</data>
+        <data key="name">{充值}</data>
+      </node>
+      <node id="{抓获-嫌疑人}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-07</data>
+        <data key="name">{抓获-嫌疑人}</data>
+      </node>
+      <node id="{举报-窝点}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-06</data>
+        <data key="name">{举报-窝点}</data>
+      </node>
+      <node id="{发表-调查}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-10-25</data>
+        <data key="name">{发表-调查}</data>
+      </node>
+      <node id="{辞职}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-20</data>
+        <data key="name">{辞职}</data>
+      </node>
+      <node id="{回访-尸体}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{回访-尸体}</data>
+      </node>
+      <node id="{聘用-通知}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-19</data>
+        <data key="name">{聘用-通知}</data>
+      </node>
+      <node id="{拥护-联合}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-10</data>
+        <data key="name">{拥护-联合}</data>
+      </node>
+      <node id="{报警}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-14</data>
+        <data key="name">{报警}</data>
+      </node>
+      <node id="{注册}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{注册}</data>
+      </node>
+      <node id="{通知}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-15</data>
+        <data key="name">{通知}</data>
+      </node>
+      <node id="{应聘-职位}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-12-09</data>
+        <data key="name">{应聘-职位}</data>
+      </node>
+      <node id="{培训-贷款}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-03-30</data>
+        <data key="name">{培训-贷款}</data>
+      </node>
+      <node id="{刊登-声明}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-04</data>
+        <data key="name">{刊登-声明}</data>
+      </node>
+      <node id="{发表-道歉信}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-10</data>
+        <data key="name">{发表-道歉信}</data>
+      </node>
+      <node id="{解救-人員}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-06-18</data>
+        <data key="name">{解救-人員}</data>
+      </node>
+      <node id="{聚集-一带}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-04</data>
+        <data key="name">{聚集-一带}</data>
+      </node>
+      <node id="{担任-工程师}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-03-02</data>
+        <data key="name">{担任-工程师}</data>
+      </node>
+      <node id="{见面}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-29</data>
+        <data key="name">{见面}</data>
+      </node>
+      <node id="{应聘-企业}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{应聘-企业}</data>
+      </node>
+      <node id="{回顾-事件}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{回顾-事件}</data>
+      </node>
+      <node id="{发现-窝点}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-05</data>
+        <data key="name">{发现-窝点}</data>
+      </node>
+      <node id="{排查}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-07</data>
+        <data key="name">{排查}</data>
+      </node>
+      <node id="{溺亡}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-20</data>
+        <data key="name">{溺亡}</data>
+      </node>
+      <node id="{平摊-李文星}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{平摊-李文星}</data>
+      </node>
+      <node id="{通报-情况}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-14</data>
+        <data key="name">{通报-情况}</data>
+      </node>
+      <node id="{抓获-人员}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-10</data>
+        <data key="name">{抓获-人员}</data>
+      </node>
+      <node id="{虚构-全称}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{虚构-全称}</data>
+      </node>
+      <node id="{遭遇-诈骗}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-10</data>
+        <data key="name">{遭遇-诈骗}</data>
+      </node>
+      <node id="{审核-招聘者}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{审核-招聘者}</data>
+      </node>
+      <node id="{传销}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-06</data>
+        <data key="name">{传销}</data>
+      </node>
+      <node id="{采访}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{采访}</data>
+      </node>
+      <node id="{承担-责任}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-10</data>
+        <data key="name">{承担-责任}</data>
+      </node>
+      <node id="{通知-前往}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-15</data>
+        <data key="name">{通知-前往}</data>
+      </node>
+      <node id="{招聘-伤害}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-10</data>
+        <data key="name">{招聘-伤害}</data>
+      </node>
+      <node id="{核查}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-14</data>
+        <data key="name">{核查}</data>
+      </node>
+      <node id="{发现-发布}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{发现-发布}</data>
+      </node>
+      <node id="{举报-传销}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-06</data>
+        <data key="name">{举报-传销}</data>
+      </node>
+      <node id="{逝去}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{逝去}</data>
+      </node>
+      <node id="{火化-處理}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-21</data>
+        <data key="name">{火化-處理}</data>
+      </node>
+      <node id="{辨认}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{辨认}</data>
+      </node>
+      <node id="{收到-录用}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-14</data>
+        <data key="name">{收到-录用}</data>
+      </node>
+      <node id="{发现-外环}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-14</data>
+        <data key="name">{发现-外环}</data>
+      </node>
+      <node id="{刑拘-涉案人员}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-06</data>
+        <data key="name">{刑拘-涉案人员}</data>
+      </node>
+      <node id="{致电-公司}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-11</data>
+        <data key="name">{致电-公司}</data>
+      </node>
+      <node id="{致死}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-13</data>
+        <data key="name">{致死}</data>
+      </node>
+      <node id="{发现-身亡}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-08</data>
+        <data key="name">{发现-身亡}</data>
+      </node>
+      <node id="{失控}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{失控}</data>
+      </node>
+      <node id="{招聘-机制}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{招聘-机制}</data>
+      </node>
+      <node id="{打击-取缔}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-06</data>
+        <data key="name">{打击-取缔}</data>
+      </node>
+      <node id="{透露-接到}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-14</data>
+        <data key="name">{透露-接到}</data>
+      </node>
+      <node id="{通知-报到}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-18</data>
+        <data key="name">{通知-报到}</data>
+      </node>
+      <node id="{离世}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-15</data>
+        <data key="name">{离世}</data>
+      </node>
+      <node id="{修改-流程}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-09</data>
+        <data key="name">{修改-流程}</data>
+      </node>
+      <node id="{承担-法律}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-10</data>
+        <data key="name">{承担-法律}</data>
+      </node>
+      <node id="{发现-线索}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-06-18</data>
+        <data key="name">{发现-线索}</data>
+      </node>
+      <node id="{通报}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-20</data>
+        <data key="name">{通报}</data>
+      </node>
+      <node id="{举报-组织}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-06</data>
+        <data key="name">{举报-组织}</data>
+      </node>
+      <node id="{致歉}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-10</data>
+        <data key="name">{致歉}</data>
+      </node>
+      <node id="{引爆-舆论}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-14</data>
+        <data key="name">{引爆-舆论}</data>
+      </node>
+      <node id="{身陷-殒命}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{身陷-殒命}</data>
+      </node>
+      <node id="{核查-原因}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-06</data>
+        <data key="name">{核查-原因}</data>
+      </node>
+      <node id="{身亡}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{身亡}</data>
+      </node>
+      <node id="{遭遇-骗局}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{遭遇-骗局}</data>
+      </node>
+      <node id="{审核}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{审核}</data>
+      </node>
+      <node id="{应聘}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-20</data>
+        <data key="name">{应聘}</data>
+      </node>
+      <node id="{发现-物品}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{发现-物品}</data>
+      </node>
+      <node id="{冒充}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{冒充}</data>
+      </node>
+      <node id="{公开}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{公开}</data>
+      </node>
+      <node id="{发现-虚构}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{发现-虚构}</data>
+      </node>
+      <node id="{收到-职位}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-15</data>
+        <data key="name">{收到-职位}</data>
+      </node>
+      <node id="{求职}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-14</data>
+        <data key="name">{求职}</data>
+      </node>
+      <node id="{聘发-简历}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-15</data>
+        <data key="name">{聘发-简历}</data>
+      </node>
+      <node id="{打捞-尸体}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-14</data>
+        <data key="name">{打捞-尸体}</data>
+      </node>
+      <node id="{停机}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{停机}</data>
+      </node>
+      <node id="{入职}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-18</data>
+        <data key="name">{入职}</data>
+      </node>
+      <node id="{阻止}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{阻止}</data>
+      </node>
+      <node id="{动身}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-06-02</data>
+        <data key="name">{动身}</data>
+      </node>
+      <node id="{取消-资格}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-16</data>
+        <data key="name">{取消-资格}</data>
+      </node>
+      <node id="{审核-流程}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{审核-流程}</data>
+      </node>
+      <node id="{火化}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-21</data>
+        <data key="name">{火化}</data>
+      </node>
+      <node id="{发现-笔记}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{发现-笔记}</data>
+      </node>
+      <node id="{现身}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-06-30</data>
+        <data key="name">{现身}</data>
+      </node>
+      <node id="{死亡}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{死亡}</data>
+      </node>
+      <node id="{发现-尸体}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-14</data>
+        <data key="name">{发现-尸体}</data>
+      </node>
+      <node id="{发现-死尸}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-14</data>
+        <data key="name">{发现-死尸}</data>
+      </node>
+      <node id="{发现}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{发现}</data>
+      </node>
+      <node id="{遭遇}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{遭遇}</data>
+      </node>
+      <node id="{通知-入职}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-18</data>
+        <data key="name">{通知-入职}</data>
+      </node>
+      <node id="{悼念-李文星}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{悼念-李文星}</data>
+      </node>
+      <node id="{曝光-事件}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-06</data>
+        <data key="name">{曝光-事件}</data>
+      </node>
+      <node id="{殒命}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{殒命}</data>
+      </node>
+      <node id="{遭遇-公司}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{遭遇-公司}</data>
+      </node>
+      <node id="{发文}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-10</data>
+        <data key="name">{发文}</data>
+      </node>
+      <node id="{整改-平台}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-10</data>
+        <data key="name">{整改-平台}</data>
+      </node>
+      <node id="{诱骗-李文星}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-06</data>
+        <data key="name">{诱骗-李文星}</data>
+      </node>
+      <node id="{投诉-遭遇}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-03-30</data>
+        <data key="name">{投诉-遭遇}</data>
+      </node>
+      <node id="{通知-赶到}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-15</data>
+        <data key="name">{通知-赶到}</data>
+      </node>
+      <node id="{审核-平台}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{审核-平台}</data>
+      </node>
+      <node id="{侦办-案件}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{侦办-案件}</data>
+      </node>
+      <node id="{刑拘}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-06</data>
+        <data key="name">{刑拘}</data>
+      </node>
+      <node id="{收到-信息}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-20</data>
+        <data key="name">{收到-信息}</data>
+      </node>
+      <node id="{相处}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{相处}</data>
+      </node>
+      <node id="{损害-权益}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-06</data>
+        <data key="name">{损害-权益}</data>
+      </node>
+      <node id="{推送-短讯}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-07</data>
+        <data key="name">{推送-短讯}</data>
+      </node>
+      <node id="{曝光-消息}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-06</data>
+        <data key="name">{曝光-消息}</data>
+      </node>
+      <node id="{收到-聘用}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-19</data>
+        <data key="name">{收到-聘用}</data>
+      </node>
+      <node id="{打击}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-14</data>
+        <data key="name">{打击}</data>
+      </node>
+      <node id="{失联}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-14</data>
+        <data key="name">{失联}</data>
+      </node>
+      <node id="{发文-吊念}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{发文-吊念}</data>
+      </node>
+      <node id="{探访}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-04</data>
+        <data key="name">{探访}</data>
+      </node>
+      <node id="{核实}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-04</data>
+        <data key="name">{核实}</data>
+      </node>
+      <node id="{审核-资料}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{审核-资料}</data>
+      </node>
+      <node id="{举报}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{举报}</data>
+      </node>
+      <node id="{招聘-幌子}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-01</data>
+        <data key="name">{招聘-幌子}</data>
+      </node>
+      <node id="{拨打}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{拨打}</data>
+      </node>
+      <node id="{调查-案件}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-10-25</data>
+        <data key="name">{调查-案件}</data>
+      </node>
+      <node id="{解救-人员}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-06-18</data>
+        <data key="name">{解救-人员}</data>
+      </node>
+      <node id="{推送-短信}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-07</data>
+        <data key="name">{推送-短信}</data>
+      </node>
+      <node id="{虚构-名字}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{虚构-名字}</data>
+      </node>
+      <node id="{虚构}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{虚构}</data>
+      </node>
+      <node id="{殴打-何林坤}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-14</data>
+        <data key="name">{殴打-何林坤}</data>
+      </node>
+      <node id="{实施-办法}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-10-01</data>
+        <data key="name">{实施-办法}</data>
+      </node>
+      <node id="{逃避-打击}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-26</data>
+        <data key="name">{逃避-打击}</data>
+      </node>
+      <node id="{携带}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{携带}</data>
+      </node>
+      <node id="{求助}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-06-07</data>
+        <data key="name">{求助}</data>
+      </node>
+      <node id="{发现-殒命}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-14</data>
+        <data key="name">{发现-殒命}</data>
+      </node>
+      <node id="{遭遇-招聘}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-14</data>
+        <data key="name">{遭遇-招聘}</data>
+      </node>
+      <node id="{转发}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{转发}</data>
+      </node>
+      <node id="{解救}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-06-18</data>
+        <data key="name">{解救}</data>
+      </node>
+      <node id="{涉嫌-培训费}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-03-30</data>
+        <data key="name">{涉嫌-培训费}</data>
+      </node>
+      <node id="{工作}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{工作}</data>
+      </node>
+      <node id="{调查}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{调查}</data>
+      </node>
+      <node id="{面试}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-18</data>
+        <data key="name">{面试}</data>
+      </node>
+      <node id="{发现-遗体}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-14</data>
+        <data key="name">{发现-遗体}</data>
+      </node>
+      <node id="{联合}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-10</data>
+        <data key="name">{联合}</data>
+      </node>
+      <node id="{收到-微信}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-06-28</data>
+        <data key="name">{收到-微信}</data>
+      </node>
+      <node id="{招聘-设计师}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{招聘-设计师}</data>
+      </node>
+      <node id="{收到-定位}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-20</data>
+        <data key="name">{收到-定位}</data>
+      </node>
+      <node id="{征求-意见}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-10</data>
+        <data key="name">{征求-意见}</data>
+      </node>
+      <node id="{缴获}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-10</data>
+        <data key="name">{缴获}</data>
+      </node>
+      <node id="{发酵}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{发酵}</data>
+      </node>
+      <node id="{聘用-李文星}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-20</data>
+        <data key="name">{聘用-李文星}</data>
+      </node>
+      <node id="{传销-陷阱}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-10</data>
+        <data key="name">{传销-陷阱}</data>
+      </node>
+      <node id="{招聘-网站}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-06</data>
+        <data key="name">{招聘-网站}</data>
+      </node>
+      <node id="{审核-信息}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{审核-信息}</data>
+      </node>
+      <node id="{收到-意向}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-26</data>
+        <data key="name">{收到-意向}</data>
+      </node>
+      <node id="{招聘-信息}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{招聘-信息}</data>
+      </node>
+      <node id="{发现-李文星}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-14</data>
+        <data key="name">{发现-李文星}</data>
+      </node>
+      <node id="{发现-事件}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{发现-事件}</data>
+      </node>
+      <node id="{曝光}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{曝光}</data>
+      </node>
+      <node id="{奖励-人民币}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-06</data>
+        <data key="name">{奖励-人民币}</data>
+      </node>
+      <node id="{落入}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-01</data>
+        <data key="name">{落入}</data>
+      </node>
+      <node id="{收到}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-15</data>
+        <data key="name">{收到}</data>
+      </node>
+      <node id="{收到-通知}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-19</data>
+        <data key="name">{收到-通知}</data>
+      </node>
+      <node id="{举报-机制}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-09</data>
+        <data key="name">{举报-机制}</data>
+      </node>
+      <node id="{通报-遣散}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-10-18</data>
+        <data key="name">{通报-遣散}</data>
+      </node>
+      <node id="{公布-细则}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-06-01</data>
+        <data key="name">{公布-细则}</data>
+      </node>
+      <node id="{发现-男尸}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-14</data>
+        <data key="name">{发现-男尸}</data>
+      </node>
+      <node id="{钓鱼}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-03</data>
+        <data key="name">{钓鱼}</data>
+      </node>
+      <node id="{借款}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-06-08</data>
+        <data key="name">{借款}</data>
+      </node>
+      <node id="{收到-简历}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-02</data>
+        <data key="name">{收到-简历}</data>
+      </node>
+      <node id="{收到-邮件}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-20</data>
+        <data key="name">{收到-邮件}</data>
+      </node>
+      <node id="{招聘-李文星}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-07-14</data>
+        <data key="name">{招聘-李文星}</data>
+      </node>
+      <node id="{诱骗}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-20</data>
+        <data key="name">{诱骗}</data>
+      </node>
+      <node id="{投递-简历}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-15</data>
+        <data key="name">{投递-简历}</data>
+      </node>
+      <node id="{审核-职位}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-08-10</data>
+        <data key="name">{审核-职位}</data>
+      </node>
+      <node id="{聘用}" labels=":ENTITY:TRIGGER">
+        <data key="time">2017-05-19</data>
+        <data key="name">{聘用}</data>
+      </node>
+      <node id="{解救-人員}_e" labels=":EVENTNODE">
+        <data key="trigger">[{解救-人員}, {解救}]</data>
+        <data key="title">　　6月18日，閔某(男，24歲，上海人)等10名被困傳銷組織人員被公安靜海分局城關派出所從傳銷組織中解救，閔某稱其6月份與李文星一同被困在靜海鎮楊李院村一傳銷窩點中長達一周，至閔某被解救前兩日，李文星被傳銷人員轉移至其他寢室</data>
+        <data key="time">2017-06-18</data>
+        <data key="person">[李文星, 閔某]</data>
+        <data key="location">[上海, 靜海, 李院村]</data>
+        <data key="organization">[公安靜海分局城關派出所]</data>
+        <data key="keywords">[困傳, 組織, 人員, 公安, 分局, 城關, 派出所, 傳銷, 解救, 鎮楊, 銷窩, 長達, 轉移, 寢室]</data>
+      </node>
+      <node id="{报警}_e" labels=":EVENTNODE">
+        <data key="trigger">[{报警}, {发现-尸体}]</data>
+        <data key="title">今日晚，新京报记者从天津区委宣传部获得一份官方通报，通报指出从天津市静海区公安分局了解到，7月14日18时55分，静海区城关派出所接到群众报警称，在静海西外环与北外环交口沟内发现一具尸体</data>
+        <data key="time">2017-07-14</data>
+        <data key="person">[]</data>
+        <data key="location">[北外环]</data>
+        <data key="organization">[静海区城关派出所, 天津市静海区公安分局, 天津区委宣传部, 静海西外环]</data>
+        <data key="keywords">[新京报, 记者, 天津, 区委, 宣传部, 官方, 通报, 指出, 天津市, 静海区, 公安, 分局, 城关, 派出所, 接到, 群众, 报警, 静海西, 外环, 交口沟, 发现, 尸体]</data>
+      </node>
+      <node id="{落入}_e" labels=":EVENTNODE">
+        <data key="trigger">[{落入}, {招聘-幌子}]</data>
+        <data key="title">今年5月1日，毕业于东北大学的李文星在“BOSS直聘”招聘平台上发简历找工作，却意外落入打着招聘幌子的传销魔窟</data>
+        <data key="time">2017-05-01</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[东北大学]</data>
+        <data key="keywords">[毕业, 东北, 大学, 直聘, 招聘, 平台, 简历, 工作, 落入, 幌子, 传销, 魔窟]</data>
+      </node>
+      <node id="{刊登-声明}_e" labels=":EVENTNODE">
+        <data key="trigger">[{核实}, {刊登-声明}]</data>
+        <data key="title">”经北京青年报记者核实，北京科蓝软件系统股份有限公司已于8月4日在公司官网上刊登澄清声明，声明中表示：文中提到的在“BOSS</data>
+        <data key="time">2017-08-04</data>
+        <data key="person">[]</data>
+        <data key="location">[北京]</data>
+        <data key="organization">[北京科蓝软件系统股份有限公司]</data>
+        <data key="keywords">[青年报, 记者, 核实, 科蓝, 软件, 系统, 股份, 有限公司, 公司, 官网, 刊登, 澄清, 声明, 文中, 提到]</data>
+      </node>
+      <node id="{招聘}_e" labels=":EVENTNODE">
+        <data key="trigger">[{招聘}]</data>
+        <data key="title">　　【TechWeb报道】10月13日消息，秋季招聘旺季再次来临，为解决名企人才需求大，沟通速度慢，招聘成本高等诸多难题，2017年10月10日，领先的招聘平台BOSS直聘正式推出“超级品牌月”活动，利用2017年最后一个集中的招聘窗口，为一线互联网企业提供精准的人才招聘解决方案，也为求职者提供直面大公司管理层的机会</data>
+        <data key="time">2017-10-10</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[报道, 消息, 招聘, 旺季, 来临, 解决, 名企, 人才, 需求, 沟通, 速度, 成本, 难题, 领先, 平台, 直聘, 推出, 品牌, 活动, 利用, 窗口, 一线, 互联网, 企业, 提供, 方案, 求职者, 公司, 管理层, 机会]</data>
+      </node>
+      <node id="{发现-窝点}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现-窝点}, {殒命-水塘}]</data>
+        <data key="title">李永鹏）8月5日上午，中国青年网记者在李文星殒命水塘500米外发现一处露天传销窝点，附近村民告诉记者此处的传销人员从去年冬天来到这里，一周前离去</data>
+        <data key="time">2017-08-05</data>
+        <data key="person">[李永鹏, 李文星]</data>
+        <data key="location">[中国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[青年, 记者, 殒命, 水塘, 发现, 露天, 传销, 窝点, 村民, 告诉, 人员, 来到, 离去]</data>
+      </node>
+      <node id="{身亡}_e" labels=":EVENTNODE">
+        <data key="trigger">[{遭遇-骗局}, {身亡}, {见面}]</data>
+        <data key="title">8月2日下午，Boss直聘针对李文星疑似遭遇传销骗局并身亡一事向新浪科技回应称，公司已经在上周六晚与家属代表见面，并在第一时间将有关数据进行提取和保存，以便随时配合案件调查</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[直聘, 疑似, 遭遇, 传销, 骗局, 身亡, 新浪, 科技, 回应, 公司, 家属, 代表, 见面, 时间, 数据, 提取, 保存, 配合, 案件, 调查]</data>
+      </node>
+      <node id="{排查}_e" labels=":EVENTNODE">
+        <data key="trigger">[{排查}, {审核-机器}]</data>
+        <data key="title">8月7日，全面排查，过去所有未经“机器+人工”审核认证的招聘者只要进行招聘，需要重新核验</data>
+        <data key="time">2017-08-07</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[排查, 机器, 人工, 审核, 认证, 招聘者, 招聘, 核验]</data>
+      </node>
+      <node id="{虚构-全称}_e" labels=":EVENTNODE">
+        <data key="trigger">[{注册}, {虚构-全称}, {招聘-设计师}]</data>
+        <data key="title">8月2日，帮主以手机号注册BOSS直聘，在填写个人姓名，虚构公司全称、简称以及职务后，随即成功发布了一条招聘“视觉设计师”的虚假广告</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[帮主, 手机, 注册, 直聘, 填写, 姓名, 虚构, 公司, 全称, 简称, 职务, 发布, 招聘, 视觉, 设计师, 广告]</data>
+      </node>
+      <node id="{抓获-人员}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发文}, {抓获-人员}, {缴获}]</data>
+        <data key="title">7月10日，天津警方官微“平安天津”发文称：经过连续数月缜密侦查，一举抓获静海“蝶蓓蕾”传销组织高层人员7名、传销骨干人员25名，缴获、冻结赃款100余万元</data>
+        <data key="time">2017-07-10</data>
+        <data key="person">[]</data>
+        <data key="location">[天津, 静海]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[警方, 官微, 发文, 侦查, 抓获, 蝶蓓蕾, 传销, 组织, 高层, 人员, 骨干, 缴获, 冻结, 赃款]</data>
+      </node>
+      <node id="{公开}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发文-回应}, {透露}, {钓鱼}, {公开}, {招聘-秘密}]</data>
+        <data key="title">8月3日，南方都市报发文《BOSS直聘最新回应“李文星之死”：审核机制“存在很大问题”》称，据知情人士透露，目前类似发布虚假职位钓鱼的情况，已经是招聘网站公开的秘密</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[南方, 都市, 发文, 直聘, 回应, 审核, 机制, 知情, 人士, 透露, 发布, 职位, 钓鱼, 情况, 招聘, 网站, 公开, 秘密]</data>
+      </node>
+      <node id="{诱骗-组织}_e" labels=":EVENTNODE">
+        <data key="trigger">[{诱骗-组织}]</data>
+        <data key="title">8月6日据天津市静海区官方消息，警方已基本查明李文星被诱骗至传销组织经过</data>
+        <data key="time">2017-08-06</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[天津市静海区官方]</data>
+        <data key="keywords">[天津市, 静海区, 官方, 消息, 警方, 查明, 诱骗, 传销, 组织]</data>
+      </node>
+      <node id="{求职}_e" labels=":EVENTNODE">
+        <data key="trigger">[{求职}, {发现-尸体}]</data>
+        <data key="title">随后，北京时间记者第一时间联系上李文星求职期间在北京同居的室友陈栋（化名），他称，7月14日，李文星尸体在天津静海区G104国道旁的水坑里被发现</data>
+        <data key="time">2017-07-14</data>
+        <data key="person">[陈栋, 李文星]</data>
+        <data key="location">[天津静海区, 北京]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[时间, 记者, 求职, 同居, 室友, 化名, 尸体, 天津, 静海区, 国道, 水坑, 发现]</data>
+      </node>
+      <node id="{冒充}_e" labels=":EVENTNODE">
+        <data key="trigger">[{聘用}, {冒充}]</data>
+        <data key="title">8月2日，北京科蓝软件系统股份有限公司发布公告，称经公司核查，在“BOSS直聘”上给李文星发入职聘用书的招聘方“北京科蓝”系他人恶意冒充，公司没有“人事部薛婷婷”和“人事行政部王文鹏”两名员工</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[李文星, 薛婷婷, 王文鹏]</data>
+        <data key="location">[北京]</data>
+        <data key="organization">[北京科蓝软件系统股份有限公司, 人事部]</data>
+        <data key="keywords">[科蓝, 软件, 系统, 股份, 有限公司, 发布, 公告, 公司, 核查, 直聘, 入职, 聘用, 招聘方, 冒充, 人事, 行政部, 员工]</data>
+      </node>
+      <node id="{发现-符合}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现-符合}]</data>
+        <data key="title">直到，7月14日，他的尸体在天津静海区被发现，“符合溺水死亡特征”</data>
+        <data key="time">2017-07-14</data>
+        <data key="person">[]</data>
+        <data key="location">[天津静海区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[尸体, 天津, 静海区, 发现, 符合, 溺水, 死亡, 特征]</data>
+      </node>
+      <node id="{遭遇-诈骗}_e" labels=":EVENTNODE">
+        <data key="trigger">[{遭遇-诈骗}, {殒命}, {发表-道歉信}]</data>
+        <data key="title">（孙一凡）8月10日上午，网络招聘平台BOSS直聘在其官方微博回应名校毕业生李文星在其平台遭遇求职诈骗误入传销组织殒命一事，并发表道歉信</data>
+        <data key="time">2017-08-10</data>
+        <data key="person">[李文星, 孙一凡]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[网络, 招聘, 平台, 直聘, 官方, 微博, 回应, 名校, 毕业生, 遭遇, 求职, 诈骗, 传销, 组织, 殒命, 发表, 道歉信]</data>
+      </node>
+      <node id="{停机}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现}, {拨打}, {停机}]</data>
+        <data key="title">8月2日，新京报(微信号：bjnews_xjb)记者拨打时发现，该电话已停机</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[新京报, 微信号, 记者, 拨打, 发现, 电话, 停机]</data>
+      </node>
+      <node id="{承担-责任}_e" labels=":EVENTNODE">
+        <data key="trigger">[{承担-责任}]</data>
+        <data key="title">8月10日，BOSS直聘针对此事发布公开道歉信，BOSS直聘方面表示，将承担相应法律责任，并且已经采取了三个改进举措</data>
+        <data key="time">2017-08-10</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[直聘, 发布, 道歉信, 承担, 法律, 责任, 改进, 举措]</data>
+      </node>
+      <node id="{聘用}_e" labels=":EVENTNODE">
+        <data key="trigger">[{聘用}]</data>
+        <data key="title">5月19日下午，名为“五杀乐队”的QQ邮箱，给李文星发送了入职聘用书</data>
+        <data key="time">2017-05-19</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[乐队, 邮箱, 发送, 入职, 聘用]</data>
+      </node>
+      <node id="{审核-职位}_e" labels=":EVENTNODE">
+        <data key="trigger">[{审核-职位}, {诱骗-李文星}]</data>
+        <data key="title">　　8月10日，Boss直聘官方微博针对“李文星事件”发布了道歉信，表示由于其职位审核管理工作没有做好，让非法传销分子有机可乘，发布了虚假职位，导致李文星被诱骗加入传销组织后不幸溺亡</data>
+        <data key="time">2017-08-10</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[直聘, 官方, 微博, 事件, 发布, 道歉信, 职位, 审核, 管理, 工作, 做好, 传销, 分子, 导致, 诱骗, 组织, 溺亡]</data>
+      </node>
+      <node id="{招聘-伤害}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发表-道歉信}, {招聘-伤害}, {承担-法律}, {整改-平台}]</data>
+        <data key="title">张凡)8月10日上午，网络招聘公司“BOSS直聘”针对李文星因其平台漏洞被诱入传销组织不幸殒命一事发表官方道歉信，对其家人表达深深的悲痛，在信中称将对在BOSS直聘平台上被虚假招聘伤害的用户承担法律和道义的责任，并采取措施进行平台整改</data>
+        <data key="time">2017-08-10</data>
+        <data key="person">[李文星, 张凡]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[网络, 招聘, 公司, 直聘, 平台, 漏洞, 诱入, 传销, 组织, 殒命, 发表, 官方, 道歉信, 家人, 表达, 伤害, 用户, 承担, 法律, 道义, 责任, 措施, 整改]</data>
+      </node>
+      <node id="{发现-遗体}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现-遗体}]</data>
+        <data key="title">7月14日，东北大学毕业生李文星的遗体，在天津市静海区一处水沟内被发现</data>
+        <data key="time">2017-07-14</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[天津市静海区]</data>
+        <data key="organization">[东北大学]</data>
+        <data key="keywords">[东北, 大学, 毕业生, 遗体, 天津市, 静海区, 水沟, 发现]</data>
+      </node>
+      <node id="{面试}_e" labels=":EVENTNODE">
+        <data key="trigger">[{面试}, {通知}]</data>
+        <data key="title">5月18日，“科蓝公司”电话面试了他，在问了许多专业问题后，这家公司用一个昵称为“五杀乐队”的个人邮箱给他发了offer，通知他去天津滨海高新区软件园报到</data>
+        <data key="time">2017-05-18</data>
+        <data key="person">[]</data>
+        <data key="location">[天津]</data>
+        <data key="organization">[科蓝公司]</data>
+        <data key="keywords">[科蓝, 公司, 电话, 面试, 专业, 称为, 乐队, 邮箱, 通知, 滨海, 高新区, 软件, 园报]</data>
+      </node>
+      <node id="{发声}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发声}]</data>
+        <data key="title">BOSS直聘CEO赵鹏在事件酝酿到爆点之后才发声，他对外表示，从8月3日凌晨开始，BOSS直聘进行全面调整</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[赵鹏]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[直聘, 事件, 酝酿, 爆点, 发声, 对外, 调整]</data>
+      </node>
+      <node id="{下架}_e" labels=":EVENTNODE">
+        <data key="trigger">[{刊登}, {应聘}, {下架}, {招聘-信息}]</data>
+        <data key="title">雷若彤)本报曾于8月10日刊登名为《网信办约谈李文星事件涉事网站》的报道，其中提到，“李文星所应聘的北京科蓝软件系统股份有限公司已从BOSS直聘网站下架，平台上也已经看不到这家公司的招聘信息</data>
+        <data key="time">2017-08-10</data>
+        <data key="person">[雷若彤, 李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[北京科蓝软件系统股份有限公司]</data>
+        <data key="keywords">[刊登, 网信办, 事件, 网站, 报道, 提到, 应聘, 北京, 科蓝, 软件, 系统, 股份, 有限公司, 直聘, 下架, 平台, 看不到, 公司, 招聘, 信息]</data>
+      </node>
+      <node id="{核查}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现-尸体}, {核查}]</data>
+        <data key="title">7月14日傍晚，张某之妻在夜宵摊旁的水坑内发现了一具尸体并报案，公安机关核查后确认，该尸体为李文星</data>
+        <data key="time">2017-07-14</data>
+        <data key="person">[李文星, 张某]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[夜宵摊, 发现, 尸体, 报案, 公安, 机关, 核查, 确认]</data>
+      </node>
+      <node id="{审核-机器}_e" labels=":EVENTNODE">
+        <data key="trigger">[{排查}, {审核-机器}]</data>
+        <data key="title">8月7日，全面排查，过去所有未经“机器+人工”审核认证的招聘者只要进行招聘，需要重新核验</data>
+        <data key="time">2017-08-07</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[排查, 机器, 人工, 审核, 认证, 招聘者, 招聘, 核验]</data>
+      </node>
+      <node id="{收到-录用}_e" labels=":EVENTNODE">
+        <data key="trigger">[{收到-录用}]</data>
+        <data key="title">5月15日，23岁的东北大学毕业生李文星通过Boss直聘求职，收到录用消息前往天津静海工作,此后几乎失联，直到7月14日尸体在天津静海区被发现，警方分析其极有可能误入传销组织</data>
+        <data key="time">2017-07-14</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[天津静海区, 天津静海]</data>
+        <data key="organization">[东北大学]</data>
+        <data key="keywords">[东北, 大学, 毕业生, 直聘, 求职, 收到, 录用, 消息, 前往, 天津, 静海, 工作, 失联, 尸体, 静海区, 发现, 警方, 分析, 传销, 组织]</data>
+      </node>
+      <node id="{刑拘-涉案人员}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通报}, {刑拘-涉案人员}]</data>
+        <data key="title">8月6日天津静海区通报称，李文星被诱骗进传销组织的经过已经查明，5名涉案人员被刑拘</data>
+        <data key="time">2017-08-06</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[天津静海区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[天津, 静海区, 通报, 诱骗, 传销, 组织, 查明, 涉案人员, 刑拘]</data>
+      </node>
+      <node id="{致电-公司}_e" labels=":EVENTNODE">
+        <data key="trigger">[{致电-公司}]</data>
+        <data key="title">BOSS直聘网的诚信认证证书显示，认证的监督机构为电子商务协会，实施机构为北京盘石信用管理有限公司，8月11日，封面新闻记者致电盘石公司，一位工作人员告诉记者，认证互联网诚信示范单位需要提交企业营业执照、企业网站IP备案、法人身份证、申请表等材料，在审核通过后即可获得认证证书</data>
+        <data key="time">2017-08-11</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[北京盘石信用管理有限公司]</data>
+        <data key="keywords">[直聘网, 认证, 证书, 显示, 监督, 机构, 电子, 商务, 协会, 实施, 北京, 盘石, 信用, 管理, 有限公司, 封面, 新闻记者, 致电, 公司, 工作, 人员, 告诉, 记者, 互联网, 示范, 单位, 提交, 企业, 营业执照, 网站, 备案, 法人, 身份证, 申请表, 材料, 审核, 即可]</data>
+      </node>
+      <node id="{责令-整改}_e" labels=":EVENTNODE">
+        <data key="trigger">[{责令-整改}]</data>
+        <data key="title">　　2017年8月9日，北京市网信办、天津市网信办开展联合执法专项行动，就BOSS直聘发布违法违规信息、用户管理出现重大疏漏等问题，依法联合约谈BOSS直聘（京ICP备14013441号）法人，并下达行政执法检查记录，责令网站立即整改</data>
+        <data key="time">2017-08-09</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[天津市网信办, 北京市网信办]</data>
+        <data key="keywords">[北京市, 网信办, 天津市, 联合, 执法, 直聘, 发布, 违法, 违规, 信息, 用户, 管理, 疏漏, 法人, 下达, 行政, 检查, 记录, 责令, 网站, 整改]</data>
+      </node>
+      <node id="{通知-辨认}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通知-辨认}]</data>
+        <data key="title">　　8月2日下午，天津公安局静海分局一工作人员向北京时间证实该消息，并称溺亡原因尚不清，通过尸体上的身份证联系上的家属，“山东德州警方协助的，通知他家人来辨认”</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[]</data>
+        <data key="location">[山东德州, 北京]</data>
+        <data key="organization">[天津公安局静海分局]</data>
+        <data key="keywords">[天津, 公安局, 静海, 分局, 工作, 人员, 时间, 证实, 消息, 溺亡, 原因, 尸体, 身份证, 家属, 山东, 德州, 警方, 协助, 通知, 辨认]</data>
+      </node>
+      <node id="{充值}_e" labels=":EVENTNODE">
+        <data key="trigger">[{充值}]</data>
+        <data key="title">“他的手机号码6月4日充值一次，6月23日被挂失</data>
+        <data key="time">2017-06-23</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[手机, 号码, 充值, 挂失]</data>
+      </node>
+      <node id="{注册-直聘}_e" labels=":EVENTNODE">
+        <data key="trigger">[{注册-直聘}, {审核-资料}]</data>
+        <data key="title">8月3日凌晨12点多，有媒体记者以化名“李小冰”注册“BOSS直聘”成为深圳某知名互联网公司人力资源总监，并发布工作地点位于四川成都的“产品经理”一职，中间一路秒过，没有任何资料审核要求</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[李小冰]</data>
+        <data key="location">[四川成都, 深圳]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[媒体, 记者, 化名, 注册, 直聘, 互联网, 公司, 人力, 资源, 总监, 发布, 工作, 地点, 位于, 四川, 成都, 产品, 经理, 资料, 审核]</data>
+      </node>
+      <node id="{透露}_e" labels=":EVENTNODE">
+        <data key="trigger">[{透露}, {发现-尸体}]</data>
+        <data key="title">李文星亲属透露，7月14日，他的尸体在天津静海区被发现</data>
+        <data key="time">2017-07-14</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[天津静海区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[亲属, 透露, 尸体, 天津, 静海区, 发现]</data>
+      </node>
+      <node id="{发酵}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发酵}, {遭遇-骗局}]</data>
+        <data key="title">8月2日开始，李文星事件持续发酵，这名东北大学毕业生通过互联网招聘平台BOSS直聘求职，却疑似在天津遭遇传销骗局，不幸身亡</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[天津]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[事件, 持续, 发酵, 东北, 大学, 毕业生, 互联网, 招聘, 平台, 直聘, 求职, 疑似, 遭遇, 传销, 骗局, 身亡]</data>
+      </node>
+      <node id="{殒命-水塘}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现-窝点}, {殒命-水塘}]</data>
+        <data key="title">李永鹏）8月5日上午，中国青年网记者在李文星殒命水塘500米外发现一处露天传销窝点，附近村民告诉记者此处的传销人员从去年冬天来到这里，一周前离去</data>
+        <data key="time">2017-08-05</data>
+        <data key="person">[李永鹏, 李文星]</data>
+        <data key="location">[中国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[青年, 记者, 殒命, 水塘, 发现, 露天, 传销, 窝点, 村民, 告诉, 人员, 来到, 离去]</data>
+      </node>
+      <node id="{发现-李文星}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现-李文星}, {打击}]</data>
+        <data key="title">静海警方确认，2017年7月14日李文星被发现死亡之前，确有对传销的打击行动</data>
+        <data key="time">2017-07-14</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[静海]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[警方, 确认, 发现, 死亡, 传销, 打击]</data>
+      </node>
+      <node id="{打击-取缔}_e" labels=":EVENTNODE">
+        <data key="trigger">[{打击-取缔}, {传销}]</data>
+        <data key="title">8月6日，天津迅速开展一场打击取缔非法传销的专项行动，决战20天，彻底清除全市非法传销活动</data>
+        <data key="time">2017-08-06</data>
+        <data key="person">[]</data>
+        <data key="location">[天津]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[打击, 取缔, 传销, 决战, 清除, 全市, 活动]</data>
+      </node>
+      <node id="{通话}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通话}]</data>
+        <data key="title">5月21日，李文星再次与母亲通话，称要去石家庄工作，因其一位同学在该公司做主管</data>
+        <data key="time">2017-05-21</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[石家庄]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[母亲, 通话, 工作, 同学, 公司, 主管]</data>
+      </node>
+      <node id="{发现-拥有}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现-拥有}]</data>
+        <data key="title">　　8月3日，《证券日报》记者也尝试通过Boss直聘发布招聘信息，发现如果拥有企业邮箱，依然可以发布招聘信息，造假招聘的门槛极低</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[证券, 日报, 记者, 尝试, 直聘, 发布, 招聘, 信息, 发现, 拥有, 企业, 邮箱, 造假, 门槛]</data>
+      </node>
+      <node id="{传销-陷阱}_e" labels=":EVENTNODE">
+        <data key="trigger">[{传销-陷阱}, {承担-责任}, {联合}, {拥护-联合}]</data>
+        <data key="title">8月10日消息，针对近日李文星陷传销陷阱事件，BOSS直聘发布公开道歉信，BOSS直聘方面表示，将承担相应法律责任，并已经采取三个改进举措，同时会拥护北京市网信办和天津市网信办开展的依法联合约谈，坚决落实整改要求</data>
+        <data key="time">2017-08-10</data>
+        <data key="person">[李文]</data>
+        <data key="location">[]</data>
+        <data key="organization">[天津市网信办, 北京市网信办]</data>
+        <data key="keywords">[消息, 星陷, 传销, 陷阱, 事件, 直聘, 发布, 道歉信, 承担, 法律, 责任, 改进, 举措, 拥护, 北京市, 网信办, 天津市, 联合, 落实, 整改]</data>
+      </node>
+      <node id="{见面}_e" labels=":EVENTNODE">
+        <data key="trigger">[{见面}]</data>
+        <data key="title">2017年7月29日（周六）晚在公司与家属代表见面</data>
+        <data key="time">2017-07-29</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[公司, 家属, 代表, 见面]</data>
+      </node>
+      <node id="{抓获-嫌疑人}_e" labels=":EVENTNODE">
+        <data key="trigger">[{抓获-嫌疑人}]</data>
+        <data key="title">8月7日消息，山东籍男子张超死亡案件的犯罪嫌疑人已被公安机关抓获</data>
+        <data key="time">2017-08-07</data>
+        <data key="person">[张超]</data>
+        <data key="location">[山东]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[消息, 男子, 死亡, 案件, 犯罪, 嫌疑人, 公安, 机关, 抓获]</data>
+      </node>
+      <node id="{培训-贷款}_e" labels=":EVENTNODE">
+        <data key="trigger">[{投诉-遭遇}, {涉嫌-培训费}, {培训-贷款}]</data>
+        <data key="title">　　据21CN聚投诉信息显示，今年3月30日，田先生投诉在BOSS直聘上遭遇招聘公司涉嫌诈骗培训费问题，称北京中软国际教育集团在BOSS直聘以招聘手段骗其面试，其后改成培训贷款</data>
+        <data key="time">2017-03-30</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[北京中软国际教育集团]</data>
+        <data key="keywords">[投诉, 信息, 显示, 直聘, 遭遇, 招聘, 公司, 涉嫌, 诈骗, 培训费, 北京, 中软, 国际, 教育, 集团, 手段, 面试, 培训, 贷款]</data>
+      </node>
+      <node id="{回访-尸体}_e" labels=":EVENTNODE">
+        <data key="trigger">[{回访-尸体}, {发现-笔记}]</data>
+        <data key="title">8月3日，新京报记者回访李文星尸体被发现的现场，该事发地紧邻马路，深坑水深超一米，在现场附近的深沟里，发现大量“传销笔记”</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[新京报, 记者, 回访, 尸体, 发现, 现场, 事发, 紧邻, 马路, 传销, 笔记]</data>
+      </node>
+      <node id="{辞职}_e" labels=":EVENTNODE">
+        <data key="trigger">[{辞职}]</data>
+        <data key="title">从3月2日辞职至5月20日赴天津参加“面试”，没有家属确切知道这段时间内，李文星找工作的真实状态</data>
+        <data key="time">2017-05-20</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[天津]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[辞职, 参加, 面试, 家属, 时间, 工作, 状态]</data>
+      </node>
+      <node id="{承担-法律}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发表-道歉信}, {招聘-伤害}, {承担-法律}, {整改-平台}]</data>
+        <data key="title">张凡)8月10日上午，网络招聘公司“BOSS直聘”针对李文星因其平台漏洞被诱入传销组织不幸殒命一事发表官方道歉信，对其家人表达深深的悲痛，在信中称将对在BOSS直聘平台上被虚假招聘伤害的用户承担法律和道义的责任，并采取措施进行平台整改</data>
+        <data key="time">2017-08-10</data>
+        <data key="person">[李文星, 张凡]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[网络, 招聘, 公司, 直聘, 平台, 漏洞, 诱入, 传销, 组织, 殒命, 发表, 官方, 道歉信, 家人, 表达, 伤害, 用户, 承担, 法律, 道义, 责任, 措施, 整改]</data>
+      </node>
+      <node id="{通知}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通知}, {打捞-尸体}]</data>
+        <data key="title">7月15日11时许，李文星父亲接到老家派出所通知称，天津静海区城关派出所打捞上来一具尸体，遗物中有李文星身份证</data>
+        <data key="time">2017-07-15</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[天津静海区城关派出所]</data>
+        <data key="keywords">[父亲, 接到, 老家, 派出所, 通知, 天津, 静海区, 城关, 打捞, 尸体, 遗物, 身份证]</data>
+      </node>
+      <node id="{注册}_e" labels=":EVENTNODE">
+        <data key="trigger">[{注册}, {审核-资料}]</data>
+        <data key="title">8月3日凌晨12点多，记者以化名“李小冰”注册BOSS直聘成为深圳某知名互联网公司人力资源总监，并发布工作地点位于四川成都的“产品经理”一职，中间一路秒过，没有任何资料审核要求</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[李小冰]</data>
+        <data key="location">[四川成都, 深圳]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[记者, 化名, 注册, 直聘, 互联网, 公司, 人力, 资源, 总监, 发布, 工作, 地点, 位于, 四川, 成都, 产品, 经理, 资料, 审核]</data>
+      </node>
+      <node id="{发现-事件}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现-事件}]</data>
+        <data key="title">封面新闻记者注意到，关于水坑发现尸体事件的具体经过，静海警方于8月3日晚23时44分，通过“天津北方网”才给予了详细公布</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[]</data>
+        <data key="location">[天津, 静海]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[封面, 新闻记者, 水坑, 发现, 尸体, 事件, 警方, 北方网, 给予, 公布]</data>
+      </node>
+      <node id="{发表-道歉信}_e" labels=":EVENTNODE">
+        <data key="trigger">[{遭遇-诈骗}, {殒命}, {发表-道歉信}]</data>
+        <data key="title">（孙一凡）8月10日上午，网络招聘平台BOSS直聘在其官方微博回应名校毕业生李文星在其平台遭遇求职诈骗误入传销组织殒命一事，并发表道歉信</data>
+        <data key="time">2017-08-10</data>
+        <data key="person">[李文星, 孙一凡]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[网络, 招聘, 平台, 直聘, 官方, 微博, 回应, 名校, 毕业生, 遭遇, 求职, 诈骗, 传销, 组织, 殒命, 发表, 道歉信]</data>
+      </node>
+      <node id="{担任-工程师}_e" labels=":EVENTNODE">
+        <data key="trigger">[{担任-工程师}]</data>
+        <data key="title">公司开具的“解除劳动合同证明”显示，李文星自2017年1月入职公司开发部门担任开发工程师，至2017年3月2日因个人原因离职</data>
+        <data key="time">2017-03-02</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[公司, 开具, 解除, 劳动, 合同, 证明, 显示, 入职, 开发, 部门, 担任, 工程师, 原因, 离职]</data>
+      </node>
+      <node id="{聚集-一带}_e" labels=":EVENTNODE">
+        <data key="trigger">[{死亡}, {发现}, {聚集-一带}]</data>
+        <data key="title">8月4日，封面新闻记者来到天津静海区，以李文星殒命水坑为中心，通过实地回访后发现，李文星死亡之前，确有大量传销人员聚集静海城区近郊一带，且有“围城”之势</data>
+        <data key="time">2017-08-04</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[天津静海区, 静海]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[封面, 新闻记者, 来到, 天津, 静海区, 殒命, 水坑, 中心, 回访, 发现, 死亡, 传销, 人员, 聚集, 城区, 近郊, 一带, 围城]</data>
+      </node>
+      <node id="{修改-流程}_e" labels=":EVENTNODE">
+        <data key="trigger">[{修改-流程}, {举报-机制}]</data>
+        <data key="title">　　8月9日，App后台修改用户举报流程，强化快速举报处理机制</data>
+        <data key="time">2017-08-09</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[后台, 修改, 用户, 举报, 流程, 强化, 机制]</data>
+      </node>
+      <node id="{引爆-舆论}_e" labels=":EVENTNODE">
+        <data key="trigger">[{引爆-舆论}]</data>
+        <data key="title">8月14日，有媒体曝出，BOSS直聘曾于7月19日，也就是在李文星死亡5天后，被认证为“互联网诚信示范单位”，滑稽和讽刺的剧情第三次引爆舆论场</data>
+        <data key="time">2017-08-14</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[媒体, 直聘, 死亡, 认证, 互联网, 示范, 单位, 讽刺, 剧情, 引爆, 舆论]</data>
+      </node>
+      <node id="{应聘-企业}_e" labels=":EVENTNODE">
+        <data key="trigger">[{应聘-企业}, {遭遇-骗局}, {身亡}]</data>
+        <data key="title">   8月2日，有自媒体发布文章称，年仅23岁的985高校毕业生李文星在“BOSS直聘”网站上应聘某互联网企业，疑似遭遇传销骗局，失联数日后在天津不幸身亡</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[天津]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[媒体, 发布, 文章, 高校, 毕业生, 直聘, 网站, 应聘, 互联网, 企业, 疑似, 遭遇, 传销, 骗局, 失联, 身亡]</data>
+      </node>
+      <node id="{调查-案件}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通报-情况}, {调查-案件}]</data>
+        <data key="title">　　今天（10月25日），据财新报道，天津静海警方近日向李文星家属通报了案件调查情况</data>
+        <data key="time">2017-10-25</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[天津静海警方]</data>
+        <data key="keywords">[报道, 天津, 静海, 警方, 家属, 通报, 案件, 调查, 情况]</data>
+      </node>
+      <node id="{举报}_e" labels=":EVENTNODE">
+        <data key="trigger">[{举报}]</data>
+        <data key="title">　　8月3日，公司在公开回应中承认了此前的招聘机制存在漏洞，具体表现在可以(免认证)先发布一个职位、“如不触发用户举报，就不强制审核”、多于一个职位才强制审核等方面</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[公司, 回应, 承认, 招聘, 机制, 漏洞, 表现, 认证, 发布, 职位, 触发, 用户, 举报, 强制, 审核, 多于]</data>
+      </node>
+      <node id="{核查-原因}_e" labels=":EVENTNODE">
+        <data key="trigger">[{抓获-涉案人员}, {核查-原因}]</data>
+        <data key="title">8月6日，5名涉案人员被抓获并刑拘，李文星溺水死亡原因正在核查确认</data>
+        <data key="time">2017-08-06</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[涉案人员, 抓获, 刑拘, 溺水, 死亡, 原因, 核查, 确认]</data>
+      </node>
+      <node id="{发现-物品}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现-物品}]</data>
+        <data key="title">今日(8月3日)中午，新京报记者在李文星尸体被发现的水坑西侧百米处，发现疑似传销团伙遗留的“传销笔记”等物品，笔记中记有“蝶贝蕾”产品推荐稿等内容</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[新京报, 记者, 尸体, 发现, 水坑, 疑似, 传销, 团伙, 遗留, 笔记, 物品, 蝶贝蕾, 产品, 推荐稿, 内容]</data>
+      </node>
+      <node id="{回顾-事件}_e" labels=":EVENTNODE">
+        <data key="trigger">[{回顾-事件}]</data>
+        <data key="title">8月3日，BOSS直聘再度回应，称回顾本次李文星事件，他们意识到自2015年初以来，平台执行的“只发一个职位，资料合规，可以先发</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[直聘, 回应, 回顾, 事件, 意识, 平台, 执行, 职位, 资料, 合规]</data>
+      </node>
+      <node id="{平摊-李文星}_e" labels=":EVENTNODE">
+        <data key="trigger">[{平摊-李文星}]</data>
+        <data key="title">8月3日，在德州市一个小村庄的居委会办公桌上，静静地平摊着李文星的毕业证、之前的劳动合同、驾驶证等，这是他留给这个世界最后的印记</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[德州市]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[村庄, 居委会, 办公桌, 平摊, 毕业, 劳动, 合同, 驾驶证, 留给, 世界, 印记]</data>
+      </node>
+      <node id="{招聘-机制}_e" labels=":EVENTNODE">
+        <data key="trigger">[{审核-信息}, {招聘-机制}]</data>
+        <data key="title">第一次是微信公号“芥末堆”发布《求职少年李文星之死》的文章后第二天，即8月3日，同日BOSS直聘也在回应中承认平台对招聘机制存在漏洞，网络上充斥着公众对传销组织的深恶痛绝和对招聘网站信息审核机制的口诛笔伐，舆情出现第一次峰值</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[微信, 公号, 芥末, 发布, 求职, 少年, 文章, 直聘, 回应, 承认, 平台, 招聘, 机制, 漏洞, 网络, 充斥, 公众, 传销, 组织, 网站, 信息, 审核, 舆情, 峰值]</data>
+      </node>
+      <node id="{遭遇-骗局}_e" labels=":EVENTNODE">
+        <data key="trigger">[{遭遇-骗局}, {见面}]</data>
+        <data key="title">8月2日，Boss直聘就李文星通过BOSS直聘疑似遭遇传销骗局身亡事件向新浪科技作出回应，表示公司已经与家属代表见面，并在第一时间将有关数据进行提取和保存，以便随时配合案件调查</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[直聘, 疑似, 遭遇, 传销, 骗局, 身亡, 事件, 新浪, 科技, 作出, 回应, 公司, 家属, 代表, 见面, 时间, 数据, 提取, 保存, 配合, 案件, 调查]</data>
+      </node>
+      <node id="{发现-虚构}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现-虚构}]</data>
+        <data key="title">8月2日晚，记者实测发现，BOSS直聘平台上，虚构公司信息也可顺利发布招聘信息</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[记者, 实测, 发现, 直聘, 平台, 虚构, 公司, 信息, 发布, 招聘]</data>
+      </node>
+      <node id="{审核-招聘者}_e" labels=":EVENTNODE">
+        <data key="trigger">[{审核-招聘者}]</data>
+        <data key="title">原审核机制存在很大问题封面新闻：8月3日凌晨开始，平台对招聘者审核机制进行了调整，主要做了哪些改动</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[审核, 机制, 封面, 新闻, 平台, 招聘者, 调整, 改动]</data>
+      </node>
+      <node id="{逃避-打击}_e" labels=":EVENTNODE">
+        <data key="trigger">[{逃避-打击}]</data>
+        <data key="title">“静海警方告诉我们，5月26日，我哥向缴纳2900元传销产品费用后，加入了传销组织‘蝶贝蕾’，之后，传销组织培训员艾某为逃避打击，准备将团伙转移到河北沧州活动，并开始遣散部分传销人员</data>
+        <data key="time">2017-05-26</data>
+        <data key="person">[艾某]</data>
+        <data key="location">[河北沧州, 静海]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[警方, 告诉, 缴纳, 传销, 产品, 费用, 组织, 蝶贝蕾, 培训员, 逃避, 打击, 团伙, 转移, 河北, 沧州, 活动, 遣散, 人员]</data>
+      </node>
+      <node id="{转发}_e" labels=":EVENTNODE">
+        <data key="trigger">[{死亡}, {转发}]</data>
+        <data key="title">　　本报天津8月2日电(中国青年报·中青在线记者胡春艳)一则大学毕业生找工作疑陷传销组织蹊跷死亡的信息今天在网上被大量转发</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[胡春艳]</data>
+        <data key="location">[天津, 中国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[青年, 在线, 记者, 大学, 毕业生, 工作, 疑陷, 传销, 组织, 死亡, 信息, 网上, 转发]</data>
+      </node>
+      <node id="{遭遇-招聘}_e" labels=":EVENTNODE">
+        <data key="trigger">[{遭遇-招聘}, {发现-尸体}]</data>
+        <data key="title">　　2017年8月2日，网络曝出“求职少年李文星之死”，称东北大学毕业生李文星在BOSS直聘遭遇招聘诈骗，深陷传销组织，7月14日其尸体在天津静海被发现</data>
+        <data key="time">2017-07-14</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[天津静海]</data>
+        <data key="organization">[东北大学]</data>
+        <data key="keywords">[网络, 求职, 少年, 东北, 大学, 毕业生, 直聘, 遭遇, 招聘, 诈骗, 深陷, 传销, 组织, 尸体, 天津, 静海, 发现]</data>
+      </node>
+      <node id="{打捞-尸体}_e" labels=":EVENTNODE">
+        <data key="trigger">[{打捞-尸体}]</data>
+        <data key="title">7月14日，天津市静海区城关派出所于7月14日从一处水坑打捞出一具男性尸体，该男子后经确认为李文星</data>
+        <data key="time">2017-07-14</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[天津市静海区城关派出所]</data>
+        <data key="keywords">[天津市, 静海区, 城关, 派出所, 水坑, 打捞, 男性, 尸体, 男子, 确认]</data>
+      </node>
+      <node id="{动身}_e" labels=":EVENTNODE">
+        <data key="trigger">[{动身}]</data>
+        <data key="title">6月2日，陈达动身前往天津</data>
+        <data key="time">2017-06-02</data>
+        <data key="person">[陈达]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[动身, 前往, 天津]</data>
+      </node>
+      <node id="{求助}_e" labels=":EVENTNODE">
+        <data key="trigger">[{求助}]</data>
+        <data key="title">2017年6月7日，一对在静海区寻子一月有余而未果的夫妇在人民网《地方领导留言板》上求助，希望有关部门采取行动，取缔传销组织</data>
+        <data key="time">2017-06-07</data>
+        <data key="person">[]</data>
+        <data key="location">[静海区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[寻子, 有余, 未果, 夫妇, 人民网, 地方, 领导, 留言板, 求助, 希望, 部门, 取缔, 传销, 组织]</data>
+      </node>
+      <node id="{阻止}_e" labels=":EVENTNODE">
+        <data key="trigger">[{阻止}]</data>
+        <data key="title">【环球网综合报道】据美国《华尔街日报》8月3日报道，巴西极其不受欢迎的总统特梅尔2日在一次有重要意义的国会投票中阻止了针对自己的腐败指控，让四面楚歌的现任政权得以暂时维持对权力的微弱控制</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[特梅尔]</data>
+        <data key="location">[美国, 巴西, 华尔街]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[环球网, 综合, 报道, 日报, 总统, 意义, 国会, 投票, 阻止, 指控, 政权, 得以, 权力, 控制]</data>
+      </node>
+      <node id="{入职}_e" labels=":EVENTNODE">
+        <data key="trigger">[{入职}]</data>
+        <data key="title">早在5月18日中午，科蓝公司通知李文星入职后，他曾在QQ上将此事告诉了高中同学王异</data>
+        <data key="time">2017-05-18</data>
+        <data key="person">[李文星, 王异]</data>
+        <data key="location">[]</data>
+        <data key="organization">[科蓝公司]</data>
+        <data key="keywords">[科蓝, 公司, 通知, 入职, 告诉, 高中, 同学]</data>
+      </node>
+      <node id="{收到-职位}_e" labels=":EVENTNODE">
+        <data key="trigger">[{收到-职位}]</data>
+        <data key="title">李东）据媒体报道，5月15日，东北大学资源勘查工程专业毕业生李文星在互联网招聘平台Boss直聘上发送简历找工作，在收到了“北京科蓝软件系统股份有限公司”提供的职位后，前往天津滨海高新区软件园报到就职</data>
+        <data key="time">2017-05-15</data>
+        <data key="person">[李东, 李文星]</data>
+        <data key="location">[天津]</data>
+        <data key="organization">[北京科蓝软件系统股份有限公司]</data>
+        <data key="keywords">[媒体, 报道, 东北, 大学, 资源, 勘查, 工程, 专业, 毕业生, 互联网, 招聘, 平台, 直聘, 发送, 简历, 工作, 收到, 北京, 科蓝, 软件, 系统, 股份, 有限公司, 提供, 职位, 前往, 滨海, 高新区, 软件园, 报到, 就职]</data>
+      </node>
+      <node id="{取消-资格}_e" labels=":EVENTNODE">
+        <data key="trigger">[{取消-资格}]</data>
+        <data key="title">8月16日上午，封面新闻记者从“诚信网站”认证实施机构北京盘石信用管理有限公司获悉，BOSS直聘网的“互联网诚信示范单位”资格已被取消</data>
+        <data key="time">2017-08-16</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[北京盘石信用管理有限公司]</data>
+        <data key="keywords">[封面, 新闻记者, 网站, 认证, 实施, 机构, 北京, 盘石, 信用, 管理, 有限公司, 获悉, 直聘网, 互联网, 示范, 单位, 资格, 取消]</data>
+      </node>
+      <node id="{举报-传销}_e" labels=":EVENTNODE">
+        <data key="trigger">[{举报-传销}, {举报-窝点}, {奖励-人民币}]</data>
+        <data key="title">    同时，8月6日，静海区发布《静海区举报非法传销的奖励办法》，对于举报非法传销组织及其藏匿的传销窝点，经查实摧毁的，一次性奖励举报人2万元人民币</data>
+        <data key="time">2017-08-06</data>
+        <data key="person">[]</data>
+        <data key="location">[静海区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[发布, 举报, 传销, 奖励, 办法, 组织, 藏匿, 窝点, 查实, 摧毁, 举报人, 人民币]</data>
+      </node>
+      <node id="{逝去}_e" labels=":EVENTNODE">
+        <data key="trigger">[{工作}, {逝去}]</data>
+        <data key="title">你我虽素未相识，我也并非此次事件的当事人，但我作为前Boss直聘华东市场公关经理，今天（虎嗅注：指的是8月2日）看到本该被我曾经工作的平台所保护的孩子却为了找工作而丢掉了性命，迫使我冒着得罪老东家的危险也要从良知的角度向公众说明一些事实与真相，希望能以此能告慰您儿子逝去的生命，让在天之灵得以安息</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[]</data>
+        <data key="location">[华东]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[相识, 事件, 当事人, 直聘, 市场, 公关, 经理, 嗅注, 工作, 平台, 保护, 孩子, 丢掉, 性命, 迫使, 得罪, 东家, 良知, 角度, 公众, 事实, 真相, 希望, 告慰, 儿子, 逝去, 生命, 得以, 安息]</data>
+      </node>
+      <node id="{抓获-涉案人员}_e" labels=":EVENTNODE">
+        <data key="trigger">[{抓获-涉案人员}, {核查-原因}]</data>
+        <data key="title">8月6日，5名涉案人员被抓获并刑拘，李文星溺水死亡原因正在核查确认</data>
+        <data key="time">2017-08-06</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[涉案人员, 抓获, 刑拘, 溺水, 死亡, 原因, 核查, 确认]</data>
+      </node>
+      <node id="{死亡}_e" labels=":EVENTNODE">
+        <data key="trigger">[{死亡}, {转发}]</data>
+        <data key="title">　　本报天津8月2日电(中国青年报·中青在线记者胡春艳)一则大学毕业生找工作疑陷传销组织蹊跷死亡的信息今天在网上被大量转发</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[胡春艳]</data>
+        <data key="location">[天津, 中国]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[青年, 在线, 记者, 大学, 毕业生, 工作, 疑陷, 传销, 组织, 死亡, 信息, 网上, 转发]</data>
+      </node>
+      <node id="{殒命}_e" labels=":EVENTNODE">
+        <data key="trigger">[{殒命}, {身陷-殒命}]</data>
+        <data key="title">　　8月2日，来自自媒体报道的一则大学毕业生李文星疑遇“招聘骗局”，身陷传销组织殒命的消息，引发广泛讨论</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[媒体, 报道, 大学, 毕业生, 招聘, 骗局, 身陷, 传销, 组织, 殒命, 消息, 引发, 讨论]</data>
+      </node>
+      <node id="{悼念-李文星}_e" labels=":EVENTNODE">
+        <data key="trigger">[{悼念-李文星}]</data>
+        <data key="title">8月2日下午，李文星家属发布了悼念李文星的图文</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[家属, 发布, 悼念, 图文]</data>
+      </node>
+      <node id="{辨认}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现-尸体}, {辨认}]</data>
+        <data key="title">8月2日下午，静海公安分局一男工作人员告诉北京时间，发现尸体时，已浸泡较长时间，死亡时间不清，“长相、身形无法辨认，城关派出所根据身份证住址，联系德州方面”</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[]</data>
+        <data key="location">[德州, 北京]</data>
+        <data key="organization">[城关派出所, 静海公安分局]</data>
+        <data key="keywords">[静海, 公安, 分局, 工作, 人员, 告诉, 时间, 发现, 尸体, 浸泡, 死亡, 长相, 身形, 辨认, 城关, 派出所, 身份证, 住址]</data>
+      </node>
+      <node id="{发现-水坑}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现-水坑}]</data>
+        <data key="title">7月14日，他被人发现死于天津静海G104国道旁的一个水坑里</data>
+        <data key="time">2017-07-14</data>
+        <data key="person">[]</data>
+        <data key="location">[天津静海]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[发现, 天津, 静海, 国道, 水坑]</data>
+      </node>
+      <node id="{入职-公司}_e" labels=":EVENTNODE">
+        <data key="trigger">[{入职-公司}]</data>
+        <data key="title">”王异说，李文星告诉他，已于5月21日到石家庄，石家庄有一家公司的高管是他亲戚，已入职那家公司并租房，“项目比较紧，经常加班</data>
+        <data key="time">2017-05-21</data>
+        <data key="person">[李文星, 王异]</data>
+        <data key="location">[石家庄]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[告诉, 公司, 高管, 亲戚, 入职, 项目, 加班]</data>
+      </node>
+      <node id="{面试-李文星}_e" labels=":EVENTNODE">
+        <data key="trigger">[{面试-李文星}]</data>
+        <data key="title">　　据和李文星合租的大学同学陈栋回忆说，5月18日北京科蓝电话面试了李文星，在电话里还问了一些比较专业的问题</data>
+        <data key="time">2017-05-18</data>
+        <data key="person">[陈栋, 李文星]</data>
+        <data key="location">[北京]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[合租, 大学, 同学, 回忆, 电话, 面试, 专业]</data>
+      </node>
+      <node id="{整改-平台}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发表-道歉信}, {招聘-伤害}, {承担-法律}, {整改-平台}]</data>
+        <data key="title">张凡)8月10日上午，网络招聘公司“BOSS直聘”针对李文星因其平台漏洞被诱入传销组织不幸殒命一事发表官方道歉信，对其家人表达深深的悲痛，在信中称将对在BOSS直聘平台上被虚假招聘伤害的用户承担法律和道义的责任，并采取措施进行平台整改</data>
+        <data key="time">2017-08-10</data>
+        <data key="person">[李文星, 张凡]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[网络, 招聘, 公司, 直聘, 平台, 漏洞, 诱入, 传销, 组织, 殒命, 发表, 官方, 道歉信, 家人, 表达, 伤害, 用户, 承担, 法律, 道义, 责任, 措施, 整改]</data>
+      </node>
+      <node id="{致死}_e" labels=":EVENTNODE">
+        <data key="trigger">[{致死}]</data>
+        <data key="title">在李文星事件被舆论关注期间，公众除了高度关注事件本身外，各大媒体也对此类新闻进行横向挖掘，接连报道三起大学生因陷入传销组织致死的消息：7月13日，毕业于科技大学的山东郓城人张超在静海误入传销组织，因中暑未及时得到救治，病情加重导致身亡</data>
+        <data key="time">2017-07-13</data>
+        <data key="person">[李文星, 张超]</data>
+        <data key="location">[山东, 静海]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[事件, 舆论, 关注, 公众, 媒体, 新闻, 横向, 挖掘, 报道, 大学生, 陷入, 传销, 组织, 致死, 消息, 毕业, 科技, 大学, 郓城人, 中暑, 救治, 病情, 加重, 导致, 身亡]</data>
+      </node>
+      <node id="{发文-回应}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发文-回应}, {透露}, {钓鱼}, {公开}, {招聘-秘密}]</data>
+        <data key="title">8月3日，南方都市报发文《BOSS直聘最新回应“李文星之死”：审核机制“存在很大问题”》称，据知情人士透露，目前类似发布虚假职位钓鱼的情况，已经是招聘网站公开的秘密</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[南方, 都市, 发文, 直聘, 回应, 审核, 机制, 知情, 人士, 透露, 发布, 职位, 钓鱼, 情况, 招聘, 网站, 公开, 秘密]</data>
+      </node>
+      <node id="{发表-调查}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发表-调查}, {求职}, {招聘-信息}, {发现}]</data>
+        <data key="title">芥末堆10月25日讯，今年8月2日，芥末堆发表独家调查报道《求职少年李文星之死》，东北大学毕业生李文星通过互联网招聘平台“BOSS直聘”求职，却因虚假招聘信息而身陷传销组织，尸体于7月14日在天津静海区被发现</data>
+        <data key="time">2017-10-25</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[天津静海区]</data>
+        <data key="organization">[东北大学]</data>
+        <data key="keywords">[芥末, 发表, 调查, 报道, 求职, 少年, 东北, 大学, 毕业生, 互联网, 招聘, 平台, 直聘, 信息, 传销, 组织, 尸体, 天津, 静海区, 发现]</data>
+      </node>
+      <node id="{投诉-遭遇}_e" labels=":EVENTNODE">
+        <data key="trigger">[{投诉-遭遇}, {涉嫌-培训费}, {培训-贷款}]</data>
+        <data key="title">　　据21CN聚投诉信息显示，今年3月30日，田先生投诉在BOSS直聘上遭遇招聘公司涉嫌诈骗培训费问题，称北京中软国际教育集团在BOSS直聘以招聘手段骗其面试，其后改成培训贷款</data>
+        <data key="time">2017-03-30</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[北京中软国际教育集团]</data>
+        <data key="keywords">[投诉, 信息, 显示, 直聘, 遭遇, 招聘, 公司, 涉嫌, 诈骗, 培训费, 北京, 中软, 国际, 教育, 集团, 手段, 面试, 培训, 贷款]</data>
+      </node>
+      <node id="{透露-接到}_e" labels=":EVENTNODE">
+        <data key="trigger">[{透露-接到}, {发现-尸体}]</data>
+        <data key="title">　　“平安西青”透露，7月14日公安西青分局接到报警，发现张超尸体</data>
+        <data key="time">2017-07-14</data>
+        <data key="person">[张超]</data>
+        <data key="location">[西青]</data>
+        <data key="organization">[西青分局]</data>
+        <data key="keywords">[透露, 公安, 分局, 接到, 报警, 发现, 尸体]</data>
+      </node>
+      <node id="{刊登}_e" labels=":EVENTNODE">
+        <data key="trigger">[{刊登}, {应聘}, {下架}, {招聘-信息}]</data>
+        <data key="title">雷若彤)本报曾于8月10日刊登名为《网信办约谈李文星事件涉事网站》的报道，其中提到，“李文星所应聘的北京科蓝软件系统股份有限公司已从BOSS直聘网站下架，平台上也已经看不到这家公司的招聘信息</data>
+        <data key="time">2017-08-10</data>
+        <data key="person">[雷若彤, 李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[北京科蓝软件系统股份有限公司]</data>
+        <data key="keywords">[刊登, 网信办, 事件, 网站, 报道, 提到, 应聘, 北京, 科蓝, 软件, 系统, 股份, 有限公司, 直聘, 下架, 平台, 看不到, 公司, 招聘, 信息]</data>
+      </node>
+      <node id="{通知-报到}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通知-报到}]</data>
+        <data key="title">5月18日，自称上述公司的“人事部”电话面试李文星，5月20日，他被通知到天津静海区报到</data>
+        <data key="time">2017-05-18</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[天津静海区]</data>
+        <data key="organization">[人事部]</data>
+        <data key="keywords">[自称, 公司, 电话, 面试, 通知, 天津, 静海区, 报到]</data>
+      </node>
+      <node id="{举报-窝点}_e" labels=":EVENTNODE">
+        <data key="trigger">[{举报-传销}, {举报-窝点}, {奖励-人民币}]</data>
+        <data key="title">    同时，8月6日，静海区发布《静海区举报非法传销的奖励办法》，对于举报非法传销组织及其藏匿的传销窝点，经查实摧毁的，一次性奖励举报人2万元人民币</data>
+        <data key="time">2017-08-06</data>
+        <data key="person">[]</data>
+        <data key="location">[静海区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[发布, 举报, 传销, 奖励, 办法, 组织, 藏匿, 窝点, 查实, 摧毁, 举报人, 人民币]</data>
+      </node>
+      <node id="{身陷-殒命}_e" labels=":EVENTNODE">
+        <data key="trigger">[{殒命}, {身陷-殒命}]</data>
+        <data key="title">　　8月2日，来自自媒体报道的一则大学毕业生李文星疑遇“招聘骗局”，身陷传销组织殒命的消息，引发广泛讨论</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[媒体, 报道, 大学, 毕业生, 招聘, 骗局, 身陷, 传销, 组织, 殒命, 消息, 引发, 讨论]</data>
+      </node>
+      <node id="{致歉}_e" labels=":EVENTNODE">
+        <data key="trigger">[{致歉}, {承担-责任}]</data>
+        <data key="title">8月10日，Boss直聘就“李文星事件”正式致歉，表示愿意“承担法律和道义责任</data>
+        <data key="time">2017-08-10</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[直聘, 事件, 致歉, 承担, 法律, 道义, 责任]</data>
+      </node>
+      <node id="{损害-权益}_e" labels=":EVENTNODE">
+        <data key="trigger">[{损害-权益}, {招聘-网站}]</data>
+        <data key="title">　　此前，针对部分招聘网站存在片面追求经济效益，严重失信甚至违法违规，损害求职者合法权益的行为，天津在8月6日召开专题会议，研究部署开展招聘网站违规失信专项清理整治行动</data>
+        <data key="time">2017-08-06</data>
+        <data key="person">[]</data>
+        <data key="location">[天津]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[招聘, 网站, 追求, 经济效益, 失信, 违法, 违规, 损害, 求职者, 权益, 专题, 会议, 研究, 部署, 清理, 整治]</data>
+      </node>
+      <node id="{收到-信息}_e" labels=":EVENTNODE">
+        <data key="trigger">[{收到-信息}]</data>
+        <data key="title">前不久，李文星曾告诉妹妹李文月，他通过“BOSS直聘”招聘平台在天津找到一份IT方面的工作，而同样在天津的妹妹，在5月20日还曾收到了哥哥的定位信息</data>
+        <data key="time">2017-05-20</data>
+        <data key="person">[李文星, 李文月]</data>
+        <data key="location">[天津]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[告诉, 妹妹, 直聘, 招聘, 平台, 找到, 工作, 收到, 哥哥, 定位, 信息]</data>
+      </node>
+      <node id="{推送-短讯}_e" labels=":EVENTNODE">
+        <data key="trigger">[{推送-短讯}]</data>
+        <data key="title">8月7日，向平台的全部用户推送防骗短讯</data>
+        <data key="time">2017-08-07</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[平台, 用户, 推送, 短讯]</data>
+      </node>
+      <node id="{发现-死亡}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现-死亡}]</data>
+        <data key="title">8月2日网传大学毕业生李文星通过“BOSS直聘”找工作被骗，在天津市静海区被发现死亡</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[天津市静海区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[网传, 大学, 毕业生, 直聘, 工作, 天津市, 静海区, 发现, 死亡]</data>
+      </node>
+      <node id="{通报}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通报}]</data>
+        <data key="title">天津静海区宣传部事后通报，7月20日，经家属同意，对李文星尸体进行了解剖尸检</data>
+        <data key="time">2017-07-20</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[天津静海区宣传部]</data>
+        <data key="keywords">[天津, 静海区, 宣传部, 通报, 家属, 同意, 尸体, 解剖, 尸检]</data>
+      </node>
+      <node id="{招聘-软件}_e" labels=":EVENTNODE">
+        <data key="trigger">[{招聘-软件}]</data>
+        <data key="title">　　【TechWeb报道】8月3日消息，昨天李文星事件给招聘软件一记重拳，BOSS直聘第一时间给出回应</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[报道, 消息, 李文星, 事件, 招聘, 软件, 直聘, 时间, 回应]</data>
+      </node>
+      <node id="{失联}_e" labels=":EVENTNODE">
+        <data key="trigger">[{失联}, {发现-身亡}]</data>
+        <data key="title">7月8日后失联，7月14日，该求职者在天津静海区被发现身亡</data>
+        <data key="time">2017-07-14</data>
+        <data key="person">[]</data>
+        <data key="location">[天津静海区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[失联, 求职者, 天津, 静海区, 发现, 身亡]</data>
+      </node>
+      <node id="{收到-聘用}_e" labels=":EVENTNODE">
+        <data key="trigger">[{收到-聘用}]</data>
+        <data key="title">5月19日，收到聘用通知函</data>
+        <data key="time">2017-05-19</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[收到, 聘用, 通知函]</data>
+      </node>
+      <node id="{探访}_e" labels=":EVENTNODE">
+        <data key="trigger">[{探访}]</data>
+        <data key="title">8月4日，封面新闻记者通过实地探访发现，水坑其实就紧挨着静海外环线公路</data>
+        <data key="time">2017-08-04</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[封面, 新闻记者, 探访, 发现, 水坑, 海外, 环线, 公路]</data>
+      </node>
+      <node id="{曝光-消息}_e" labels=":EVENTNODE">
+        <data key="trigger">[{刑拘}, {曝光-消息}, {调查}, {诱骗-李文星}]</data>
+        <data key="title">李文星被骗入传销溺亡案5人被刑拘细节曝光北方网8月6日消息，8月6日，“津云”—前沿新闻记者从静海区获悉，经过警方全力调查取证，目前已基本查明李文星被诱骗进入传销组织的经过</data>
+        <data key="time">2017-08-06</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[静海区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[传销, 溺亡, 刑拘, 细节, 曝光, 北方, 消息, 津云, 前沿, 新闻记者, 获悉, 警方, 调查, 取证, 查明, 诱骗, 组织]</data>
+      </node>
+      <node id="{招聘-幌子}_e" labels=":EVENTNODE">
+        <data key="trigger">[{落入}, {招聘-幌子}]</data>
+        <data key="title">今年5月1日，毕业于东北大学的李文星在“BOSS直聘”招聘平台上发简历找工作，却意外落入打着招聘幌子的传销魔窟</data>
+        <data key="time">2017-05-01</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[东北大学]</data>
+        <data key="keywords">[毕业, 东北, 大学, 直聘, 招聘, 平台, 简历, 工作, 落入, 幌子, 传销, 魔窟]</data>
+      </node>
+      <node id="{发文-吊念}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发文-吊念}, {发酵}]</data>
+        <data key="title">　　2017年8月2日，李文星家属发文吊念，随后“李文星事件”持续发酵，引起轩然大波，BOSS直聘也因此被推到风尖浪口</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[家属, 发文, 吊念, 事件, 持续, 发酵, 直聘, 风尖浪口]</data>
+      </node>
+      <node id="{举报-机制}_e" labels=":EVENTNODE">
+        <data key="trigger">[{修改-流程}, {举报-机制}]</data>
+        <data key="title">　　8月9日，App后台修改用户举报流程，强化快速举报处理机制</data>
+        <data key="time">2017-08-09</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[后台, 修改, 用户, 举报, 流程, 强化, 机制]</data>
+      </node>
+      <node id="{核实}_e" labels=":EVENTNODE">
+        <data key="trigger">[{核实}, {刊登-声明}]</data>
+        <data key="title">”经北京青年报记者核实，北京科蓝软件系统股份有限公司已于8月4日在公司官网上刊登澄清声明，声明中表示：文中提到的在“BOSS</data>
+        <data key="time">2017-08-04</data>
+        <data key="person">[]</data>
+        <data key="location">[北京]</data>
+        <data key="organization">[北京科蓝软件系统股份有限公司]</data>
+        <data key="keywords">[青年报, 记者, 核实, 科蓝, 软件, 系统, 股份, 有限公司, 公司, 官网, 刊登, 澄清, 声明, 文中, 提到]</data>
+      </node>
+      <node id="{解救-人员}_e" labels=":EVENTNODE">
+        <data key="trigger">[{解救-人员}, {解救}]</data>
+        <data key="title">6月18日，闵某（男，24岁，上海人）等10名被困传销组织人员被静海区公安分局城关派出所从传销组织中解救，闵某称其6月与李文星一同被困在静海镇杨李院村一传销窝点中长达一周，至闵某被解救前两日，李文星被传销人员转移至其他寝室</data>
+        <data key="time">2017-06-18</data>
+        <data key="person">[李文星, 闵某]</data>
+        <data key="location">[上海, 静海镇杨李院村]</data>
+        <data key="organization">[静海区公安分局城关派出所]</data>
+        <data key="keywords">[传销, 组织, 人员, 静海区, 公安, 分局, 城关, 派出所, 解救, 静海镇, 杨李院村, 窝点, 转移, 寝室]</data>
+      </node>
+      <node id="{推送-短信}_e" labels=":EVENTNODE">
+        <data key="trigger">[{推送-短信}]</data>
+        <data key="title">　　8月7日，向平台的全部用户推送防骗短信</data>
+        <data key="time">2017-08-07</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[平台, 用户, 推送, 短信]</data>
+      </node>
+      <node id="{通报-遣散}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通报-遣散}, {打击}, {溺亡}]</data>
+        <data key="title">10月18日，静海警方向李某星家属通报：传销团伙为躲避警方打击，遣散部分人员，李某星在被送往火车站的途中溺亡</data>
+        <data key="time">2017-10-18</data>
+        <data key="person">[李某]</data>
+        <data key="location">[静海]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[警方, 家属, 通报, 传销, 团伙, 躲避, 打击, 遣散, 人员, 火车站, 途中, 溺亡]</data>
+      </node>
+      <node id="{虚构-名字}_e" labels=":EVENTNODE">
+        <data key="trigger">[{注册}, {虚构-名字}, {虚构}, {虚构}]</data>
+        <data key="title">　　8月2日晚，记者通过BOSS直聘手机版注册招聘，注册过程中，记者虚构公司名字为“北京仗剑天涯文化传媒有限公司”、虚构公司简称为“中原一支笔”，虚构公司行业为媒体，公司规模虚构为20-99人</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[]</data>
+        <data key="location">[中原]</data>
+        <data key="organization">[北京仗剑天涯文化传媒有限公司]</data>
+        <data key="keywords">[记者, 直聘, 手机, 注册, 招聘, 过程, 虚构, 公司, 名字, 北京, 仗剑天涯, 文化, 传媒, 有限公司, 简称, 行业, 媒体, 规模]</data>
+      </node>
+      <node id="{审核}_e" labels=":EVENTNODE">
+        <data key="trigger">[{审核}]</data>
+        <data key="title">BOSS直聘CEO赵鹏8月3日凌晨给南都记者发来的最新回应：目前用户和媒体非常关心Boss直聘APP对招聘者审核认证的事情，我们如实说一下情况</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[赵鹏]</data>
+        <data key="location">[南都]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[直聘, 记者, 回应, 用户, 媒体, 关心, 招聘者, 审核, 认证, 事情, 情况]</data>
+      </node>
+      <node id="{应聘}_e" labels=":EVENTNODE">
+        <data key="trigger">[{应聘}, {遭遇-骗局}]</data>
+        <data key="title">　　2017年5月20日，东北大学资源勘查工程专业毕业生李文星在BOSS直聘上应聘，疑似遭遇传销骗局，在失联数日后最终不幸身亡</data>
+        <data key="time">2017-05-20</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[东北大学]</data>
+        <data key="keywords">[东北, 大学, 资源, 勘查, 工程, 专业, 毕业生, 直聘, 应聘, 疑似, 遭遇, 传销, 骗局, 失联, 身亡]</data>
+      </node>
+      <node id="{殴打-何林坤}_e" labels=":EVENTNODE">
+        <data key="trigger">[{殴打-何林坤}]</data>
+        <data key="title">7月14日，在山西运城，四川南部县人何林坤因拒绝参加传销活动被多名传销组织成员殴打死亡</data>
+        <data key="time">2017-07-14</data>
+        <data key="person">[何林坤]</data>
+        <data key="location">[山西运城, 四川]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[山西, 运城, 县人, 拒绝, 参加, 传销, 活动, 组织, 成员, 殴打, 死亡]</data>
+      </node>
+      <node id="{虚构}_e" labels=":EVENTNODE">
+        <data key="trigger">[{注册}, {虚构-名字}, {虚构}, {虚构}]</data>
+        <data key="title">　　8月2日晚，记者通过BOSS直聘手机版注册招聘，注册过程中，记者虚构公司名字为“北京仗剑天涯文化传媒有限公司”、虚构公司简称为“中原一支笔”，虚构公司行业为媒体，公司规模虚构为20-99人</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[]</data>
+        <data key="location">[中原]</data>
+        <data key="organization">[北京仗剑天涯文化传媒有限公司]</data>
+        <data key="keywords">[记者, 直聘, 手机, 注册, 招聘, 过程, 虚构, 公司, 名字, 北京, 仗剑天涯, 文化, 传媒, 有限公司, 简称, 行业, 媒体, 规模]</data>
+      </node>
+      <node id="{聘发-简历}_e" labels=":EVENTNODE">
+        <data key="trigger">[{聘发-简历}]</data>
+        <data key="title">”据胡泽回忆，5月15日，李文星通过BOSS直聘发简历给“科蓝公司”的薛婷婷，几分钟后，薛婷婷回复说，公司目前有一个天津外派项目，“一两个月就会结束，之后就回到北京，请问是否接受</data>
+        <data key="time">2017-05-15</data>
+        <data key="person">[李文星, 薛婷婷, 胡泽]</data>
+        <data key="location">[天津, 北京]</data>
+        <data key="organization">[科蓝公司]</data>
+        <data key="keywords">[回忆, 聘发, 简历, 科蓝, 公司, 回复, 外派, 项目, 结束, 回到, 请问, 接受]</data>
+      </node>
+      <node id="{曝光-事件}_e" labels=":EVENTNODE">
+        <data key="trigger">[{曝光-事件}]</data>
+        <data key="title">“李文星事件”被曝光后，8月6日凌晨，天津静海组织开展打击传销“凌晨行动”，在全区范围开展地毯式、拉网式排查</data>
+        <data key="time">2017-08-06</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[天津静海]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[事件, 曝光, 天津, 静海, 组织, 打击, 传销, 全区, 地毯, 拉网式, 排查]</data>
+      </node>
+      <node id="{携带}_e" labels=":EVENTNODE">
+        <data key="trigger">[{携带}]</data>
+        <data key="title">8月2日晚，北京时间记者联系上天津静海公安分局，得到的答复是“根据李文星随身携带的传销笔记，警方认为他极有可能误入传销”</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[北京]</data>
+        <data key="organization">[天津静海公安分局]</data>
+        <data key="keywords">[时间, 记者, 天津, 静海, 公安, 分局, 答复, 携带, 传销, 笔记, 警方]</data>
+      </node>
+      <node id="{借款}_e" labels=":EVENTNODE">
+        <data key="trigger">[{借款}]</data>
+        <data key="title">6月8日，李文星又一次向胡泽提出借款500元的请求</data>
+        <data key="time">2017-06-08</data>
+        <data key="person">[李文星, 胡泽]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[提出, 借款, 请求]</data>
+      </node>
+      <node id="{发现-殒命}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现-殒命}]</data>
+        <data key="title">7月14日，在天津静海区一水坑，山东籍小伙李文星被发现殒命此间</data>
+        <data key="time">2017-07-14</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[天津静海区, 山东]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[天津, 静海区, 水坑, 小伙, 发现, 殒命]</data>
+      </node>
+      <node id="{诱骗}_e" labels=":EVENTNODE">
+        <data key="trigger">[{诱骗}]</data>
+        <data key="title">李文星投发简历后，陈某于5月20日将李文星诱骗至静海，后向传销组织上级张某进行了汇报，张某又向他的上级胡某进行了汇报</data>
+        <data key="time">2017-05-20</data>
+        <data key="person">[李文星, 陈某, 张某, 胡某]</data>
+        <data key="location">[静海]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[投发, 简历, 诱骗, 传销, 组织, 上级, 汇报]</data>
+      </node>
+      <node id="{解救}_e" labels=":EVENTNODE">
+        <data key="trigger">[{解救-人員}, {解救}]</data>
+        <data key="title">　　6月18日，閔某(男，24歲，上海人)等10名被困傳銷組織人員被公安靜海分局城關派出所從傳銷組織中解救，閔某稱其6月份與李文星一同被困在靜海鎮楊李院村一傳銷窩點中長達一周，至閔某被解救前兩日，李文星被傳銷人員轉移至其他寢室</data>
+        <data key="time">2017-06-18</data>
+        <data key="person">[李文星, 閔某]</data>
+        <data key="location">[上海, 靜海, 李院村]</data>
+        <data key="organization">[公安靜海分局城關派出所]</data>
+        <data key="keywords">[困傳, 組織, 人員, 公安, 分局, 城關, 派出所, 傳銷, 解救, 鎮楊, 銷窩, 長達, 轉移, 寢室]</data>
+      </node>
+      <node id="{发现-身亡}_e" labels=":EVENTNODE">
+        <data key="trigger">[{失联}, {发现-身亡}]</data>
+        <data key="title">7月8日后失联，7月14日，该求职者在天津静海区被发现身亡</data>
+        <data key="time">2017-07-08</data>
+        <data key="person">[]</data>
+        <data key="location">[天津静海区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[失联, 求职者, 天津, 静海区, 发现, 身亡]</data>
+      </node>
+      <node id="{涉嫌-培训费}_e" labels=":EVENTNODE">
+        <data key="trigger">[{投诉-遭遇}, {涉嫌-培训费}, {培训-贷款}]</data>
+        <data key="title">　　据21CN聚投诉信息显示，今年3月30日，田先生投诉在BOSS直聘上遭遇招聘公司涉嫌诈骗培训费问题，称北京中软国际教育集团在BOSS直聘以招聘手段骗其面试，其后改成培训贷款</data>
+        <data key="time">2017-03-30</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[北京中软国际教育集团]</data>
+        <data key="keywords">[投诉, 信息, 显示, 直聘, 遭遇, 招聘, 公司, 涉嫌, 诈骗, 培训费, 北京, 中软, 国际, 教育, 集团, 手段, 面试, 培训, 贷款]</data>
+      </node>
+      <node id="{调查}_e" labels=":EVENTNODE">
+        <data key="trigger">[{调查}]</data>
+        <data key="title">记者8月3日凌晨获悉，根据警方调查，李文星生前确系陷入了一个名为“蝶贝蕾”的传销组织</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[记者, 获悉, 警方, 调查, 陷入, 蝶贝蕾, 传销, 组织]</data>
+      </node>
+      <node id="{火化}_e" labels=":EVENTNODE">
+        <data key="trigger">[{火化}]</data>
+        <data key="title">7月21日，李文星尸体火化，李文星叔叔“用双肩包把孩子骨灰背回山东，22日安葬</data>
+        <data key="time">2017-07-21</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[山东]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[尸体, 火化, 叔叔, 双肩包, 孩子, 骨灰, 安葬]</data>
+      </node>
+      <node id="{审核-流程}_e" labels=":EVENTNODE">
+        <data key="trigger">[{审核-流程}]</data>
+        <data key="title">　　BOSS直聘还称，从8月3日凌晨开始，公司全面进行调整，对于所有招聘者执行事先审核认证流程</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[直聘, 公司, 调整, 招聘者, 执行, 审核, 认证, 流程]</data>
+      </node>
+      <node id="{发现-发布}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现-发布}, {收到-简历}]</data>
+        <data key="title">8月2日晚，记者登录boss直聘软件，发现招聘信息仍能随意发布，无需认证公司即能收到数百封简历</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[记者, 登录, 直聘, 软件, 发现, 招聘, 信息, 发布, 无需, 认证, 公司, 收到, 简历]</data>
+      </node>
+      <node id="{火化-處理}_e" labels=":EVENTNODE">
+        <data key="trigger">[{火化-處理}]</data>
+        <data key="title">　　7月21日下午，家屬自行將李文星屍體進行火化處理</data>
+        <data key="time">2017-07-21</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[家屬, 自行將, 屍體, 進行, 火化, 處理]</data>
+      </node>
+      <node id="{通知-入职}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通知-入职}]</data>
+        <data key="title">5月18日，“科蓝公司”通过电话对李文星进行了面试，并通知其入职</data>
+        <data key="time">2017-05-18</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[科蓝公司]</data>
+        <data key="keywords">[科蓝, 公司, 电话, 面试, 通知, 入职]</data>
+      </node>
+      <node id="{发现-外环}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现-外环}]</data>
+        <data key="title">　　中青在线报道称，根据天津市静海区公安分局提供的“关于李文星非正常死亡警情的说明”，7月14日18时55分，李文星的尸体在静海西外环与北外环交口沟内被发现，经检验，李文星符合生前溺水死亡特征</data>
+        <data key="time">2017-07-14</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[北外环, 静海西]</data>
+        <data key="organization">[天津市静海区公安分局]</data>
+        <data key="keywords">[中青在线, 报道, 天津市, 静海区, 公安, 分局, 提供, 死亡, 警情, 尸体, 外环, 交口沟, 发现, 检验, 符合, 溺水, 特征]</data>
+      </node>
+      <node id="{遭遇}_e" labels=":EVENTNODE">
+        <data key="trigger">[{遭遇}]</data>
+        <data key="title">　　8月2日，一则《求职少年李文星之死》新闻引起社会广泛关注，报道中称东北大学毕业生李文星通过BOSS直聘找工作，疑遭遇“李鬼”公司从而进入传销公司，最终付出生命代价</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[东北大学]</data>
+        <data key="keywords">[求职, 少年, 新闻, 社会, 关注, 报道, 东北, 大学, 毕业生, 直聘, 工作, 遭遇, 李鬼, 公司, 传销, 付出, 生命, 代价]</data>
+      </node>
+      <node id="{遭遇-公司}_e" labels=":EVENTNODE">
+        <data key="trigger">[{遭遇-公司}]</data>
+        <data key="title">【TechWeb报道】8月2日消息，东北大学毕业生李文星通过BOSS直聘找工作，疑惑遭遇‘李鬼’公司，最终付出了生命的代价</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[东北大学]</data>
+        <data key="keywords">[报道, 消息, 东北, 大学, 毕业生, 直聘, 工作, 疑惑, 遭遇, 李鬼, 公司, 付出, 生命, 代价]</data>
+      </node>
+      <node id="{收到-定位}_e" labels=":EVENTNODE">
+        <data key="trigger">[{溺亡}, {收到-定位}]</data>
+        <data key="title">水坑里溺亡5月20日下午14:41，于爽在微信上收到了李文星发来的一个定位，位置信息显示为静海火车站附近的一家商业广场</data>
+        <data key="time">2017-05-20</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[静海火车站]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[水坑, 溺亡, 微信, 收到, 定位, 位置, 信息, 显示, 静海, 火车站, 商业, 广场]</data>
+      </node>
+      <node id="{收到-微信}_e" labels=":EVENTNODE">
+        <data key="trigger">[{收到-微信}]</data>
+        <data key="title">6月28日晚，李文星母亲收到了儿子的微信，问她要家里的电话号，说他忘了</data>
+        <data key="time">2017-06-28</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[母亲, 收到, 儿子, 微信, 家里, 电话号]</data>
+      </node>
+      <node id="{通知-赶到}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通知-赶到}]</data>
+        <data key="title">7月15日，山东籍大学生李文星家属接到派出所通知赶到静海殡仪馆</data>
+        <data key="time">2017-07-15</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[山东, 静海]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[大学生, 家属, 接到, 派出所, 通知, 赶到, 殡仪馆]</data>
+      </node>
+      <node id="{失控}_e" labels=":EVENTNODE">
+        <data key="trigger">[{失控}]</data>
+        <data key="title">8月3日下午，最早报道李文星事件的芥末堆的相关人员回应：目前家属情绪已经失控</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[报道, 事件, 芥末堆, 相关, 人员, 回应, 家属, 情绪, 失控]</data>
+      </node>
+      <node id="{诱骗-李文星}_e" labels=":EVENTNODE">
+        <data key="trigger">[{调查}, {诱骗-李文星}]</data>
+        <data key="title">天津北方网讯：8月6日，“津云”—前沿新闻记者从静海区获悉，经过警方全力调查取证，目前已基本查明李文星被诱骗进入传销组织的经过</data>
+        <data key="time">2017-08-06</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[天津, 静海区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[北方, 网讯, 津云, 前沿, 新闻记者, 获悉, 警方, 调查, 取证, 查明, 诱骗, 传销, 组织]</data>
+      </node>
+      <node id="{离世}_e" labels=":EVENTNODE">
+        <data key="trigger">[{离世}]</data>
+        <data key="title">直到7月15日中午，在李文星独自来天津后的第56天，李文月等来了“哥哥离世”的噩耗</data>
+        <data key="time">2017-07-15</data>
+        <data key="person">[李文星, 李文月]</data>
+        <data key="location">[天津]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[哥哥, 离世, 噩耗]</data>
+      </node>
+      <node id="{聘用-李文星}_e" labels=":EVENTNODE">
+        <data key="trigger">[{聘用-李文星}]</data>
+        <data key="title">这份“北京科蓝软体系统有限公司入职聘用书”显示，李文星被聘用为Java开发工程师，试用期一个月，基本月薪5000，入职地点为天津市滨海高新区软体园，报到起止时间均为5月20日</data>
+        <data key="time">2017-05-20</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[天津市]</data>
+        <data key="organization">[北京科蓝软体系统有限公司]</data>
+        <data key="keywords">[北京, 科蓝, 软体, 系统, 有限公司, 入职, 聘用, 显示, 开发, 工程师, 月薪, 地点, 滨海, 高新区, 软体园, 报到, 起止, 时间]</data>
+      </node>
+      <node id="{审核-平台}_e" labels=":EVENTNODE">
+        <data key="trigger">[{审核-平台}, {承担-责任}]</data>
+        <data key="title">8月3日，BOSS直聘回应承认平台审核机制存在问题，愿意承担相应责任</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[直聘, 回应, 承认, 平台, 审核, 机制, 承担, 责任]</data>
+      </node>
+      <node id="{收到-意向}_e" labels=":EVENTNODE">
+        <data key="trigger">[{收到-意向}]</data>
+        <data key="title">7月26日，芥末堆记者以科蓝公司市场主管的名义发布了一则Java的招聘，很短时间内便可以直接和应聘人沟通，而在发布不到10分钟内，就收到了18个求职者的求职意向</data>
+        <data key="time">2017-07-26</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[科蓝公司]</data>
+        <data key="keywords">[芥末, 记者, 科蓝, 公司, 市场, 主管, 名义, 发布, 招聘, 时间, 应聘人, 沟通, 收到, 求职者, 求职, 意向]</data>
+      </node>
+      <node id="{举报-组织}_e" labels=":EVENTNODE">
+        <data key="trigger">[{举报-传销}, {举报-组织}]</data>
+        <data key="title">8月6日，静海区发布《静海区举报非法传销的奖励办法》，对举报非法传销组织的个人实行奖励，举全区之力决战20天，彻底根除传销顽疾</data>
+        <data key="time">2017-08-06</data>
+        <data key="person">[]</data>
+        <data key="location">[静海区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[发布, 举报, 传销, 奖励, 办法, 组织, 实行, 全区, 决战, 根除, 顽疾]</data>
+      </node>
+      <node id="{发现-线索}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现-线索}]</data>
+        <data key="title">目前，公安机关正在对6月18日被解救的10名被困人员了解情况，力争发现李文星被转移寝室的相关线索</data>
+        <data key="time">2017-06-18</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[公安, 机关, 解救, 人员, 情况, 力争, 发现, 转移, 寝室, 相关, 线索]</data>
+      </node>
+      <node id="{招聘-信息}_e" labels=":EVENTNODE">
+        <data key="trigger">[{招聘-信息}]</data>
+        <data key="title">　　不过，8月2日下午，北京时间记者下载了这款名为Boss直聘的手机软件，并在上面体验了一下作为Boss发布招聘信息的过程发现，在操作过程中，该软件经常提醒用户进行身份认证，认证方式是从“名片认证”、“工牌认证”、“在职证明认证”、“营业执照认证”四种方式中，任选一个</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[]</data>
+        <data key="location">[北京]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[时间, 记者, 下载, 直聘, 手机, 软件, 体验, 发布, 招聘, 信息, 过程, 发现, 操作, 提醒, 用户, 身份, 认证, 方式, 名片, 工牌, 在职, 证明, 营业执照, 任选]</data>
+      </node>
+      <node id="{曝光}_e" labels=":EVENTNODE">
+        <data key="trigger">[{曝光}]</data>
+        <data key="title">直到媒体曝光此事后BOSS直聘才有了具体应对措施：从8月3日凌晨两开始，所有的BOSS首次招聘前就需要进行强制审核</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[媒体, 曝光, 直聘, 应对, 措施, 招聘, 强制, 审核]</data>
+      </node>
+      <node id="{招聘-网站}_e" labels=":EVENTNODE">
+        <data key="trigger">[{损害-权益}, {招聘-网站}]</data>
+        <data key="title">　　此前，针对部分招聘网站存在片面追求经济效益，严重失信甚至违法违规，损害求职者合法权益的行为，天津在8月6日召开专题会议，研究部署开展招聘网站违规失信专项清理整治行动</data>
+        <data key="time">2017-08-06</data>
+        <data key="person">[]</data>
+        <data key="location">[天津]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[招聘, 网站, 追求, 经济效益, 失信, 违法, 违规, 损害, 求职者, 权益, 专题, 会议, 研究, 部署, 清理, 整治]</data>
+      </node>
+      <node id="{收到}_e" labels=":EVENTNODE">
+        <data key="trigger">[{收到}]</data>
+        <data key="title">据报道，山东德州籍求职青年李文星5月15日在互联网招聘平台“BOSS直聘”收到了来自自称为“北京科蓝”人事部薛婷婷的回复，该公司疑为冒名，实为传销组织</data>
+        <data key="time">2017-05-15</data>
+        <data key="person">[李文星, 薛婷婷]</data>
+        <data key="location">[山东, 北京]</data>
+        <data key="organization">[人事部]</data>
+        <data key="keywords">[报道, 德州籍, 求职, 青年, 互联网, 招聘, 平台, 直聘, 收到, 自称, 科蓝, 回复, 公司, 冒名, 传销, 组织]</data>
+      </node>
+      <node id="{打击}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现-李文星}, {打击}]</data>
+        <data key="title">静海警方确认，2017年7月14日李文星被发现死亡之前，确有对传销的打击行动</data>
+        <data key="time">2017-07-14</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[静海]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[警方, 确认, 发现, 死亡, 传销, 打击]</data>
+      </node>
+      <node id="{收到-通知}_e" labels=":EVENTNODE">
+        <data key="trigger">[{收到-通知}]</data>
+        <data key="title">5月19日，李文星收到入职通知</data>
+        <data key="time">2017-05-19</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[收到, 入职, 通知]</data>
+      </node>
+      <node id="{审核-资料}_e" labels=":EVENTNODE">
+        <data key="trigger">[{注册}, {审核-资料}]</data>
+        <data key="title">8月3日凌晨12点多，记者以化名“李小冰”注册BOSS直聘成为深圳某知名互联网公司人力资源总监，并发布工作地点位于四川成都的“产品经理”一职，中间一路秒过，没有任何资料审核要求</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[李小冰]</data>
+        <data key="location">[四川成都, 深圳]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[记者, 化名, 注册, 直聘, 互联网, 公司, 人力, 资源, 总监, 发布, 工作, 地点, 位于, 四川, 成都, 产品, 经理, 资料, 审核]</data>
+      </node>
+      <node id="{拨打}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现}, {拨打}, {停机}]</data>
+        <data key="title">8月2日，新京报(微信号：bjnews_xjb)记者拨打时发现，该电话已停机</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[新京报, 微信号, 记者, 拨打, 发现, 电话, 停机]</data>
+      </node>
+      <node id="{公布-细则}_e" labels=":EVENTNODE">
+        <data key="trigger">[{公布-细则}]</data>
+        <data key="title">国家互联网信息办公室5月22日公布《互联网新闻信息服务许可管理实施细则》（以下简称“细则”），自2017年6月1日起施行</data>
+        <data key="time">2017-06-01</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[国家互联网信息办公室]</data>
+        <data key="keywords">[国家, 互联网, 信息, 办公室, 公布, 新闻, 服务, 许可, 管理, 实施, 细则, 简称, 施行]</data>
+      </node>
+      <node id="{通报-情况}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通报-情况}]</data>
+        <data key="title">　　7月14日当晚，民警联系到李文星家属，通报了相关情况，次日李文星家属对尸体进行了辨认，对其死因提出质疑</data>
+        <data key="time">2017-07-14</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[民警, 家属, 通报, 相关, 情况, 尸体, 辨认, 死因, 提出, 质疑]</data>
+      </node>
+      <node id="{溺亡}_e" labels=":EVENTNODE">
+        <data key="trigger">[{溺亡}, {收到-定位}]</data>
+        <data key="title">水坑里溺亡5月20日下午14:41，于爽在微信上收到了李文星发来的一个定位，位置信息显示为静海火车站附近的一家商业广场</data>
+        <data key="time">2017-05-20</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[静海火车站]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[水坑, 溺亡, 微信, 收到, 定位, 位置, 信息, 显示, 静海, 火车站, 商业, 广场]</data>
+      </node>
+      <node id="{发现-男尸}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现-男尸}]</data>
+        <data key="title">2017年7月14日，在天津静海区G104国道旁的一个水池中，有人发现了一具男尸</data>
+        <data key="time">2017-07-14</data>
+        <data key="person">[]</data>
+        <data key="location">[天津静海区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[天津, 静海区, 国道, 水池, 发现, 男尸]</data>
+      </node>
+      <node id="{实施-办法}_e" labels=":EVENTNODE">
+        <data key="trigger">[{实施-办法}]</data>
+        <data key="title">深圳市10月1日起实施《深圳市事业单位常设岗位工作人员招聘办法》</data>
+        <data key="time">2017-10-01</data>
+        <data key="person">[]</data>
+        <data key="location">[深圳市]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[实施, 事业, 单位, 岗位, 工作, 人员, 招聘, 办法]</data>
+      </node>
+      <node id="{投递-简历}_e" labels=":EVENTNODE">
+        <data key="trigger">[{投递-简历}]</data>
+        <data key="title">今年5月15日，李文星完成学习，并开始在互联网招聘平台BOSS直聘平台，向Java岗位投递简历</data>
+        <data key="time">2017-05-15</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[学习, 互联网, 招聘, 平台, 直聘, 岗位, 投递, 简历]</data>
+      </node>
+      <node id="{收到-简历}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现-发布}, {收到-简历}]</data>
+        <data key="title">8月2日晚，记者登录boss直聘软件，发现招聘信息仍能随意发布，无需认证公司即能收到数百封简历</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[记者, 登录, 直聘, 软件, 发现, 招聘, 信息, 发布, 无需, 认证, 公司, 收到, 简历]</data>
+      </node>
+      <node id="{收到-邮件}_e" labels=":EVENTNODE">
+        <data key="trigger">[{收到-邮件}, {聘用-李文星}]</data>
+        <data key="title">5月19日下午，李文星收到了“北京科蓝软件系统有限公司入职聘用书”邮件，李文星被聘用为Java开发工程师，试用期一个月，基本月薪5000，入职地点为天津市滨海高新区软件园，报到起止时间均为5月20日</data>
+        <data key="time">2017-05-20</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[天津市]</data>
+        <data key="organization">[北京科蓝软件系统有限公司]</data>
+        <data key="keywords">[收到, 北京, 科蓝, 软件, 系统, 有限公司, 入职, 聘用, 邮件, 开发, 工程师, 月薪, 地点, 滨海, 高新区, 软件园, 报到, 起止, 时间]</data>
+      </node>
+      <node id="{钓鱼}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发文-回应}, {透露}, {钓鱼}, {公开}, {招聘-秘密}]</data>
+        <data key="title">8月3日，南方都市报发文《BOSS直聘最新回应“李文星之死”：审核机制“存在很大问题”》称，据知情人士透露，目前类似发布虚假职位钓鱼的情况，已经是招聘网站公开的秘密</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[南方, 都市, 发文, 直聘, 回应, 审核, 机制, 知情, 人士, 透露, 发布, 职位, 钓鱼, 情况, 招聘, 网站, 公开, 秘密]</data>
+      </node>
+      <node id="{招聘-李文星}_e" labels=":EVENTNODE">
+        <data key="trigger">[{招聘-李文星}, {发现-尸体}]</data>
+        <data key="title">　　据新京报此前报道，今年5月20日，东北大学毕业生李文星在BOSS直聘平台被“李鬼公司”招聘前往天津入职，7月14日，其尸体在天津静海区一处水坑被发现</data>
+        <data key="time">2017-07-14</data>
+        <data key="person">[李鬼, 李文星]</data>
+        <data key="location">[天津静海区, 天津]</data>
+        <data key="organization">[东北大学]</data>
+        <data key="keywords">[新京报, 报道, 东北, 大学, 毕业生, 直聘, 平台, 公司, 招聘, 前往, 入职, 尸体, 静海区, 水坑, 发现]</data>
+      </node>
+      <node id="{传销}_e" labels=":EVENTNODE">
+        <data key="trigger">[{打击-取缔}, {传销}]</data>
+        <data key="title">8月6日，天津迅速开展一场打击取缔非法传销的专项行动，决战20天，彻底清除全市非法传销活动</data>
+        <data key="time">2017-08-06</data>
+        <data key="person">[]</data>
+        <data key="location">[天津]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[打击, 取缔, 传销, 决战, 清除, 全市, 活动]</data>
+      </node>
+      <node id="{通知-前往}_e" labels=":EVENTNODE">
+        <data key="trigger">[{通知-前往}]</data>
+        <data key="title">到了5月15日，“北京科蓝”人事部的薛婷婷在BOSS直聘上给了李文星回复，经过初审、电话面试后，对方通过昵称为“五杀乐队”的QQ邮箱给李文星发来了offer，通知其前往天津入职</data>
+        <data key="time">2017-05-15</data>
+        <data key="person">[李文星, 薛婷婷]</data>
+        <data key="location">[天津, 北京]</data>
+        <data key="organization">[人事部]</data>
+        <data key="keywords">[科蓝, 直聘, 回复, 初审, 电话, 面试, 称为, 乐队, 邮箱, 通知, 前往, 入职]</data>
+      </node>
+      <node id="{采访}_e" labels=":EVENTNODE">
+        <data key="trigger">[{采访}]</data>
+        <data key="title">对于该事件，BOSS直聘CEO赵鹏于8月3日凌晨接受南都记者采访时发布最新回应表示：</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[赵鹏]</data>
+        <data key="location">[南都]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[事件, 直聘, 接受, 记者, 采访, 发布, 回应]</data>
+      </node>
+      <node id="{奖励-人民币}_e" labels=":EVENTNODE">
+        <data key="trigger">[{举报-传销}, {举报-窝点}, {奖励-人民币}]</data>
+        <data key="title">    同时，8月6日，静海区发布《静海区举报非法传销的奖励办法》，对于举报非法传销组织及其藏匿的传销窝点，经查实摧毁的，一次性奖励举报人2万元人民币</data>
+        <data key="time">2017-08-06</data>
+        <data key="person">[]</data>
+        <data key="location">[静海区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[发布, 举报, 传销, 奖励, 办法, 组织, 藏匿, 窝点, 查实, 摧毁, 举报人, 人民币]</data>
+      </node>
+      <node id="{工作}_e" labels=":EVENTNODE">
+        <data key="trigger">[{工作}, {逝去}]</data>
+        <data key="title">你我虽素未相识，我也并非此次事件的当事人，但我作为前Boss直聘华东市场公关经理，今天（虎嗅注：指的是8月2日）看到本该被我曾经工作的平台所保护的孩子却为了找工作而丢掉了性命，迫使我冒着得罪老东家的危险也要从良知的角度向公众说明一些事实与真相，希望能以此能告慰您儿子逝去的生命，让在天之灵得以安息</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[]</data>
+        <data key="location">[华东]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[相识, 事件, 当事人, 直聘, 市场, 公关, 经理, 嗅注, 工作, 平台, 保护, 孩子, 丢掉, 性命, 迫使, 得罪, 东家, 良知, 角度, 公众, 事实, 真相, 希望, 告慰, 儿子, 逝去, 生命, 得以, 安息]</data>
+      </node>
+      <node id="{招聘-秘密}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发文-回应}, {透露}, {钓鱼}, {公开}, {招聘-秘密}]</data>
+        <data key="title">8月3日，南方都市报发文《BOSS直聘最新回应“李文星之死”：审核机制“存在很大问题”》称，据知情人士透露，目前类似发布虚假职位钓鱼的情况，已经是招聘网站公开的秘密</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[南方, 都市, 发文, 直聘, 回应, 审核, 机制, 知情, 人士, 透露, 发布, 职位, 钓鱼, 情况, 招聘, 网站, 公开, 秘密]</data>
+      </node>
+      <node id="{现身}_e" labels=":EVENTNODE">
+        <data key="trigger">[{现身}]</data>
+        <data key="title">继6月30日，国办发文明确下一步重点任务分工方案后，8月1日下午，北京市“放管服”改革重点任务分工方案终于现身……</data>
+        <data key="time">2017-06-30</data>
+        <data key="person">[]</data>
+        <data key="location">[北京市]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[国办, 发文, 重点, 分工, 方案, 放管服, 改革, 现身]</data>
+      </node>
+      <node id="{收到-科蓝}_e" labels=":EVENTNODE">
+        <data key="trigger">[{收到-科蓝}]</data>
+        <data key="title">5月19日，李文星收到了北京科蓝的Offer，发自于一个昵称为“五杀乐队”的QQ邮箱</data>
+        <data key="time">2017-05-19</data>
+        <data key="person">[科蓝, 李文星]</data>
+        <data key="location">[北京]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[收到, 发自, 称为, 乐队, 邮箱]</data>
+      </node>
+      <node id="{发现-笔记}_e" labels=":EVENTNODE">
+        <data key="trigger">[{回访-尸体}, {发现-笔记}]</data>
+        <data key="title">8月3日，新京报记者回访李文星尸体被发现的现场，该事发地紧邻马路，深坑水深超一米，在现场附近的深沟里，发现大量“传销笔记”</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[新京报, 记者, 回访, 尸体, 发现, 现场, 事发, 紧邻, 马路, 传销, 笔记]</data>
+      </node>
+      <node id="{联合}_e" labels=":EVENTNODE">
+        <data key="trigger">[{联合}, {拥护-联合}]</data>
+        <data key="title">   8月10日，BOSS直聘在其官方微博就“李文星事件”发布道歉信，称任何语言也无法说出我们内心的悲伤和后悔，并表示坚决拥护北京市网信办和天津市网信办对我们开展的依法联合约谈，坚决落实整改要求</data>
+        <data key="time">2017-08-10</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[天津市网信办, 北京市网信办]</data>
+        <data key="keywords">[直聘, 官方, 微博, 事件, 发布, 道歉信, 语言, 内心, 后悔, 拥护, 北京市, 网信办, 天津市, 联合, 落实, 整改]</data>
+      </node>
+      <node id="{发现-尸体}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现-尸体}]</data>
+        <data key="title">7月14日，李文星尸体在天津静海区被发现</data>
+        <data key="time">2017-07-14</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[天津静海区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[尸体, 天津, 静海区, 发现]</data>
+      </node>
+      <node id="{发现-死尸}_e" labels=":EVENTNODE">
+        <data key="trigger">[{报警}, {发现-死尸}]</data>
+        <data key="title">据天津市静海区公安分局提供给中国青年报·中青在线记者的“关于李文星非正常死亡警情的说明”，7月14日18时55分，静海区城关派出所接到群众报警称，在静海西外环与北外环交口沟内发现一具死尸</data>
+        <data key="time">2017-07-14</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[北外环, 中国]</data>
+        <data key="organization">[静海区城关派出所, 天津市静海区公安分局, 静海西外环]</data>
+        <data key="keywords">[天津市, 静海区, 公安, 分局, 提供, 青年, 在线, 记者, 死亡, 警情, 城关, 派出所, 接到, 群众, 报警, 静海西, 外环, 交口沟, 发现, 死尸]</data>
+      </node>
+      <node id="{招聘-设计师}_e" labels=":EVENTNODE">
+        <data key="trigger">[{注册}, {虚构-全称}, {招聘-设计师}]</data>
+        <data key="title">8月2日，帮主以手机号注册BOSS直聘，在填写个人姓名，虚构公司全称、简称以及职务后，随即成功发布了一条招聘“视觉设计师”的虚假广告</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[帮主, 手机, 注册, 直聘, 填写, 姓名, 虚构, 公司, 全称, 简称, 职务, 发布, 招聘, 视觉, 设计师, 广告]</data>
+      </node>
+      <node id="{发现}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发现}]</data>
+        <data key="title">8月2日晚10时许，中国青年报·中青在线记者从天津市静海区公安分局了解到，在静海西外环与北外环交口沟内发现的那具死尸，确认为李文星</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[北外环, 中国]</data>
+        <data key="organization">[天津市静海区公安分局, 静海西外环]</data>
+        <data key="keywords">[青年, 在线, 记者, 天津市, 静海区, 公安, 分局, 静海西, 外环, 交口沟, 发现, 死尸, 确认]</data>
+      </node>
+      <node id="{发文}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发文}, {抓获-人员}, {缴获}]</data>
+        <data key="title">7月10日，天津警方官微“平安天津”发文称：经过连续数月缜密侦查，一举抓获静海“蝶蓓蕾”传销组织高层人员7名、传销骨干人员25名，缴获、冻结赃款100余万元</data>
+        <data key="time">2017-07-10</data>
+        <data key="person">[]</data>
+        <data key="location">[天津, 静海]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[警方, 官微, 发文, 侦查, 抓获, 蝶蓓蕾, 传销, 组织, 高层, 人员, 骨干, 缴获, 冻结, 赃款]</data>
+      </node>
+      <node id="{征求-意见}_e" labels=":EVENTNODE">
+        <data key="trigger">[{征求-意见}, {征求-意见}]</data>
+        <data key="title">昨日，《关键信息基础设施安全保护条例（征求意见稿）》正式向社会公众公开征求意见，有关单位和各界人士可以在2017年8月10日前，通过信函、电子邮件两种方式提出意见</data>
+        <data key="time">2017-08-10</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[关键, 信息, 基础, 设施, 保护, 条例, 征求, 意见, 社会, 公众, 单位, 人士, 信函, 电子, 邮件, 方式, 提出]</data>
+      </node>
+      <node id="{悼念-图文}_e" labels=":EVENTNODE">
+        <data key="trigger">[{悼念-图文}]</data>
+        <data key="title">8月2日，李文星的龙凤胎妹妹李文月，在“有道云笔记”平台发布悼念图文，题为“如果有来生我们还做兄妹”，以妹妹口吻，回忆兄妹间往事</data>
+        <data key="time">2017-08-02</data>
+        <data key="person">[李文星, 李文月]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[龙凤胎, 妹妹, 笔记, 平台, 发布, 悼念, 图文, 兄妹, 口吻, 回忆, 往事]</data>
+      </node>
+      <node id="{缴获}_e" labels=":EVENTNODE">
+        <data key="trigger">[{发文}, {抓获-人员}, {缴获}]</data>
+        <data key="title">7月10日，天津警方官微“平安天津”发文称：经过连续数月缜密侦查，一举抓获静海“蝶蓓蕾”传销组织高层人员7名、传销骨干人员25名，缴获、冻结赃款100余万元</data>
+        <data key="time">2017-07-10</data>
+        <data key="person">[]</data>
+        <data key="location">[天津, 静海]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[警方, 官微, 发文, 侦查, 抓获, 蝶蓓蕾, 传销, 组织, 高层, 人员, 骨干, 缴获, 冻结, 赃款]</data>
+      </node>
+      <node id="{侦办-案件}_e" labels=":EVENTNODE">
+        <data key="trigger">[{侦办-案件}]</data>
+        <data key="title">8月3日，天津市公安局工作人员回应称，警方依法开展的相关工作正在紧张进行中，案件侦办方面如有进展，将及时通报</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[天津市公安局]</data>
+        <data key="keywords">[天津市, 公安局, 工作, 人员, 回应, 警方, 相关, 案件, 侦办, 进展, 通报]</data>
+      </node>
+      <node id="{审核-信息}_e" labels=":EVENTNODE">
+        <data key="trigger">[{审核-信息}]</data>
+        <data key="title">8月3日凌晨，BOSS直聘CEO赵鹏回应称，平台承认招聘信息审核机制存在很大的问题，将即时对招聘者执行事先审核认证的流程</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[赵鹏]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[直聘, 回应, 平台, 承认, 招聘, 信息, 审核, 机制, 招聘者, 执行, 认证, 流程]</data>
+      </node>
+      <node id="{拥护-联合}_e" labels=":EVENTNODE">
+        <data key="trigger">[{联合}, {拥护-联合}]</data>
+        <data key="title">   8月10日，BOSS直聘在其官方微博就“李文星事件”发布道歉信，称任何语言也无法说出我们内心的悲伤和后悔，并表示坚决拥护北京市网信办和天津市网信办对我们开展的依法联合约谈，坚决落实整改要求</data>
+        <data key="time">2017-08-10</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[]</data>
+        <data key="organization">[天津市网信办, 北京市网信办]</data>
+        <data key="keywords">[直聘, 官方, 微博, 事件, 发布, 道歉信, 语言, 内心, 后悔, 拥护, 北京市, 网信办, 天津市, 联合, 落实, 整改]</data>
+      </node>
+      <node id="{刑拘}_e" labels=":EVENTNODE">
+        <data key="trigger">[{刑拘}, {曝光-消息}, {调查}, {诱骗-李文星}]</data>
+        <data key="title">李文星被骗入传销溺亡案5人被刑拘细节曝光北方网8月6日消息，8月6日，“津云”—前沿新闻记者从静海区获悉，经过警方全力调查取证，目前已基本查明李文星被诱骗进入传销组织的经过</data>
+        <data key="time">2017-08-06</data>
+        <data key="person">[李文星]</data>
+        <data key="location">[静海区]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[传销, 溺亡, 刑拘, 细节, 曝光, 北方, 消息, 津云, 前沿, 新闻记者, 获悉, 警方, 调查, 取证, 查明, 诱骗, 组织]</data>
+      </node>
+      <node id="{相处}_e" labels=":EVENTNODE">
+        <data key="trigger">[{相处}]</data>
+        <data key="title">　　8月3日凌晨，李文星在北京求职期间的室友陈栋（化名）向澎湃新闻回忆起和李文星相处时的一些细节，称性格内向且倔強的李文星像活在象牙塔里，在通过互联网招聘平台BOSS直聘找到工作后，也曾怀疑过这份工作和传销有关</data>
+        <data key="time">2017-08-03</data>
+        <data key="person">[陈栋, 李文星]</data>
+        <data key="location">[北京]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[求职, 室友, 化名, 澎湃, 新闻, 回忆, 相处, 细节, 性格, 象牙塔, 互联网, 招聘, 平台, 直聘, 找到, 工作, 怀疑, 传销]</data>
+      </node>
+      <node id="{应聘-职位}_e" labels=":EVENTNODE">
+        <data key="trigger">[{应聘-职位}]</data>
+        <data key="title">去年12月9日，他通过“boss直聘”应聘了“百利应科技有限公司”的技术职位，随后被以面试为由骗至天津静海县大口子门村的传销窝点，失去人身自由11天，累计金钱损失将近3万</data>
+        <data key="time">2017-12-09</data>
+        <data key="person">[]</data>
+        <data key="location">[天津静海县大口子门村]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[直聘, 应聘, 科技, 有限公司, 技术, 职位, 面试, 为由, 天津, 静海县, 大口子门村, 传销, 窝点, 人身, 累计, 金钱, 损失]</data>
+      </node>
+      <node id="{聘用-通知}_e" labels=":EVENTNODE">
+        <data key="trigger">[{收到}, {聘用-通知}]</data>
+        <data key="title">5月19日，收到offer（聘用通知）</data>
+        <data key="time">2017-05-19</data>
+        <data key="person">[]</data>
+        <data key="location">[]</data>
+        <data key="organization">[]</data>
+        <data key="keywords">[收到, 聘用, 通知]</data>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="e0" source="{通报-情况}" target="{发现-李文星}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e1" source="{拥护-联合}" target="{承担-责任}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e2" source="{发现-尸体}" target="{注册}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e3" source="{发现-尸体}" target="{招聘-李文星}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e4" source="{火化}" target="{平摊-李文星}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e5" source="{责令-整改}" target="{实施-办法}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e6" source="{见面}" target="{发现-虚构}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e7" source="{发现-尸体}" target="{调查-案件}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e8" source="{遭遇-招聘}" target="{审核-机器}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e9" source="{招聘-李文星}" target="{通报}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e10" source="{发现}" target="{失控}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e11" source="{招聘-李文星}" target="{发现-尸体}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e12" source="{借款}" target="{报警}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e13" source="{聘用}" target="{聘用-李文星}" label="NEXTEVENT weight:9">
+        <data key="weight">9</data>
+      </edge>
+      <edge id="e14" source="{通报-情况}" target="{见面}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e15" source="{殒命}" target="{身陷-殒命}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e16" source="{发现-殒命}" target="{发现-尸体}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e17" source="{通报-情况}" target="{招聘-信息}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e18" source="{发现-尸体}" target="{通知-辨认}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e19" source="{发现-尸体}" target="{发文-吊念}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e20" source="{发现-发布}" target="{收到-简历}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e21" source="{收到-微信}" target="{发文}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e22" source="{审核-机器}" target="{排查}" label="NEXTEVENT weight:13">
+        <data key="weight">13</data>
+      </edge>
+      <edge id="e23" source="{应聘-企业}" target="{遭遇-骗局}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e24" source="{钓鱼}" target="{公开}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e25" source="{发现-遗体}" target="{审核-招聘者}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e26" source="{溺亡}" target="{致死}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e27" source="{刊登-声明}" target="{刊登}" label="NEXTEVENT weight:6">
+        <data key="weight">6</data>
+      </edge>
+      <edge id="e28" source="{打捞-尸体}" target="{火化}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e29" source="{投递-简历}" target="{通知-报到}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e30" source="{发现}" target="{发表-调查}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e31" source="{聘用-通知}" target="{发现-尸体}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e32" source="{发现-尸体}" target="{报警}" label="NEXTEVENT weight:5">
+        <data key="weight">5</data>
+      </edge>
+      <edge id="e33" source="{传销}" target="{诱骗-李文星}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e34" source="{举报-机制}" target="{传销-陷阱}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e35" source="{诱骗}" target="{举报-传销}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e36" source="{火化}" target="{见面}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e37" source="{发现-遗体}" target="{透露}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e38" source="{聘用}" target="{发现-遗体}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e39" source="{发现-尸体}" target="{发现-外环}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e40" source="{收到-科蓝}" target="{发现-死尸}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e41" source="{火化}" target="{携带}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e42" source="{解救}" target="{火化-處理}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e43" source="{收到-录用}" target="{发现-尸体}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e44" source="{打捞-尸体}" target="{离世}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e45" source="{聘用-李文星}" target="{入职-公司}" label="NEXTEVENT weight:9">
+        <data key="weight">9</data>
+      </edge>
+      <edge id="e46" source="{求职}" target="{火化}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e47" source="{注册}" target="{应聘-职位}" label="NEXTEVENT weight:8">
+        <data key="weight">8</data>
+      </edge>
+      <edge id="e48" source="{推送-短信}" target="{修改-流程}" label="NEXTEVENT weight:13">
+        <data key="weight">13</data>
+      </edge>
+      <edge id="e49" source="{发现-窝点}" target="{审核-机器}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e50" source="{虚构}" target="{注册}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e51" source="{承担-法律}" target="{整改-平台}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e52" source="{致电-公司}" target="{取消-资格}" label="NEXTEVENT weight:5">
+        <data key="weight">5</data>
+      </edge>
+      <edge id="e53" source="{死亡}" target="{发现}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e54" source="{举报-窝点}" target="{奖励-人民币}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e55" source="{死亡}" target="{转发}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e56" source="{遭遇-骗局}" target="{身亡}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e57" source="{打捞-尸体}" target="{报警}" label="NEXTEVENT weight:7">
+        <data key="weight">7</data>
+      </edge>
+      <edge id="e58" source="{冒充}" target="{审核-流程}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e59" source="{发现}" target="{致电-公司}" label="NEXTEVENT weight:4">
+        <data key="weight">4</data>
+      </edge>
+      <edge id="e60" source="{审核-平台}" target="{责令-整改}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e61" source="{缴获}" target="{通报}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e62" source="{公布-细则}" target="{遭遇-招聘}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e63" source="{投递-简历}" target="{收到-聘用}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e64" source="{火化}" target="{辨认}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e65" source="{收到-意向}" target="{见面}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e66" source="{抓获-人员}" target="{缴获}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e67" source="{通知-入职}" target="{聘用}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e68" source="{收到-通知}" target="{收到-邮件}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e69" source="{逃避-打击}" target="{求职}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e70" source="{应聘}" target="{招聘-信息}" label="NEXTEVENT weight:6">
+        <data key="weight">6</data>
+      </edge>
+      <edge id="e71" source="{发现-死尸}" target="{死亡}" label="NEXTEVENT weight:4">
+        <data key="weight">4</data>
+      </edge>
+      <edge id="e72" source="{发现-尸体}" target="{核查}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e73" source="{通知}" target="{火化}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e74" source="{发现-尸体}" target="{曝光-事件}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e75" source="{辨认}" target="{发现}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e76" source="{发现}" target="{冒充}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e77" source="{注册}" target="{审核-资料}" label="NEXTEVENT weight:7">
+        <data key="weight">7</data>
+      </edge>
+      <edge id="e78" source="{诱骗}" target="{发现-遗体}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e79" source="{审核-资料}" target="{审核}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e80" source="{举报-机制}" target="{发表-道歉信}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e81" source="{招聘-机制}" target="{发文-回应}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e82" source="{辞职}" target="{通话}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e83" source="{发现}" target="{责令-整改}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e84" source="{借款}" target="{发现-遗体}" label="NEXTEVENT weight:9">
+        <data key="weight">9</data>
+      </edge>
+      <edge id="e85" source="{涉嫌-培训费}" target="{培训-贷款}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e86" source="{发表-道歉信}" target="{招聘-伤害}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e87" source="{发现-尸体}" target="{发现}" label="NEXTEVENT weight:6">
+        <data key="weight">6</data>
+      </edge>
+      <edge id="e88" source="{遭遇}" target="{致电-公司}" label="NEXTEVENT weight:6">
+        <data key="weight">6</data>
+      </edge>
+      <edge id="e89" source="{发现-尸体}" target="{责令-整改}" label="NEXTEVENT weight:9">
+        <data key="weight">9</data>
+      </edge>
+      <edge id="e90" source="{招聘-秘密}" target="{审核-平台}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e91" source="{招聘-设计师}" target="{注册}" label="NEXTEVENT weight:8">
+        <data key="weight">8</data>
+      </edge>
+      <edge id="e92" source="{招聘-网站}" target="{责令-整改}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e93" source="{抓获-人员}" target="{发现-李文星}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e94" source="{见面}" target="{遭遇-骗局}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e95" source="{诱骗}" target="{发现-男尸}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e96" source="{招聘-信息}" target="{发现}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e97" source="{责令-整改}" target="{致电-公司}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e98" source="{传销-陷阱}" target="{承担-责任}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e99" source="{审核-信息}" target="{招聘-机制}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e100" source="{发现-尸体}" target="{遭遇-骗局}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e101" source="{发现}" target="{发现-事件}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e102" source="{审核-机器}" target="{推送-短信}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e103" source="{举报-传销}" target="{举报-组织}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e104" source="{培训-贷款}" target="{冒充}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e105" source="{发现-死尸}" target="{调查}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e106" source="{虚构-名字}" target="{虚构}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e107" source="{透露}" target="{发现-尸体}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e108" source="{悼念-李文星}" target="{注册}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e109" source="{溺亡}" target="{收到-定位}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e110" source="{诱骗}" target="{透露-接到}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e111" source="{辨认}" target="{悼念-图文}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e112" source="{打捞-尸体}" target="{发现-尸体}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e113" source="{发现-事件}" target="{聚集-一带}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e114" source="{发现-遗体}" target="{打捞-尸体}" label="NEXTEVENT weight:8">
+        <data key="weight">8</data>
+      </edge>
+      <edge id="e115" source="{举报-机制}" target="{承担-责任}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e116" source="{举报-传销}" target="{举报-窝点}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e117" source="{投诉-遭遇}" target="{涉嫌-培训费}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e118" source="{转发}" target="{发现}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e119" source="{发现-外环}" target="{侦办-案件}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e120" source="{发现}" target="{悼念-李文星}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e121" source="{诱骗}" target="{发现-窝点}" label="NEXTEVENT weight:5">
+        <data key="weight">5</data>
+      </edge>
+      <edge id="e122" source="{调查}" target="{诱骗-李文星}" label="NEXTEVENT weight:18">
+        <data key="weight">18</data>
+      </edge>
+      <edge id="e123" source="{采访}" target="{审核-信息}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e124" source="{发现-窝点}" target="{抓获-涉案人员}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e125" source="{责令-整改}" target="{修改-流程}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e126" source="{收到-定位}" target="{动身}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e127" source="{诱骗-李文星}" target="{抓获-嫌疑人}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e128" source="{举报-机制}" target="{遭遇-诈骗}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e129" source="{殒命}" target="{排查}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e130" source="{排查}" target="{审核-机器}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e131" source="{打击}" target="{通报-遣散}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e132" source="{见面}" target="{遭遇-公司}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e133" source="{火化}" target="{发现}" label="NEXTEVENT weight:4">
+        <data key="weight">4</data>
+      </edge>
+      <edge id="e134" source="{刊登}" target="{下架}" label="NEXTEVENT weight:6">
+        <data key="weight">6</data>
+      </edge>
+      <edge id="e135" source="{遭遇-招聘}" target="{发现-尸体}" label="NEXTEVENT weight:14">
+        <data key="weight">14</data>
+      </edge>
+      <edge id="e136" source="{携带}" target="{辨认}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e137" source="{求助}" target="{收到-微信}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e138" source="{发现-尸体}" target="{火化}" label="NEXTEVENT weight:5">
+        <data key="weight">5</data>
+      </edge>
+      <edge id="e139" source="{遭遇-骗局}" target="{发现-窝点}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e140" source="{收到}" target="{发现-遗体}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e141" source="{排查}" target="{推送-短讯}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e142" source="{见面}" target="{发现}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e143" source="{求职}" target="{发现-尸体}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e144" source="{发现-虚构}" target="{虚构-名字}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e145" source="{工作}" target="{逝去}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e146" source="{通报}" target="{调查}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e147" source="{殒命}" target="{审核-机器}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e148" source="{遭遇-骗局}" target="{采访}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e149" source="{透露}" target="{求职}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e150" source="{投递-简历}" target="{求职}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e151" source="{收到-聘用}" target="{报警}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e152" source="{聚集-一带}" target="{探访}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e153" source="{聘发-简历}" target="{通知-入职}" label="NEXTEVENT weight:8">
+        <data key="weight">8</data>
+      </edge>
+      <edge id="e154" source="{发现-发布}" target="{招聘-信息}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e155" source="{收到-聘用}" target="{收到-信息}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e156" source="{发现-尸体}" target="{通报-情况}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e157" source="{发文-吊念}" target="{发酵}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e158" source="{发现-尸体}" target="{发现-物品}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e159" source="{招聘-信息}" target="{冒充}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e160" source="{采访}" target="{注册}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e161" source="{回访-尸体}" target="{发现-笔记}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e162" source="{报警}" target="{发现-尸体}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e163" source="{修改-流程}" target="{举报-机制}" label="NEXTEVENT weight:16">
+        <data key="weight">16</data>
+      </edge>
+      <edge id="e164" source="{承担-责任}" target="{引爆-舆论}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e165" source="{现身}" target="{通报}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e166" source="{排查}" target="{推送-短信}" label="NEXTEVENT weight:13">
+        <data key="weight">13</data>
+      </edge>
+      <edge id="e167" source="{发现-身亡}" target="{失联}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e168" source="{收到-聘用}" target="{打捞-尸体}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e169" source="{致死}" target="{发现-尸体}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e170" source="{责令-整改}" target="{征求-意见}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e171" source="{发现-尸体}" target="{打捞-尸体}" label="NEXTEVENT weight:6">
+        <data key="weight">6</data>
+      </edge>
+      <edge id="e172" source="{发现-尸体}" target="{收到-意向}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e173" source="{报警}" target="{发现-死尸}" label="NEXTEVENT weight:32">
+        <data key="weight">32</data>
+      </edge>
+      <edge id="e174" source="{发现-尸体}" target="{殴打-何林坤}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e175" source="{诱骗}" target="{调查}" label="NEXTEVENT weight:18">
+        <data key="weight">18</data>
+      </edge>
+      <edge id="e176" source="{悼念-李文星}" target="{遭遇-骗局}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e177" source="{虚构-全称}" target="{招聘-设计师}" label="NEXTEVENT weight:8">
+        <data key="weight">8</data>
+      </edge>
+      <edge id="e178" source="{承担-责任}" target="{联合}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e179" source="{发现}" target="{调查}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e180" source="{投递-简历}" target="{透露}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e181" source="{招聘-信息}" target="{核实}" label="NEXTEVENT weight:5">
+        <data key="weight">5</data>
+      </edge>
+      <edge id="e182" source="{聘发-简历}" target="{聘用}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e183" source="{收到-职位}" target="{发现-尸体}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e184" source="{联合}" target="{拥护-联合}" label="NEXTEVENT weight:5">
+        <data key="weight">5</data>
+      </edge>
+      <edge id="e185" source="{溺亡}" target="{打击}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e186" source="{解救-人員}" target="{解救}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e187" source="{发现-死尸}" target="{火化}" label="NEXTEVENT weight:5">
+        <data key="weight">5</data>
+      </edge>
+      <edge id="e188" source="{调查}" target="{打击-取缔}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e189" source="{殴打-何林坤}" target="{透露}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e190" source="{发现-窝点}" target="{殒命-水塘}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e191" source="{通知-前往}" target="{发现-尸体}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e192" source="{发现}" target="{拨打}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e193" source="{收到-信息}" target="{发现-尸体}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e194" source="{遭遇-诈骗}" target="{发表-道歉信}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e195" source="{损害-权益}" target="{招聘-网站}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e196" source="{责令-整改}" target="{承担-责任}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e197" source="{奖励-人民币}" target="{诱骗-李文星}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e198" source="{致歉}" target="{承担-责任}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e199" source="{发酵}" target="{遭遇-骗局}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e200" source="{解救-人员}" target="{解救}" label="NEXTEVENT weight:4">
+        <data key="weight">4</data>
+      </edge>
+      <edge id="e201" source="{面试-李文星}" target="{溺亡}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e202" source="{发现-李文星}" target="{打击}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e203" source="{发现-尸体}" target="{回访-尸体}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e204" source="{动身}" target="{求助}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e205" source="{发现-尸体}" target="{见面}" label="NEXTEVENT weight:6">
+        <data key="weight">6</data>
+      </edge>
+      <edge id="e206" source="{通知-入职}" target="{借款}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e207" source="{举报-机制}" target="{联合}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e208" source="{注册-直聘}" target="{审核-资料}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e209" source="{发现-尸体}" target="{通知}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e210" source="{发文}" target="{抓获-人员}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e211" source="{担任-工程师}" target="{聘发-简历}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e212" source="{招聘-李文星}" target="{发现}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e213" source="{招聘-信息}" target="{举报}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e214" source="{审核-资料}" target="{致歉}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e215" source="{发现}" target="{注册}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e216" source="{通话}" target="{充值}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e217" source="{收到-聘用}" target="{发现-尸体}" label="NEXTEVENT weight:7">
+        <data key="weight">7</data>
+      </edge>
+      <edge id="e218" source="{离世}" target="{通知}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e219" source="{透露-接到}" target="{发现-尸体}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e220" source="{发文-回应}" target="{钓鱼}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e221" source="{发现-死尸}" target="{发现-尸体}" label="NEXTEVENT weight:10">
+        <data key="weight">10</data>
+      </edge>
+      <edge id="e222" source="{招聘-伤害}" target="{承担-法律}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e223" source="{聘用}" target="{辞职}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e224" source="{发现-外环}" target="{殒命}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e225" source="{诱骗}" target="{现身}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e226" source="{入职-公司}" target="{发现-遗体}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e227" source="{收到-邮件}" target="{聘用-李文星}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e228" source="{收到-录用}" target="{发现-发布}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e229" source="{侦办-案件}" target="{注册}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e230" source="{核查}" target="{招聘-信息}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e231" source="{发现-窝点}" target="{举报-传销}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e232" source="{面试-李文星}" target="{收到-聘用}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e233" source="{冒充}" target="{核实}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e234" source="{公开}" target="{招聘-秘密}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e235" source="{核实}" target="{刊登-声明}" label="NEXTEVENT weight:6">
+        <data key="weight">6</data>
+      </edge>
+      <edge id="e236" source="{拨打}" target="{停机}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e237" source="{失控}" target="{曝光}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e238" source="{诱骗-李文星}" target="{审核-职位}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e239" source="{入职}" target="{聘用}" label="NEXTEVENT weight:8">
+        <data key="weight">8</data>
+      </edge>
+      <edge id="e240" source="{打击-取缔}" target="{传销}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e241" source="{发现-死尸}" target="{回顾-事件}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e242" source="{身亡}" target="{审核-信息}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e243" source="{发现-线索}" target="{发现-尸体}" label="NEXTEVENT weight:4">
+        <data key="weight">4</data>
+      </edge>
+      <edge id="e244" source="{通报}" target="{刑拘-涉案人员}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e245" source="{遭遇-骗局}" target="{审核-机器}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e246" source="{收到}" target="{聘用-通知}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e247" source="{见面}" target="{悼念-李文星}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e248" source="{身陷-殒命}" target="{相处}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e249" source="{发现-尸体}" target="{损害-权益}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e250" source="{打捞-尸体}" target="{通知}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e251" source="{发现-遗体}" target="{发现-尸体}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e252" source="{曝光-消息}" target="{诱骗-李文星}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e253" source="{发现}" target="{阻止}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e254" source="{通报}" target="{火化}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e255" source="{通知-入职}" target="{入职}" label="NEXTEVENT weight:8">
+        <data key="weight">8</data>
+      </edge>
+      <edge id="e256" source="{刑拘}" target="{曝光-消息}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e257" source="{解救}" target="{发现-线索}" label="NEXTEVENT weight:4">
+        <data key="weight">4</data>
+      </edge>
+      <edge id="e258" source="{聘用}" target="{应聘}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e259" source="{通知}" target="{通报}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e260" source="{调查}" target="{发现-窝点}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e261" source="{发现-男尸}" target="{招聘-李文星}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e262" source="{发现-遗体}" target="{报警}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e263" source="{收到-科蓝}" target="{发现-尸体}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e264" source="{通报}" target="{发现}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e265" source="{发现-死尸}" target="{发现}" label="NEXTEVENT weight:11">
+        <data key="weight">11</data>
+      </edge>
+      <edge id="e266" source="{面试-李文星}" target="{发现-尸体}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e267" source="{抓获-涉案人员}" target="{核查-原因}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e268" source="{调查}" target="{刑拘}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e269" source="{推送-短讯}" target="{修改-流程}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e270" source="{招聘-信息}" target="{联合}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e271" source="{抓获-人员}" target="{通报-情况}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e272" source="{充值}" target="{火化}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e273" source="{透露}" target="{采访}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e274" source="{发现-尸体}" target="{遭遇}" label="NEXTEVENT weight:6">
+        <data key="weight">6</data>
+      </edge>
+      <edge id="e275" source="{通知-报到}" target="{发现-外环}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e276" source="{推送-短信}" target="{责令-整改}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e277" source="{应聘}" target="{遭遇-骗局}" label="NEXTEVENT weight:3">
+        <data key="weight">3</data>
+      </edge>
+      <edge id="e278" source="{刑拘-涉案人员}" target="{举报-传销}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e279" source="{落入}" target="{招聘-幌子}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e280" source="{诱骗}" target="{通报}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e281" source="{诱骗}" target="{发现-尸体}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e282" source="{打击}" target="{发现-尸体}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e283" source="{发现-尸体}" target="{调查}" label="NEXTEVENT weight:5">
+        <data key="weight">5</data>
+      </edge>
+      <edge id="e284" source="{发现-尸体}" target="{通知-赶到}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+      <edge id="e285" source="{投递-简历}" target="{报警}" label="NEXTEVENT weight:5">
+        <data key="weight">5</data>
+      </edge>
+      <edge id="e286" source="{入职-公司}" target="{借款}" label="NEXTEVENT weight:9">
+        <data key="weight">9</data>
+      </edge>
+      <edge id="e287" source="{面试}" target="{发现-尸体}" label="NEXTEVENT weight:2">
+        <data key="weight">2</data>
+      </edge>
+      <edge id="e288" source="{发现-尸体}" target="{发酵}" label="NEXTEVENT weight:1">
+        <data key="weight">1</data>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
