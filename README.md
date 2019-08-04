@@ -4,7 +4,7 @@ Generate an event graph from multiple texts on the same event topic.
 通过对同一话题事件不同新闻报道的分析，梳理事件内各子事件间的时序关系并以图谱的形式进行结构化表示。  
 其涉及技术包括事件抽取、实体抽取、{触发词-论元}抽取、事件关系构建等。　
 # 使用方式
-MainDeal: 后端文本处理相关, 生成事件图谱的xml文件。  
+MainDeal: XX.txt -> XX.xml 入口函数为BackMain.java。  
 Web: web->Graph.html  在搜索框中输入data文件夹中的文件名(不含.xml)得到相应的展示图。例如: 输入"李文星_Sample"则会读取"李文星_Sample.xml"中的数据并进行展示。
 　
 # 事件图谱举例
