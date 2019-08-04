@@ -1,0 +1,26 @@
+plugins {
+    id 'java'
+}
+
+group 'cn.boy56'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'log4j', name: 'log4j', version: '1.2.17'
+    compile group: 'org.dom4j', name: 'dom4j', version: '2.1.1'
+
+    compile  fileTree(dir:'lib/neo4j', include:['*.jar'])
+    compile  fileTree(dir:'lib/json', include:['*.jar'])
+    compile  fileTree(dir:'lib/word', include:['*.jar'])
+    compile  fileTree(dir:'lib/corenlp', include:['*.jar'])
+    compile  fileTree(dir:'lib/ltp', include:['*.jar'])
+    compile  fileTree(dir:'lib/hanlp', include:['*.jar'])
+
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
